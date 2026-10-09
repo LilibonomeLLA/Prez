@@ -79,6 +79,8 @@ Voici une grille native en Tailwind CSS :
 
 # 🚀 Démonstration Tailwind & Marp (bis)
 
+Voici une grille native en Tailwind CSS (V2) :
+
 <!-- ajustement des espaces et taille de police -->
 
 <div class="grille-fixe gap-6 mt-8 mx-auto">
@@ -394,22 +396,9 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 </div>
 
 ---
+# 🔥 Test de Diagrammes Mermaid
 
-# 📈 Test d'un Diagramme Mermaid (version 1)
-
-Voici l'enchaînement de vos validations :
-
-```mermaid
-graph LR
-    X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
-    Y -->|Vérification Style| Z[PDF avec Fonds OK]
-    
-    style X fill:#334155,stroke:#fff,color:#fff
-    style Y fill:#312e81,stroke:#fff,color:#fff
-    style Z fill:#064e3b,stroke:#fff,color:#fff
-```
----
-# 📈 Test d'un Diagramme Mermaid (version 2)
+## 📈 Exemple 1 : 
 
 <!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
 <!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe -->
@@ -422,3 +411,46 @@ graph LR
     style Y fill:#312e81,stroke:#fff,color:#fff
     style Z fill:#064e3b,stroke:#fff,color:#fff
 </pre>
+
+---
+
+## 🦜 Exemple 2 : Une Carte Mentale (Mind Map) avec Mermaid
+
+Idéale pour schématiser des sessions de remue-méninges (brainstorming) ou l'architecture d'un projet :
+
+<pre class="mermaid">
+mindmap
+  root((Prez Marp))
+    Configuration
+      GitHub Actions
+      GitHub Pages
+      Editeur Web
+    Design
+      Tailwind CSS
+      Bootstrap Icons
+      Themes Natifs
+    Contenu
+      Textes Markdown
+      Images img/
+      Schémas Mermaid
+</pre>
+
+---
+
+## 🐒 Exemple 3 : Une Frise Chronologique native (Timeline)
+
+Mermaid possède un outil dédié aux frises (Timeline) qui gère automatiquement l'alignement et la mise en page des dates :
+
+<pre class="mermaid">
+timeline
+    title Plan de Déploiement 2026
+    Semaine 1 : Cadrage : Initialisation du repo GitHub
+              : Choix du Markdown
+    Semaine 2 : Outils : Intégration Tailwind CSS
+              : Configuration Bootstrap Icons
+    Semaine 3 : Graphiques : Schémas Mermaid
+              : Ajustements des PDF
+    Semaine 4 : Lancement : Portail README.md actif
+              : Diaporamas en production
+</pre>
+
