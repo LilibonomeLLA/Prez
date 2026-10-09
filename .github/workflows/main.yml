@@ -16,6 +16,10 @@ jobs:
 
       - name: Create build folder
         run: mkdir -p build
+        
+        - name: Copy images folder (if it exists)
+        run: |
+          if [ -d img ]; then cp -r img build/img; fi
 
       - name: Compile ALL Marp Presentations (HTML & PDF)
         run: |
