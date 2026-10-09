@@ -27,7 +27,7 @@ Exemple : Changer la taille à 50 px sur l'image suivante :<br>
 ---
 # Découpage de l'écran en deux - version 1
 
-• Couper l'écran en deux : ![bg right](img/1790360591299.jpeg) (l'image se place automatiquement sur la moitié droite de la slide)
+• Image à droite - sans contrainte : ![bg right](img/1790360591299.jpeg) (l'image se place automatiquement sur la moitié droite de la slide)
 
 ---
 # Découpage de l'écran en deux - version 2
@@ -36,6 +36,13 @@ Exemple : Changer la taille à 50 px sur l'image suivante :<br>
 ![bg right contain](img/1790360591299.jpeg)
 
 ---
+# Découpage de l'écran en deux - version 3
+
+• Image à gauche - avec la contrainte de s'ajuster 😉
+![bg left contain](1790779337907.gif)
+
+---
+
 
 # Mise en page en grille
 
@@ -96,7 +103,7 @@ section { font-family: 'Roboto'; font-size: 28px !important; }
 h1, h2 { font-family: 'Oswald'; }
 
 /* --- STRUCTURE COMPATIBLE HTML ET IMPRESSION PDF --- */
-#content {
+#content1 {
   display: table;
   width: 100%;
   border-collapse: separate;
@@ -105,7 +112,7 @@ h1, h2 { font-family: 'Oswald'; }
 }
 
 /* On force le comportement de ligne */
-#content::before, #content::after {
+#content1::before, #content::after {
   display: table-row;
 }
 
@@ -124,7 +131,7 @@ h1, h2 { font-family: 'Oswald'; }
 }
 </style>
 
-<div id="content">
+<div id="content1">
   <div class="box">Bloc 1 (Gauche haut)</div>
   <div class="box">Bloc 2 (Droite haut)</div>
   <div class="box">Bloc 3 (Gauche bas)</div>
