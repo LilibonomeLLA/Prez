@@ -30,8 +30,10 @@ Exemple : Changer la taille à 50 px sur l'image suivante :<br>
 • Couper l'écran en deux : ![bg right](img/1790360591299.jpeg) (l'image se place automatiquement sur la moitié droite de la slide)
 
 ---
-* Image à droite ?
-![bg left](img/1790779337907.gif)
+# Découpage de l'écran en deux - version 2
+
+• Image à droite - avec la contrainte de s'ajuster 😉
+![bg right contain](img/1790360591299.jpeg)
 
 ---
 
