@@ -85,3 +85,48 @@ h1, h2 { font-family: 'Oswald'; }
   }
 }
 </style>
+
+---
+
+# Autre test de grille avec nouveau CSS
+
+<style>
+@import url('https://googleapis.com');
+section { font-family: 'Roboto'; font-size: 28px !important; }
+h1, h2 { font-family: 'Oswald'; }
+
+/* --- STRUCTURE COMPATIBLE HTML ET IMPRESSION PDF --- */
+#content {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 20px; /* Remplace le gap pour créer l'espace entre les blocs */
+  margin-left: -20px;   /* Aligne parfaitement la grille avec le texte du dessus */
+}
+
+/* On force le comportement de ligne */
+#content::before, #content::after {
+  display: table-row;
+}
+
+.box {
+  display: table-cell;
+  width: 50% !important; /* Force la séparation stricte en deux colonnes à 50% */
+  box-sizing: border-box;
+  background: #334155;
+  padding: 20px;
+  border-radius: 8px;
+  color: #f8fafc;
+  vertical-align: top; /* Aligne le texte en haut de chaque bloc */
+  
+  /* --- SECURITÉ ANTI-ECRASEMENT POUR LE NOUVEAU PDF --- */
+  height: 150px; /* Utilisation d'une hauteur fixe absolue pour l'impression */
+}
+</style>
+
+<div id="content">
+  <div class="box">Bloc 1 (Gauche haut)</div>
+  <div class="box">Bloc 2 (Droite haut)</div>
+  <div class="box">Bloc 3 (Gauche bas)</div>
+  <div class="box">Bloc 4 (Droite bas)</div>
+</div>
