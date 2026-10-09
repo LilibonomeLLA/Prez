@@ -19,12 +19,11 @@ jobs:
 
       - name: Compile ALL Marp Presentations (HTML & PDF)
         run: |
-          marp --html --input-dir . --output build
-          marp --pdf --input-dir . --output build
+          marp --html --input-dir . --output build --ignore README.md
+          marp --pdf --input-dir . --output build --ignore README.md
 
-      - name: Rename README to index (Optional)
-        run: |
-          if [ -f build/README.html ]; then mv build/README.html build/index.html; fi
+      - name: Copy README directly as index.html
+        run: cp README.md build/index.html
 
       - name: Deploy to GitHub Pages Branch
         uses: JamesIves/github-pages-deploy-action@v4
