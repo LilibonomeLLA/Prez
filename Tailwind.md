@@ -34,6 +34,10 @@ style: |
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
   }
+  /* Réduit la marge par défaut que Marp ajoute parfois en haut des balises de liste */
+  section ul, section ol {
+    margin-top: 0.25em !important;
+  }
   
   .grille-fixe {
     display: grid !important;
