@@ -12,6 +12,11 @@ style: |
   section p, section div, section h1, section h2, section h3 {
     font-size: inherit;
   }
+    /* --- FORCER LES COULEURS DE FOND SUR LE PDF --- */
+  .box-pdf {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    
 ---
 
 # 🚀 Démonstration Tailwind & Marp
