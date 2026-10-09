@@ -3,7 +3,7 @@ marp: true
 title: Tableau de bord Prez LLA
 paginate: false
 style: |
-  @import url('https://googleapis.com');
+  @import url('https://fonts.googleapis.com/css?family=Roboto');
   
   /* Règle générale pour toute la présentation (corps de texte) */
   section {
