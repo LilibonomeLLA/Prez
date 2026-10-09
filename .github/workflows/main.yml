@@ -11,18 +11,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
+
       - name: Create build folder
-        run: mkdir build
+        run: mkdir -p build
 
-      - name: Marp Build (HTML)
-        uses: KoharaKazuya/marp-cli-action@v4
-        with:
-          args: diaporama.md -o build/index.html
+      - name: Compile HTML
+        run: marp diaporama.md -o build/index.html
 
-      - name: Marp Build (PDF)
-        uses: KoharaKazuya/marp-cli-action@v4
-        with:
-          args: diaporama.md -o build/presentation.pdf
+      - name: Compile PDF
+        run: marp diaporama.md -o build/presentation.pdf
 
       - name: Deploy to GitHub Pages Branch
         uses: JamesIves/github-pages-deploy-action@v4
