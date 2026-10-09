@@ -3,7 +3,10 @@ marp: true
 title: Test Tailwind CSS
 paginate: true
 style: |
+  /* Ajout de Tailwind */
   @import url('https://unpkg.com/tailwindcss@^2/dist/utilities.min.css');
+  /* Ajout de Bootstrap-icons */
+  @import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css');
   
   /* Astuce : Forcer Marp à respecter la taille de texte de Tailwind */
   section p, section div, section h1, section h2, section h3 {
@@ -41,4 +44,40 @@ Voici une grille native en Tailwind CSS :
 <div class="flex justify-around items-center h-32 mt-6 bg-gray-100 rounded">
   <div class="w-12 h-12 bg-blue-500 animate-pulse rounded-full"></div>
   <div class="w-12 h-12 bg-amber-500 animate-bounce rounded"></div>
+</div>
+
+---
+# Test de Bootstrap Icons
+Exempls d'icônes directement dans le texte :
+
+ <i class="bi bi-check-circle-fill text-green-500"></i> Une tâche complétée (Vert)
+ <i class="bi bi-exclamation-triangle-fill text-amber-500"></i> Une alerte importante (Orange)
+ <i class="bi bi-shield-lock-fill text-indigo-500"></i> Connexion sécurisée (Bleu)
+
+---
+
+# 📊 Tableau de bord avec indicateurs
+
+<div class="grid grid-cols-2 gap-6 mt-8">
+  
+  <div style="background: #334155;" class="p-6 rounded-lg text-white shadow-lg flex items-start space-x-4">
+    <div class="text-3xl text-sky-400 mt-1">
+      <i class="bi bi-cpu"></i>
+    </div>
+    <div>
+      <h3 class="text-xl font-bold text-sky-400 mb-1">Performances</h3>
+      <p class="text-sm">L'architecture serveur tourne à plein régime sans aucun ralentissement détecté.</p>
+    </div>
+  </div>
+
+  <div style="background: #312e81;" class="p-6 rounded-lg text-white shadow-lg flex items-start space-x-4">
+    <div class="text-3xl text-pink-400 mt-1">
+      <i class="bi bi-cloud-arrow-up"></i>
+    </div>
+    <div>
+      <h3 class="text-xl font-bold text-pink-400 mb-1">Sauvegardes</h3>
+      <p class="text-sm">Les présentations et les images associées sont synchronisées sur la branche Cloud.</p>
+    </div>
+  </div>
+
 </div>
