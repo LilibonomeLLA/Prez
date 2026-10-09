@@ -1,0 +1,33 @@
+## script qui a fonctionné => création d'une branche dédiée gh-pages
+
+name: Deploy Marp Presentation
+on:
+  push:
+    branches: [ main ]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
+
+      - name: Create build folder
+        run: mkdir -p build
+
+      - name: Compile HTML
+        run: marp diaporama.md -o build/index.html
+
+      - name: Compile PDF
+        run: marp diaporama.md -o build/presentation.pdf
+
+      - name: Deploy to GitHub Pages Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
+          branch: gh-pages
+--
