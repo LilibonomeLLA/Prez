@@ -23,20 +23,17 @@ style: |
 
 Voici une grille native en Tailwind CSS :
 
-<div class="grid grid-cols-2 gap-6 mt-8">
+<!-- Ajout de w-full (largeur 100%) et mx-auto (centrage des marges) -->
+<div class="grid grid-cols-2 gap-6 mt-8 w-full mx-auto">
   
-  <!-- Utilisation d'un style en ligne pour forcer la couleur de fond ardoise -->
-<div class="grid grid-cols-2 gap-6 mt-8">
-  
-  <!-- Correction des syntaxes et des guillemets pour Firefox -->
-  <div style="background-color: #334155;" class="p-6 rounded-lg text-white shadow-lg">
+  <div style="background-color: #334155;" class="p-6 rounded-lg text-white shadow-lg box-pdf">
     <h3 class="text-xl font-bold text-blue-400 mb-2">Bloc Gauche</h3>
-    <p class="text-sm" style="color: #cbd5e1;">Ce bloc utilise désormais une syntaxe HTML stricte et nettoyée. Le fond s'affichera en bleu ardoise foncé sur Firefox et Chrome.</p>
+    <p class="text-sm" style="color: #cbd5e1;">Ce conteneur occupe désormais toute la largeur disponible et reste parfaitement centré, même sur le moteur strict de Firefox.</p>
   </div>
 
-  <div style="background-color: #312e81;" class="p-6 rounded-lg text-white shadow-lg">
+  <div style="background-color: #312e81;" class="p-6 rounded-lg text-white shadow-lg box-pdf">
     <h3 class="text-xl font-bold text-pink-400 mb-2">Bloc Droite</h3>
-    <p class="text-sm" style="color: #e0e7ff;">Les couleurs s'appliquent immédiatement sans avoir besoin d'écrire une seule ligne de CSS classique.</p>
+    <p class="text-sm" style="color: #e0e7ff;">La mise en page reste parfaitement identique et harmonisée entre vos différents navigateurs et vos fichiers PDF.</p>
   </div>
 
 </div>
@@ -56,7 +53,7 @@ Voici une grille native en Tailwind CSS :
 
 ---
 # Test de Bootstrap Icons
-Exempls d'icônes directement dans le texte :
+Exemples d'icônes directement dans le texte :
 
  <i class="bi bi-check-circle-fill text-green-500"></i> Une tâche complétée (Vert)
  <i class="bi bi-exclamation-triangle-fill text-amber-500"></i> Une alerte importante (Orange)
