@@ -24,7 +24,7 @@ Voici le contenu :
 # Deuxième Diapositive (2/2)
 
 - Vous pouvez ajouter des images =>
-  ![w:200px](img/image1.png)
+  ![w:100px](img/image1.png)
   
 - Utiliser du code
 - Et personnaliser le style !
