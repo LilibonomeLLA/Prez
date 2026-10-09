@@ -8,7 +8,7 @@ color: #333
 ---
 
 # Ma Super Présentation 🚀
-## Créée avec Marp & GitHub
+## Créée pour Marp & GitHub
 
 ---
 
