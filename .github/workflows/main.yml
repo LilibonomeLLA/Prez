@@ -19,15 +19,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Marp Build (HTML & PDF)
+      - name: Create build folder
+        run: mkdir build
+
+      - name: Marp Build (HTML)
         uses: KoharaKazuya/marp-cli-action@v4
         with:
-          args: --html --input-dir . --output build
+          args: Diaporama.md -o build/index.html
 
-      - name: Rename HTML for GitHub Pages
-        run: |
-          mv build/Diaporama.html build/index.html
-          if [ -f build/Diaporama.pdf ]; then mv build/Diaporama.pdf build/presentation.pdf; fi
+      - name: Marp Build (PDF)
+        uses: KoharaKazuya/marp-cli-action@v4
+        with:
+          args: Diaporama.md -o build/presentation.pdf
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
