@@ -9,7 +9,7 @@ style: |
   section {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    font-size: 28px;
+    font-size: 24px;
   }  
   
   /* Règle spécifique pour TOUS les titres */
@@ -19,8 +19,14 @@ style: |
   
   h1 { font-size: 60px; } /* Ajuste le grand titre */
   h2 { font-size: 45px; } /* Ajuste les titres de section */
+  
+  .font-default {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif !important;
+    font-weight: normal;
+  }
+
 ---
-Ce texte est en Roboto, mais <span style="font-family: inherit;">ce bout de texte utilise la police par défaut</span> du thème.
+Ce texte est en Roboto, mais <span class="font-default"> ce bout de texte utilise la police par défaut</span> du thème.
 
 # 🚀 Repo : Présentations
 ### Propulsé par @LilibonomeLLA
@@ -29,7 +35,7 @@ Ce texte est en Roboto, mais <span style="font-family: inherit;">ce bout de text
 
 # Liste des Présentations Marp
 <style scoped>
-  li { list-style-type: circle; color: cyan; }
+  li { list-style-type: circle; color: black; }
 </style>
 - 📊 **Présentation A** : [Version Web](Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pdf)
 - 🐉 **Présentation B** : [Version Web](diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama.pdf)
