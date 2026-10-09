@@ -11,8 +11,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install Marp CLI
-        run: npm install -g @marp-team/marp-cli
+      - name: Install Marp CLI & Pandoc
+        run: |
+          npm install -g @marp-team/marp-cli
+          sudo apt-get update && sudo apt-get install -y pandoc
 
       - name: Create build folder
         run: mkdir -p build
@@ -22,11 +24,7 @@ jobs:
           marp --html --input-dir . --output build --ignore README.md
           marp --pdf --input-dir . --output build --ignore README.md
 
-      - name: Copy README directly as index.html
-        run: cp README.md build/index.html
-
-      - name: Deploy to GitHub Pages Branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: build
-          branch: gh-pages
+      - name: Convert README to beautiful HTML page
+        run: |
+          # Pandoc convertit le Markdown en HTML propre et l'intègre dans le dossier final
+          pandoc README.md -f markdown -t html -o build/index.html
