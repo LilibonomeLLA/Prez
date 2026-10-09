@@ -17,12 +17,12 @@ jobs:
       - name: Marp Build (HTML)
         uses: KoharaKazuya/marp-cli-action@v4
         with:
-          args: Diaporama.md -o build/index.html
+          args: diaporama.md -o build/index.html
 
       - name: Marp Build (PDF)
         uses: KoharaKazuya/marp-cli-action@v4
         with:
-          args: Diaporama.md -o build/presentation.pdf
+          args: diaporama.md -o build/presentation.pdf
 
       - name: Deploy to GitHub Pages Branch
         uses: JamesIves/github-pages-deploy-action@v4
