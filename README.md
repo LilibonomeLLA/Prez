@@ -7,30 +7,7 @@ backgroundColor: #1e293b
 color: #f8fafc
 title: Tableau de bord Prez LLA
 ---
-<style>
 
-section {
-  background-color: #fefefe;
-  color: #333;
-}
-
-img[alt~="center"] {
-  display: block;
-  margin: 0 auto;
-}
-blockquote {
-  background: #ffedcc;
-  border-left: 10px solid #d1bf9d;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-}
-blockquote:before{
-  content: unset;
-}
-blockquote:after{
-  content: unset;
-}
-</style>
 
 # 🚀 Repo : Présentations
 ### Propulsé par @LilibonomeLLA
