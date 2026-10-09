@@ -35,10 +35,15 @@ h1, h2 { font-family: 'Oswald'; }
 # 🍔 Test des images
 💡 Rappel des commandes magiques de Marp pour la mise en page :
 
-• Changer la taille : ![w:200px](img/image1.png) (pour fixer la largeur à 200 pixels).
-• Mettre en arrière-plan : ![bg](img/decor.jpg) (l'image occupera toute la diapositive).
-• Couper l'écran en deux : ![bg right](img/wallhaven-7jxelo.png) (l'image se place automatiquement sur la moitié droite de la slide, et votre texte reste à gauche).
-
+• Changer la taille : ![w:50px](img/image1.png) (pour fixer la largeur à 200 pixels).
+---
+# Image en arrière plan
+![bg](img/wallhaven-7jxelo.png) 
+---
+# Découpage de l'ecrane en deux ?
+• Couper l'écran en deux : ![bg right](img/1790360591299.jpeg) (l'image se place automatiquement sur la moitié droite de la slide)
+* Image à droite :
+![bg left](img/1790779337907.gif)
 ---
 
 # Mise en page en grille
@@ -46,7 +51,8 @@ h1, h2 { font-family: 'Oswald'; }
 <div id="content">
   <div class="box">Bloc 1 (Gauche haut)</div>
   <div class="box">Bloc 2 (Droite haut)</div>
-  <div class="box">Bloc 3 (Gauche bas - car il n'y avait plus de place à droite !)</div>
+  <div class="box">Bloc 3 (Gauche bas)</div>
+  <div class="box">Bloc 4 (Droite bas)</div>
 </div>
 
 
