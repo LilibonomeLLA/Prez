@@ -28,6 +28,13 @@ style: |
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
   }
+
+  /* --- FIX ABSOLU IMPRESSION : APPLIQUÉ SUR TOUS LES CONTENEURS ET SECTIONS --- */
+  section, div, table, td, th {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  
   .grille-fixe {
     display: grid !important;
     grid-template-columns: 1fr 1fr !important;
@@ -315,3 +322,18 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 
 </div>
 
+---
+
+# 📈 Test d'un Diagramme Mermaid
+
+Voici l'enchaînement de vos validations :
+
+```mermaid
+graph LR
+    X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
+    Y -->|Vérification Style| Z[PDF avec Fonds OK]
+    
+    style X fill:#334155,stroke:#fff,color:#fff
+    style Y fill:#312e81,stroke:#fff,color:#fff
+    style Z fill:#064e3b,stroke:#fff,color:#fff
+```
