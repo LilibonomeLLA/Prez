@@ -21,8 +21,16 @@ Exemple : Changer la taille à 50 px sur l'image suivante :<br>
 ![w:50px](img/image1.png)
 
 ---
-# <span style="color: #ffffff;">Image en arrière plan</span>
-![bg](img/wallhaven-7jxelo.png) 
+# <span class="texte-blanc">Image en arrière plan</span>
+![bg](img/wallhaven-7jxelo.png)
+
+<style scoped>
+.texte-blanc {
+  color: #ffffff !important;
+  -webkit-print-color-adjust: exact !important;
+  print-color-adjust: exact !important;
+}
+</style>
 
 ---
 # Découpage de l'écran en deux - version 1
@@ -54,7 +62,7 @@ Exemple : Changer la taille à 50 px sur l'image suivante :<br>
 </div>
 
 <!-- Tout le CSS est masqué à la fin du document -->
-<style>
+<style scoped>
 @import url('https://googleapis.com');
 section { font-family: 'Roboto'; font-size: 28px !important; }
 h1, h2 { font-family: 'Oswald'; }
