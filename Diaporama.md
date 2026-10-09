@@ -14,7 +14,7 @@ color: #333
 
 # Première Diapositive
 
-Voici du contenu :
+Voici le contenu :
 - Un élément important
 - Un deuxième élément
 
