@@ -17,18 +17,19 @@ Voici une grille native en Tailwind CSS :
 
 <div class="grid grid-cols-2 gap-6 mt-8">
   
-  <!-- Correction ici : 'coolGray' au lieu de 'slate' pour la version 2 -->
-  <div class="bg-coolGray-700 p-6 rounded-lg text-white shadow-lg">
+  <!-- Utilisation d'un style en ligne pour forcer la couleur de fond ardoise -->
+  <div style="background: #334155;" class="p-6 rounded-lg text-white shadow-lg">
     <h3 class="text-xl font-bold text-blue-400 mb-2">Bloc Gauche</h3>
-    <p class="text-sm text-coolGray-300">Ce bloc utilise désormais une couleur de fond reconnue, le texte blanc devient donc parfaitement visible !</p>
+    <p class="text-sm style="color: #cbd5e1;">Ce bloc utilise désormais un fond hexadécimal sécurisé. Le texte et la structure en grille restent pilotés par Tailwind.</p>
   </div>
 
-  <div class="bg-indigo-900 p-6 rounded-lg text-white shadow-lg">
+  <div style="background: #312e81;" class="p-6 rounded-lg text-white shadow-lg">
     <h3 class="text-xl font-bold text-pink-400 mb-2">Bloc Droite</h3>
-    <p class="text-sm text-indigo-200">Les couleurs s'appliquent immédiatement sans avoir besoin d'écrire une seule ligne de CSS classique.</p>
+    <p class="text-sm style="color: #e0e7ff;">Les couleurs s'appliquent immédiatement sans avoir besoin d'écrire une seule ligne de CSS classique.</p>
   </div>
 
 </div>
+
 
 ---
 
