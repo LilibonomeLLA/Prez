@@ -11,7 +11,7 @@ paginate: false
 backgroundColor: #1e293b
 color: #f8fafc
 
-# 🐯 Premier Titre dans la Slide
+# 🐯 Titre
 Contenu...
 
 <!-- Tout le CSS est masqué à la fin du document -->
@@ -31,6 +31,16 @@ h1, h2 { font-family: 'Oswald'; }
   }
 </style>
 
+---
+# 🍔 Test des images
+💡 Rappel des commandes magiques de Marp pour la mise en page :
+
+• Changer la taille : ![w:200px](img/image1.png) (pour fixer la largeur à 200 pixels).
+• Mettre en arrière-plan : ![bg](img/decor.jpg) (l'image occupera toute la diapositive).
+• Couper l'écran en deux : ![bg right](img/wallhaven-7jxelo.png) (l'image se place automatiquement sur la moitié droite de la slide, et votre texte reste à gauche).
+
+---
+
 # Mise en page en grille
 
 <div id="content">
@@ -39,9 +49,4 @@ h1, h2 { font-family: 'Oswald'; }
   <div class="box">Bloc 3 (Gauche bas - car il n'y avait plus de place à droite !)</div>
 </div>
 
-# 🍔 Test des images
-💡 Rappel des commandes magiques de Marp pour la mise en page :
 
-• Changer la taille : ![w:200px](img/image1.png) (pour fixer la largeur à 200 pixels).
-• Mettre en arrière-plan : ![bg](img/decor.jpg) (l'image occupera toute la diapositive).
-• Couper l'écran en deux : ![bg right](img/wallhaven-7jxelo.png) (l'image se place automatiquement sur la moitié droite de la slide, et votre texte reste à gauche).
