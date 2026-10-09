@@ -2,22 +2,19 @@
 marp: true
 title: Tableau de bord Prez LLA
 paginate: false
-backgroundColor: #1e293b
-color: #f8fafc
 style: |
   @import url('https://googleapis.com');
-
   /* Règle générale pour toute la présentation (corps de texte) */
   section {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-  }
-  
+    font-weight: 300;
+    font-size: 28px;
+  }  
   /* Règle spécifique pour TOUS les titres */
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Oswald', sans-serif;
-    text-transform: uppercase; /* Optionnel : force les titres en majuscules pour le style Oswald */
-    letter-spacing: 0.05em;    /* Espace légèrement les lettres */
+  font-family: 'Oswald', sans-serif;}
+  h1 { font-size: 60px; } /* Ajuste le grand titre */
+  h2 { font-size: 45px; } /* Ajuste les titres de section */
   }
 ---
 # 🚀 Repo : Présentations
