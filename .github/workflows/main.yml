@@ -1,7 +1,7 @@
 name: Deploy Marp Presentation
 on:
   push:
-    branches: [ main ] # Ajustez en 'master' si votre branche s'appelle master
+    branches: [ main ]
 permissions:
   contents: read
   pages: write
@@ -19,18 +19,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Create build folder
-        run: mkdir build
-
-      - name: Marp Build (HTML)
+      - name: Marp Build (HTML & PDF)
         uses: KoharaKazuya/marp-cli-action@v4
         with:
-          args: Diaporama.md -o build/index.html
+          args: --html --input-dir . --output build
 
-      - name: Marp Build (PDF)
-        uses: KoharaKazuya/marp-cli-action@v4
-        with:
-          args: Diaporama.md -o build/presentation.pdf
+      - name: Rename HTML for GitHub Pages
+        run: |
+          mv build/Diaporama.html build/index.html
+          if [ -f build/Diaporama.pdf ]; then mv build/Diaporama.pdf build/presentation.pdf; fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
