@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Test Tailwind CSS
+title: Présentation Finale Validée
 paginate: true
 style: |
   /* Ajout de Tailwind */
@@ -9,28 +9,26 @@ style: |
   @import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css');
   
   /* Astuce : Forcer Marp à respecter la taille de texte de Tailwind */
-  section p, section div, section h1, section h2, section h3 {
+  section p, section div, section h1, section h2, section h3, section i {
     font-size: inherit;
   }
-    /* --- FORCER LES COULEURS DE FOND SUR LE PDF --- */
+  /* --- Forcer les couleurs de fond sur le PDF --- */
   .box-pdf {
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
+  }
 
-  /* --- VERROUILLAGE FORCE DE LA GRILLE POUR TOUS LES NAVIGATEURS --- */
   .grille-fixe {
     display: grid !important;
-    grid-template-columns: 1fr 1fr !important; /* Force 2 colonnes égales quoi qu'il arrive */
+    grid-template-columns: 1fr 1fr !important;
     width: 100% !important;
   }
-    
 ---
 
 # 🚀 Démonstration Tailwind & Marp
 
 Voici une grille native en Tailwind CSS :
 
-<!-- Remplacement de grid-cols-2 par notre classe grille-fixe ultra-robuste -->
 <div class="grille-fixe gap-6 mt-8 mx-auto">
   
   <div style="background-color: #334155;" class="p-6 rounded-lg text-white shadow-lg box-pdf">
@@ -44,7 +42,6 @@ Voici une grille native en Tailwind CSS :
   </div>
 
 </div>
-
 
 ---
 
@@ -70,25 +67,26 @@ Exemples d'icônes directement dans le texte :
 
 # 📊 Tableau de bord avec indicateurs
 
-<div class="grid grid-cols-2 gap-6 mt-8">
+<!-- Application de 'grille-fixe' et 'box-pdf' ici aussi pour éviter le bug Firefox et PDF -->
+<div class="grille-fixe gap-6 mt-8 mx-auto">
   
-  <div style="background: #334155;" class="p-6 rounded-lg text-white shadow-lg flex items-start space-x-4">
+  <div style="background-color: #334155;" class="p-6 rounded-lg text-white shadow-lg box-pdf flex items-start space-x-4">
     <div class="text-3xl text-sky-400 mt-1">
       <i class="bi bi-cpu"></i>
     </div>
     <div>
       <h3 class="text-xl font-bold text-sky-400 mb-1">Performances</h3>
-      <p class="text-sm">L'architecture serveur tourne à plein régime sans aucun ralentissement détecté.</p>
+      <p class="text-sm" style="color: #cbd5e1;">L'architecture serveur tourne à plein régime sans aucun ralentissement détecté.</p>
     </div>
   </div>
 
-  <div style="background: #312e81;" class="p-6 rounded-lg text-white shadow-lg flex items-start space-x-4">
+  <div style="background-color: #312e81;" class="p-6 rounded-lg text-white shadow-lg box-pdf flex items-start space-x-4">
     <div class="text-3xl text-pink-400 mt-1">
       <i class="bi bi-cloud-arrow-up"></i>
     </div>
     <div>
       <h3 class="text-xl font-bold text-pink-400 mb-1">Sauvegardes</h3>
-      <p class="text-sm">Les présentations et les images associées sont synchronisées sur la branche Cloud.</p>
+      <p class="text-sm" style="color: #e0e7ff;">Les présentations et les images associées sont synchronisées sur la branche Cloud.</p>
     </div>
   </div>
 
