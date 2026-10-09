@@ -16,6 +16,13 @@ style: |
   .box-pdf {
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
+
+  /* --- VERROUILLAGE FORCE DE LA GRILLE POUR TOUS LES NAVIGATEURS --- */
+  .grille-fixe {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important; /* Force 2 colonnes égales quoi qu'il arrive */
+    width: 100% !important;
+  }
     
 ---
 
@@ -23,17 +30,17 @@ style: |
 
 Voici une grille native en Tailwind CSS :
 
-<!-- Ajout de w-full (largeur 100%) et mx-auto (centrage des marges) -->
-<div class="grid grid-cols-2 gap-6 mt-8 w-full mx-auto">
+<!-- Remplacement de grid-cols-2 par notre classe grille-fixe ultra-robuste -->
+<div class="grille-fixe gap-6 mt-8 mx-auto">
   
   <div style="background-color: #334155;" class="p-6 rounded-lg text-white shadow-lg box-pdf">
     <h3 class="text-xl font-bold text-blue-400 mb-2">Bloc Gauche</h3>
-    <p class="text-sm" style="color: #cbd5e1;">Ce conteneur occupe désormais toute la largeur disponible et reste parfaitement centré, même sur le moteur strict de Firefox.</p>
+    <p class="text-sm" style="color: #cbd5e1;">Ce bloc reste obligatoirement ancré à gauche. La structure ne peut plus se briser ni s'empiler verticalement.</p>
   </div>
 
   <div style="background-color: #312e81;" class="p-6 rounded-lg text-white shadow-lg box-pdf">
     <h3 class="text-xl font-bold text-pink-400 mb-2">Bloc Droite</h3>
-    <p class="text-sm" style="color: #e0e7ff;">La mise en page reste parfaitement identique et harmonisée entre vos différents navigateurs et vos fichiers PDF.</p>
+    <p class="text-sm" style="color: #e0e7ff;">Ce bloc reste ancré à droite. L'affichage est désormais identique sur Chrome, Firefox et en PDF.</p>
   </div>
 
 </div>
