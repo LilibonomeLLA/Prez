@@ -17,7 +17,23 @@ style: |
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
   }
+  /* --- FIX pour le fond des grilles sur le PDF --- */
+  .box-pdf-gauche {
+    background-color: #334155 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  
+  .box-pdf-droite {
+    background-color: #312e81 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
 
+  .grille-fixe {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    width: 100% !important;
   .grille-fixe {
     display: grid !important;
     grid-template-columns: 1fr 1fr !important;
@@ -31,12 +47,13 @@ Voici une grille native en Tailwind CSS :
 
 <div class="grille-fixe gap-6 mt-8 mx-auto">
   
-  <div style="background-color: #334155;" class="p-6 rounded-lg text-white shadow-lg box-pdf">
+  <!-- Les couleurs de fond sont maintenant gérées par les classes box-pdf -->
+  <div class="p-6 rounded-lg text-white shadow-lg box-pdf-gauche">
     <h3 class="text-xl font-bold text-blue-400 mb-2">Bloc Gauche</h3>
     <p class="text-sm" style="color: #cbd5e1;">Ce bloc reste obligatoirement ancré à gauche. La structure ne peut plus se briser ni s'empiler verticalement.</p>
   </div>
 
-  <div style="background-color: #312e81;" class="p-6 rounded-lg text-white shadow-lg box-pdf">
+  <div class="p-6 rounded-lg text-white shadow-lg box-pdf-droite">
     <h3 class="text-xl font-bold text-pink-400 mb-2">Bloc Droite</h3>
     <p class="text-sm" style="color: #e0e7ff;">Ce bloc reste ancré à droite. L'affichage est désormais identique sur Chrome, Firefox et en PDF.</p>
   </div>
