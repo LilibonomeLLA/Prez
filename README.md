@@ -38,5 +38,5 @@ style: |
 </style>
 - 📊 **Présentation A** : [Version Web](Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pdf)
 - 🐉 **Présentation B** : [Version Web](diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama.pdf)
-- 📈 **Présentation C** : [Version Web](diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa)*
-- 🐕️ **Présentation D** : [Version Web](diaporama2.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama2.pdf) *(en prépa)*
+- 📈 **Présentation C** : [Version Web](diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa- test pagination)*
+- 🐕️ **Présentation D** : [Version Web](diaporama2.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama2.pdf) *(vide)*
