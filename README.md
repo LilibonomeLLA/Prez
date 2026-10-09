@@ -9,7 +9,7 @@ style: |
   section {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    font-size: 24px;
+    font-size: 24px !important; /* !important => force le texte global à être plus petit */
   }  
   
   /* Règle spécifique pour TOUS les titres */
@@ -26,12 +26,11 @@ style: |
   }
 
 ---
-Ce texte est en Roboto, mais <span class="font-default"> ce bout de texte utilise la police par défaut</span> du thème.
 
 # 🚀 Repo : Présentations
 ### Propulsé par @LilibonomeLLA
 
-⚠️ **Règles :** Les présentations n'engagent que leur auteur et ne doivent pas être copiées.
+⚠️ **Règles :** <span class="font-default">Les présentations n'engagent que leur auteur et ne doivent pas être copiées.</span>
 
 # Liste des Présentations Marp
 <style scoped>
