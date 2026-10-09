@@ -1,3 +1,39 @@
+--- Nouvelle version avec retour sur du Marp pour le fichier README.MD ---
+--- La version précédente renvoyait juste une page HTML, facon texte brut... plus de liens, de sauts de ligne... ---
+name: Deploy Marp Presentation
+on:
+  push:
+    branches: [ main ]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
+
+      - name: Create build folder
+        run: mkdir -p build
+
+      - name: Compile ALL Marp Presentations (HTML & PDF)
+        run: |
+          marp --html --input-dir . --output build
+          marp --pdf --input-dir . --output build
+
+      - name: Rename README to index
+        run: |
+          if [ -f build/README.html ]; then mv build/README.html build/index.html; fi
+
+      - name: Deploy to GitHub Pages Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
+          branch: gh-pages
+
 --- Nouvelle version => laisse le fichier README.MD passer dans le process normal "HTML" ---
 name: Deploy Marp Presentation
 on:
