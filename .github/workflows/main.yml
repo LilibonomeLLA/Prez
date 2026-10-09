@@ -5,6 +5,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -13,12 +15,12 @@ jobs:
         run: mkdir build && [ -d img ] && cp -r img build/img || true
 
       - name: Marp Build (HTML)
-        uses: marp-team/marp-cli-action@v1.2.0
+        uses: marp-team/marp-cli-action@v3
         with:
           args: diaporama.md -o build/index.html
           
       - name: Marp Build (PDF)
-        uses: marp-team/marp-cli-action@v1.2.0
+        uses: marp-team/marp-cli-action@v3
         with:
           args: diaporama.md -o build/presentation.pdf
 
