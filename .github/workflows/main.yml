@@ -1,0 +1,29 @@
+name: Deploy Marp Presentation
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Copy images (Optional)
+        run: mkdir build && [ -d img ] && cp -r img build/img || true
+
+      - name: Marp Build (HTML)
+        uses: marp-team/marp-cli-action@v1.2.0
+        with:
+          args: diaporama.md -o build/index.html
+          
+      - name: Marp Build (PDF)
+        uses: marp-team/marp-cli-action@v1.2.0
+        with:
+          args: diaporama.md -o build/presentation.pdf
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
+          branch: gh-pages
