@@ -1,6 +1,8 @@
 ---
 marp: true
 title: Présentation Finale Validée
+/* On injecte le moteur Mermaid directement dans l'en-tête de la présentation */
+header: '<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script><script>mermaid.initialize({startOnLoad:true});</script>'
 paginate: true
 style: |
   /* Ajout de Tailwind */
@@ -328,7 +330,7 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 
 ---
 
-# 📈 Test d'un Diagramme Mermaid
+# 📈 Test d'un Diagramme Mermaid (version 1)
 
 Voici l'enchaînement de vos validations :
 
@@ -341,3 +343,17 @@ graph LR
     style Y fill:#312e81,stroke:#fff,color:#fff
     style Z fill:#064e3b,stroke:#fff,color:#fff
 ```
+---
+# 📈 Test d'un Diagramme Mermaid (version 2)
+
+<!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
+
+<div class="mermaid">
+graph LR
+    X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
+    Y -->|Vérification Style| Z[PDF avec Fonds OK]
+    
+    style X fill:#334155,stroke:#fff,color:#fff
+    style Y fill:#312e81,stroke:#fff,color:#fff
+    style Z fill:#064e3b,stroke:#fff,color:#fff
+</div>
