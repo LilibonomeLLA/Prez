@@ -17,9 +17,10 @@ Voici une grille native en Tailwind CSS :
 
 <div class="grid grid-cols-2 gap-6 mt-8">
   
-  <div class="bg-slate-700 p-6 rounded-lg text-white shadow-lg">
-    <h3 class="text-xl font-bold text-sky-400 mb-2">Bloc Gauche</h3>
-    <p class="text-sm text-slate-300">Ce bloc utilise les classes de grilles, de marges, d'arrondis et d'ombres portées de Tailwind.</p>
+  <!-- Correction ici : 'coolGray' au lieu de 'slate' pour la version 2 -->
+  <div class="bg-coolGray-700 p-6 rounded-lg text-white shadow-lg">
+    <h3 class="text-xl font-bold text-blue-400 mb-2">Bloc Gauche</h3>
+    <p class="text-sm text-coolGray-300">Ce bloc utilise désormais une couleur de fond reconnue, le texte blanc devient donc parfaitement visible !</p>
   </div>
 
   <div class="bg-indigo-900 p-6 rounded-lg text-white shadow-lg">
@@ -33,8 +34,8 @@ Voici une grille native en Tailwind CSS :
 
 # 🎨 Autres tests graphiques
 
-* Un texte <span class="text-red-500 font-extrabold uppercase">rouge, en gras et en majuscules</span>.
-* Un badge stylisé : <span class="bg-green-100 text-green-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">Validé</span>
+🎯 Un texte <span class="text-red-500 font-extrabold uppercase">rouge, en gras et en majuscules</span>.
+🎯 Un badge stylisé : <span class="bg-green-100 text-green-800 text-xs font-semibold px-2.5 py-0.5 rounded-full">Validé</span>
 
 <div class="flex justify-around items-center h-32 mt-6 bg-gray-100 rounded">
   <div class="w-12 h-12 bg-blue-500 animate-pulse rounded-full"></div>
