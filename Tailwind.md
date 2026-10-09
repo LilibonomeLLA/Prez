@@ -170,6 +170,48 @@ Parfait pour illustrer les étapes d'un projet ou une feuille de route (Roadmap)
 
 ---
 
+# 📅 Exemple 2 bis : Une Frise Chronologique horizontale
+
+<!-- Changement d'axe : flex-row au lieu de flex-col pour aligner côte à côte -->
+<div class="flex flex-row justify-center items-center space-x-0 mt-8 w-full max-w-4xl mx-auto text-left">
+
+  <!-- Étape 1 -->
+  <div class="flex flex-col items-center w-1/3">
+    <div class="w-8 h-8 rounded-full bg-blue-500 text-white flex items-center justify-center font-bold text-xs shadow mb-2">1</div>
+    <div class="p-3 rounded-lg box-pdf-light border border-gray-200 shadow-sm mx-2">
+      <h4 class="text-xs font-bold text-gray-800 mb-0.5">Cadrage</h4>
+      <p class="text-xxs text-gray-600 leading-tight">Définition des besoins et choix de la structure Markdown.</p>
+    </div>
+  </div>
+
+  <!-- Ligne de liaison horizontale droite -->
+  <div class="flex-grow h-0.5 bg-gray-300 min-w-[20px] -mt-16"></div>
+
+  <!-- Étape 2 -->
+  <div class="flex flex-col items-center w-1/3">
+    <div class="w-8 h-8 rounded-full bg-indigo-500 text-white flex items-center justify-center font-bold text-xs shadow mb-2">2</div>
+    <div class="p-3 rounded-lg box-pdf-light border border-gray-200 shadow-sm mx-2">
+      <h4 class="text-xs font-bold text-gray-800 mb-0.5">Automatisation</h4>
+      <p class="text-xxs text-gray-600 leading-tight">Mise en place du workflow et des configurations PDF.</p>
+    </div>
+  </div>
+
+  <!-- Ligne de liaison horizontale droite -->
+  <div class="flex-grow h-0.5 bg-gray-300 min-w-[20px] -mt-16"></div>
+
+  <!-- Étape 3 -->
+  <div class="flex flex-col items-center w-1/3">
+    <div class="w-8 h-8 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-xs shadow mb-2"><i class="bi bi-flag-fill"></i></div>
+    <div class="p-3 rounded-lg box-pdf-light border border-gray-200 shadow-sm mx-2">
+      <h4 class="text-xs font-bold text-gray-800 mb-0.5">Déploiement</h4>
+      <p class="text-xxs text-gray-600 leading-tight">Publication finale sur le web et génération des PDF.</p>
+    </div>
+  </div>
+
+</div>
+
+---
+
 ## 📊 Exemple 3 : Tableau Comparatif de Données Avancé
 
 Tailwind permet de s'affranchir des tableaux Markdown basiques en créant des structures très graphiques :
@@ -347,8 +389,8 @@ graph LR
 # 📈 Test d'un Diagramme Mermaid (version 2)
 
 <!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
-
-<div class="mermaid">
+<!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe -->
+<pre class="mermaid">
 graph LR
     X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
     Y -->|Vérification Style| Z[PDF avec Fonds OK]
@@ -356,4 +398,4 @@ graph LR
     style X fill:#334155,stroke:#fff,color:#fff
     style Y fill:#312e81,stroke:#fff,color:#fff
     style Z fill:#064e3b,stroke:#fff,color:#fff
-</div>
+</pre>
