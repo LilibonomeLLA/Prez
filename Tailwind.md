@@ -22,18 +22,12 @@ style: |
     background-color: #334155 !important;
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
-  }
-  
+  }  
   .box-pdf-droite {
     background-color: #312e81 !important;
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
   }
-
-  .grille-fixe {
-    display: grid !important;
-    grid-template-columns: 1fr 1fr !important;
-    width: 100% !important;
   .grille-fixe {
     display: grid !important;
     grid-template-columns: 1fr 1fr !important;
@@ -210,7 +204,7 @@ Exemples d'icônes directement dans le texte :
 
 ---
 
-# 📊 Tableau de bord avec indicateurs
+## 📊 Exemple 1 : Tableau de bord avec indicateurs
 
 <!-- Application de 'grille-fixe' et 'box-pdf' ici aussi pour éviter le bug Firefox et PDF -->
 <div class="grille-fixe gap-6 mt-8 mx-auto">
@@ -234,5 +228,90 @@ Exemples d'icônes directement dans le texte :
       <p class="text-sm" style="color: #e0e7ff;">Les présentations et les images associées sont synchronisées sur la branche Cloud.</p>
     </div>
   </div>
+</div>
+
+---
+
+## 🎯 Exemple 2 : Listes à puces graphiques (Remplacement des tirets)
+
+Pour dynamiser vos listes de points clés et éviter l'effet monotone des puces classiques, utilisez des icônes colorées adaptées à chaque ligne :
+
+<div class="flex flex-col space-y-3 mt-8 max-w-xl mx-auto">
+  
+  <div class="flex items-center space-x-3 text-base">
+    <span class="flex-none text-green-500 text-xl"><i class="bi bi-patch-check-fill"></i></span>
+    <span class="text-gray-700">**Objectif Atteint :** Augmentation de 15% des déploiements automatiques cette année.</span>
+  </div>
+
+  <div class="flex items-center space-x-3 text-base">
+    <span class="flex-none text-sky-500 text-xl"><i class="bi bi-arrow-right-circle-fill"></i></span>
+    <span class="text-gray-700">**Prochaine Étape :** Intégration de nouveaux thèmes et de galeries d'images distantes.</span>
+  </div>
+
+  <div class="flex items-center space-x-3 text-base">
+    <span class="flex-none text-amber-500 text-xl"><i class="bi bi-exclamation-octagon-fill"></i></span>
+    <span class="text-gray-700">**Point de Vigilance :** Attention à respecter la casse des noms de fichiers Markdown.</span>
+  </div>
 
 </div>
+
+---
+
+## 💡 Exemple 3 : Blocs de Notification / "Callout" Épurés
+
+Idéal pour mettre en valeur une remarque, une citation ou un avertissement important sur toute la largeur d'une diapositive :
+
+<!-- Version Information (Bleu ciel) -->
+<div style="background-color: #f0f9ff;" class="p-4 rounded-r-lg border-l-4 border-sky-500 text-gray-800 text-sm flex items-start space-x-3 shadow-sm mx-auto max-w-3xl box-pdf-light">
+  <span class="text-sky-600 text-xl mt-0.5"><i class="bi bi-info-circle-fill"></i></span>
+  <div>
+    <span class="font-bold text-sky-900 block mb-1">Note de configuration</span>
+    Le script GitHub Actions s'occupe de tout. Vous modifiez votre document en ligne, le serveur met à jour le site et le PDF en arrière-plan sous 2 minutes.
+  </div>
+</div>
+
+<div class="h-6"></div> <!-- Espaceur -->
+
+<!-- Version Succès (Vert) -->
+<div style="background-color: #f0fdf4;" class="p-4 rounded-r-lg border-l-4 border-green-500 text-gray-800 text-sm flex items-start space-x-3 shadow-sm mx-auto max-w-3xl box-pdf-light">
+  <span class="text-green-600 text-xl mt-0.5"><i class="bi bi-lightbulb-fill"></i></span>
+  <div>
+    <span class="font-bold text-green-900 block mb-1">Astuce de productivité</span>
+    Pour travailler encore plus vite, utilisez les raccourcis clavier natifs de l'éditeur web (`Ctrl + Maj + P`) pour piloter vos fichiers.
+  </div>
+</div>
+
+---
+
+## 📈 Exemple 4 : Des "KGI / KPI" Inspirés des Tableaux de Bord
+
+Pour présenter des statistiques ou des chiffres clés de manière percutante en mêlant badges Tailwind et icônes Bootstrap :
+
+<div class="grille-3-cols gap-4 mt-8 mx-auto">
+
+  <!-- KPI 1 -->
+  <div class="p-4 rounded-xl border border-gray-200 box-pdf-light shadow-sm text-center">
+    <div class="w-10 h-10 rounded-full bg-blue-100 text-blue-600 mx-auto flex items-center justify-center text-xl mb-2"><i class="bi bi-people-fill"></i></div>
+    <div class="text-2xl font-black text-gray-900">1,250</div>
+    <div class="text-xxs font-bold text-gray-400 uppercase tracking-wide">Utilisateurs Actifs</div>
+    <div class="mt-2 text-xxs text-green-600 font-semibold"><i class="bi bi-graph-up-arrow"></i> +4.8% cette semaine</div>
+  </div>
+
+  <!-- KPI 2 -->
+  <div class="p-4 rounded-xl border border-gray-200 box-pdf-light shadow-sm text-center">
+    <div class="w-10 h-10 rounded-full bg-purple-100 text-purple-600 mx-auto flex items-center justify-center text-xl mb-2"><i class="bi bi-lightning-charge-fill"></i></div>
+    <div class="text-2xl font-black text-gray-900">0.4s</div>
+    <div class="text-xxs font-bold text-gray-400 uppercase tracking-wide">Temps de Rendu</div>
+    <div class="mt-2 text-xxs text-green-600 font-semibold"><i class="bi bi-caret-down-fill"></i> -120ms (Optimisé)</div>
+  </div>
+
+  <!-- KPI 3 -->
+  <div class="p-4 rounded-xl border border-gray-200 box-pdf-light shadow-sm text-center">
+    <div class="w-10 h-10 rounded-full bg-emerald-100 text-emerald-600 mx-auto flex items-center justify-center text-xl mb-2"><i class="bi bi-folder-symlink-fill"></i></div>
+    <div class="text-2xl font-black text-gray-900">100%</div>
+    <div class="text-xxs font-bold text-gray-400 uppercase tracking-wide">Disponibilité PDF</div>
+    <div class="mt-2 text-xxs text-emerald-600 font-semibold"><i class="bi bi-shield-fill-check"></i> Sauvegarde Cloud OK</div>
+  </div>
+
+</div>
+
