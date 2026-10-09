@@ -16,18 +16,21 @@ Contenu...
 
 ---
 # 🍔 Test des images
-💡 Rappel des commandes magiques de Marp pour la mise en page :
+💡 Rappel des commandes magiques de Marp pour la mise en page (w:xx px)...
+Exemple : Changer la taille à 50 px sur l'image suivante :<br>
+![w:50px](img/image1.png)
 
-• Changer la taille : ![w:50px](img/image1.png) (pour fixer la largeur à 200 pixels).
 ---
----
-# Image en arrière plan
+# <span style="color: #ffffff;">Image en arrière plan</span>
 ![bg](img/wallhaven-7jxelo.png) 
+
 ---
----
-# Découpage de l'ecran en deux ?
+# Découpage de l'écran en deux - version 1
+
 • Couper l'écran en deux : ![bg right](img/1790360591299.jpeg) (l'image se place automatiquement sur la moitié droite de la slide)
-* Image à droite :
+
+---
+* Image à droite ?
 ![bg left](img/1790779337907.gif)
 
 ---
