@@ -37,11 +37,6 @@ blockquote:after{
 
 ⚠️ **Règles :** Les présentations n'engagent que leur auteur et ne doivent pas être copiées.
 
---
-
-## 📊 Liste des Diaporamas
-
-
 # Liste des Présentations Marp 🚀
 
 * 📊 **Présentation A** : [Version Web](Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pd
