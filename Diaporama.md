@@ -24,6 +24,6 @@ Voici le contenu :
 
 # Deuxième Diapositive
 
-- Vous pouvez ajouter des images
+- Vous pouvez ajouter des images => à voir comment ?
 - Utiliser du code
 - Et personnaliser le style !
