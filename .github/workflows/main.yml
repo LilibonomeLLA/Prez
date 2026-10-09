@@ -25,12 +25,12 @@ jobs:
       - name: Marp Build (HTML)
         uses: KoharaKazuya/marp-cli-action@v4
         with:
-          args: diaporama.md -o build/index.html
+          args: Diaporama.md -o build/index.html
 
       - name: Marp Build (PDF)
         uses: KoharaKazuya/marp-cli-action@v4
         with:
-          args: diaporama.md -o build/presentation.pdf
+          args: Diaporama.md -o build/presentation.pdf
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
