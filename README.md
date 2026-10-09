@@ -4,19 +4,24 @@ title: Tableau de bord Prez LLA
 paginate: false
 style: |
   @import url('https://googleapis.com');
+  
   /* Règle générale pour toute la présentation (corps de texte) */
   section {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 28px;
   }  
+  
   /* Règle spécifique pour TOUS les titres */
   h1, h2, h3, h4, h5, h6 {
-  font-family: 'Oswald', sans-serif;}
+    font-family: 'Oswald', sans-serif;
+  }
+  
   h1 { font-size: 60px; } /* Ajuste le grand titre */
   h2 { font-size: 45px; } /* Ajuste les titres de section */
-  }
 ---
+Ce texte est en Roboto, mais <span style="font-family: inherit;">ce bout de texte utilise la police par défaut</span> du thème.
+
 # 🚀 Repo : Présentations
 ### Propulsé par @LilibonomeLLA
 
