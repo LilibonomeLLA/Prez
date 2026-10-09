@@ -39,7 +39,7 @@ Exemple : Changer la taille à 50 px sur l'image suivante :<br>
 # Découpage de l'écran en deux - version 3
 
 • Image à gauche - avec la contrainte de s'ajuster 😉
-![bg left contain](1790779337907.gif)
+![bg left contain](img/1790779337907.gif)
 
 ---
 
