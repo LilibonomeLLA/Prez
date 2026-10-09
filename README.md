@@ -1,13 +1,10 @@
 ---
 marp: true
 title: Tableau de bord Prez LLA
-theme: uncover
-_class: lead
 paginate: false
 backgroundColor: #1e293b
 color: #f8fafc
 ---
-
 # 🚀 Repo : Présentations
 ### Propulsé par @LilibonomeLLA
 
@@ -15,7 +12,7 @@ color: #f8fafc
 
 # Liste des Présentations Marp 🚀
 
-(*) 📊 **Présentation A** : [Version Web](Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pdf)
-(*) 🐉 **Présentation B** : [Version Web](diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama.pdf)
-(*) 📈 **Présentation C** : [Version Web](diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa)*
-(*) 🐕️ **Présentation D** : [Version Web](diaporama2.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama2.pdf) *(en prépa)*
+- 📊 **Présentation A** : [Version Web](Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pdf)
+- 🐉 **Présentation B** : [Version Web](diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama.pdf)
+- 📈 **Présentation C** : [Version Web](diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa)*
+- 🐕️ **Présentation D** : [Version Web](diaporama2.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama2.pdf) *(en prépa)*
