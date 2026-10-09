@@ -17,11 +17,14 @@ jobs:
       - name: Create build folder
         run: mkdir -p build
 
-      - name: Compile HTML
-        run: marp diaporama.md -o build/index.html
+      - name: Compile ALL Marp Presentations (HTML & PDF)
+        run: |
+          marp --html --input-dir . --output build
+          marp --pdf --input-dir . --output build
 
-      - name: Compile PDF
-        run: marp diaporama.md -o build/presentation.pdf
+      - name: Rename README to index (Optional)
+        run: |
+          if [ -f build/README.html ]; then mv build/README.html build/index.html; fi
 
       - name: Deploy to GitHub Pages Branch
         uses: JamesIves/github-pages-deploy-action@v4
