@@ -5,6 +5,7 @@ _class: lead
 paginate: false
 backgroundColor: #1e293b
 color: #f8fafc
+title: Tableau de bord Prez LLA
 ---
 <style>
 
@@ -40,8 +41,10 @@ blockquote:after{
 
 ## 📊 Liste des Diaporamas
 
-* [**Présentation A (Web)**](Diaporama.html) | [*(PDF)*](https://github.io)
-* [**Présentation B (Web)**](diaporama.html) | [*(PDF)*](https://github.io)
-* [**Présentation C (Web)**](diaporama1.html) | [*(PDF)*](https://github.io) *(en prépa)*
-* [**Présentation D (Web)**](diaporama2.html) | [*(PDF)*](https://github.io) *(en prépa)*
 
+# Liste des Présentations Marp 🚀
+
+- 📊 **Présentation A** : [Version Web](Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pd
+- 🐉 **Présentation B** : [Version Web](diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama.pdf)
+- 📈 **Présentation C** : [Version Web](diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa)*
+- 🐕️ **Présentation D** : [Version Web](diaporama2.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama2.pdf) *(en prépa)*
