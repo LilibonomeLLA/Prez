@@ -77,6 +77,28 @@ Voici une grille native en Tailwind CSS :
 
 ---
 
+# 🚀 Démonstration Tailwind & Marp (bis)
+
+<!-- ajustement des espaces et taille de police -->
+
+<div class="grille-fixe gap-6 mt-8 mx-auto">
+  
+  <div style="background-color: #334155;" class="p-6 rounded-lg text-white shadow-lg box-pdf-gauche">
+    <!-- Ajustement de la taille du titre (text-lg au lieu de text-xl) -->
+    <h3 class="text-lg font-bold text-blue-400 mb-2">Bloc Gauche</h3>
+    <!-- Réduction à text-xs + Ajout de leading-relaxed pour écarter les lignes -->
+    <p class="text-xs leading-relaxed" style="color: #cbd5e1;">Ce bloc reste obligatoirement ancré à gauche. La structure ne peut plus se briser ni s'empiler verticalement.</p>
+  </div>
+
+  <div class="p-6 rounded-lg text-white shadow-lg box-pdf-droite">
+    <h3 class="text-xl font-bold text-pink-400 mb-2">Bloc Droite</h3>
+    <p class="text-xs leading-relaxed" style="color: #e0e7ff;">Ce bloc reste ancré à droite. L'affichage est désormais identique sur Chrome, Firefox et en PDF.</p>
+  </div>
+
+</div>
+
+---
+
 # 🎨 Autres tests graphiques de Tailwind
 
 🎯 Un texte <span class="text-red-500 font-extrabold uppercase">rouge, en gras et en majuscules</span>.
@@ -270,7 +292,7 @@ Exemples d'icônes directement dans le texte :
     </div>
     <div>
       <h3 class="text-xl font-bold text-sky-400 mb-1">Performances</h3>
-      <p class="text-sm" style="color: #cbd5e1;">L'architecture serveur tourne à plein régime sans aucun ralentissement détecté.</p>
+      <p class="text-xs leading-relaxed" style="color: #cbd5e1;">L'architecture serveur tourne à plein régime sans aucun ralentissement détecté.</p>
     </div>
   </div>
 
@@ -280,12 +302,13 @@ Exemples d'icônes directement dans le texte :
     </div>
     <div>
       <h3 class="text-xl font-bold text-pink-400 mb-1">Sauvegardes</h3>
-      <p class="text-sm" style="color: #e0e7ff;">Les présentations et les images associées sont synchronisées sur la branche Cloud.</p>
+      <p class="text-xs leading-relaxed" style="color: #e0e7ff;">Les présentations et les images associées sont synchronisées sur la branche Cloud.</p>
     </div>
   </div>
 </div>
 
 ---
+
 
 ## 🎯 Exemple 2 : Listes à puces graphiques (Remplacement des tirets)
 
