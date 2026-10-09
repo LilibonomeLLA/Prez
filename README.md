@@ -11,7 +11,9 @@ color: #f8fafc
 ⚠️ **Règles :** Les présentations n'engagent que leur auteur et ne doivent pas être copiées.
 
 # Liste des Présentations Marp 🚀
-
+<style scoped>
+  li { list-style-type: circle; color: cyan; }
+</style>
 - 📊 **Présentation A** : [Version Web](Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pdf)
 - 🐉 **Présentation B** : [Version Web](diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama.pdf)
 - 📈 **Présentation C** : [Version Web](diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa)*
