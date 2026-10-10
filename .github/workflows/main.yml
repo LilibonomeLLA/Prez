@@ -11,10 +11,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install Marp CLI & Mermaid Plugin
-        run: |
-          npm install -g @marp-team/marp-cli
-          npm install -g @marp-team/marp-cli-mermaid-plugin
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
           
       - name: Create build folder
         run: mkdir -p build
