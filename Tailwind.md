@@ -54,10 +54,10 @@ style: |
   .grille-2-cols { display: grid !important; grid-template-columns: 1fr 1fr !important; width: 100% !important; }
 
 ---
-<!-- Injection du script pour inclure Mermaid -->
+<!-- Injection du script pour inclure Mermaid 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({startOnLoad:true});</script>
-<!-- -- -->
+ -- -->
 
 # 🚀 Démonstration Tailwind & Marp
 
@@ -404,7 +404,7 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 ## 📈 Exemple 1 : 
 
 <!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
-<!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe -->
+<!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe
 <pre class="mermaid">
 graph LR
     X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
@@ -414,6 +414,18 @@ graph LR
     style Y fill:#312e81,stroke:#fff,color:#fff
     style Z fill:#064e3b,stroke:#fff,color:#fff
 </pre>
+
+-->
+
+```mermaid
+graph LR
+    X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
+    Y -->|Vérification Style| Z[PDF avec Fonds OK]
+    
+    style X fill:#334155,stroke:#fff,color:#fff
+    style Y fill:#312e81,stroke:#fff,color:#fff
+    style Z fill:#064e3b,stroke:#fff,color:#fff
+```
 
 ---
 
