@@ -14,17 +14,32 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Compile Marp Presentations (HTML & PDF with Mermaid)
-        uses: marp-team/marp-cli-action@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          generate-html: true
-          generate-pdf: true
-          args: --mermaid --allow-local-files --input-dir . --output build
+          node-version: '20'
+
+      - name: Install Marp CLI and Chromium dependencies
+        run: |
+          npm install -g @marp-team/marp-cli
+          # Installation des bibliothèques nécessaires pour que Puppeteer/Chromium fonctionne sur Ubuntu headless
+          sudo apt-get update && sudo apt-get install -y \
+            libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 \
+            libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 \
+            libgbm1 libasound2
+
+      - name: Create build folder
+        run: mkdir -p build
 
       - name: Copy images folder (if it exists)
         run: |
           if [ -d img ]; then cp -r img build/img; fi
           if [ -d images ]; then cp -r images build/images; fi
+
+      - name: Compile ALL Marp Presentations (HTML & PDF with Mermaid)
+        run: |
+          marp --html --mermaid --input-dir . --output build
+          marp --pdf --allow-local-files --mermaid --input-dir . --output build
 
       - name: Rename README to index
         run: |
