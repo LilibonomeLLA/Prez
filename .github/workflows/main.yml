@@ -15,14 +15,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Compile Marp Presentations (HTML & PDF with Mermaid)
-        uses: marp-team/marp-action@v3
+        uses: marp-team/marp-cli-action@v1
         with:
-          input-dir: .
-          output-dir: build
-          html: true
-          pdf: true
-          mermaid: true
-          allow-local-files: true
+          generate-html: true
+          generate-pdf: true
+          args: --mermaid --allow-local-files --input-dir . --output build
 
       - name: Copy images folder (if it exists)
         run: |
