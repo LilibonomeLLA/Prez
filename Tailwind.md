@@ -8,6 +8,11 @@ style: |
   @import url('https://unpkg.com/tailwindcss@^2/dist/utilities.min.css');
   /* Ajout de Bootstrap-icons */
   @import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css');
+  @import { Marp } from '@marp-team/marp-core';
+  @import katexPlugin from '@marp-team/marp-core/plugins/katex';
+  @import shikiPlugin from '@marp-team/marp-core/plugins/shiki';
+
+const marp = new Marp().use(shikiPlugin()).use(katexPlugin());
   
   /* Astuce : Forcer Marp à respecter la taille de texte de Tailwind */
   section p, section div, section h1, section h2, section h3, section i {
