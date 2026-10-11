@@ -403,6 +403,8 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 
 ## 📈 Exemple 1 : 
 
+![alt text](https://mermaid.ink/svg/pako:eNp1kFEKwjAQhu8-RTlnCYIewlPP3oX24B0wV5tM0y5t0o7SO3gQXjwVvWbv_5s2S6sXj3m_S6481qSUnmY8p8mE43Yw48B5N4x98p4vQ53mB7_uQ1m8sK1Ld8rI2v09yK50F1V8-mJ-t2sLwJcZ78wzNeehFf0tN60v7L8AALr91w)
+
 <!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
 <!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe -->
 
