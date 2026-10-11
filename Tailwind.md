@@ -406,7 +406,7 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 <!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
 <!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe -->
 
-<pre class="mermaid">
+<div class="mermaid">
 graph LR
     X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
     Y -->|Vérification Style| Z[PDF avec Fonds OK]
@@ -414,7 +414,7 @@ graph LR
     style X fill:#334155,stroke:#fff,color:#fff
     style Y fill:#312e81,stroke:#fff,color:#fff
     style Z fill:#064e3b,stroke:#fff,color:#fff
-</pre>
+</div>
 
 
 ```mermaid
