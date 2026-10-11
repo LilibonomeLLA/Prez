@@ -455,7 +455,7 @@ mindmap
 
 Mermaid possède un outil dédié aux frises (Timeline) qui gère automatiquement l'alignement et la mise en page des dates :
 
-<pre class="mermaid">
+```mermaid
 timeline
     title Plan de Déploiement 2026
     Semaine 1 : Cadrage : Initialisation du repo GitHub
@@ -466,5 +466,5 @@ timeline
               : Ajustements des PDF
     Semaine 4 : Lancement : Portail README.md actif
               : Diaporamas en production
-</pre>
+```
 
