@@ -55,9 +55,10 @@ style: |
 
 ---
 
- <!-- Ajout du moteur Mermaid pour le rendu graphique (HTML et PDF) -->
+ <!-- Ajout du moteur Mermaid pour le rendu graphique (HTML et PDF) 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({ startOnLoad: true });</script>
+-->
 
 # 🚀 Démonstration Tailwind & Marp
 
@@ -447,7 +448,7 @@ mindmap
       Images img/
       Schémas Mermaid
 ```
-[Carte Mentale Mermaid](https://mermaid.ink/img/pako:eNpdjt1OwjAYhm-l-Y4gWXAbjG09UzDKgYYEExOzk7J-G420Xbo2IIQL8jq8MTuQaexJ2yfv3xFKzREoSKG4ZE2hCDFa28FgafBAnphphsMOEjLTqhK1M8wKrS6IkAdhH92a3JYdbP_RJauxZ_dcWHSGvOL6gubYiroPemFiu_MbyGy1urI7P6S1hjVkUf5Jf9mgxJY8-yFV22-zqFyvwL31Cr_-netd37GQ3SAiZH1zRaty8_UpmdeikUxwCKA2_qLWOAxA_lAKx85RgO26C6D-ybFibmsLKNTJ2xqm3rSWV6fRrt4Ardi29T_XcGZxLlht2K8EFUcz005ZoHF6jgB6hD3QcTgdRZNwnITjSZTm0zyAD6CTZBRmaRol0STL4yTNTgEczp3hKEuT0J94GudhmkWnbzFekWE)
+![Carte Mentale Mermaid](https://mermaid.ink/img/pako:eNpdjt1OwjAYhm-l-Y4gWXAbjG09UzDKgYYEExOzk7J-G420Xbo2IIQL8jq8MTuQaexJ2yfv3xFKzREoSKG4ZE2hCDFa28FgafBAnphphsMOEjLTqhK1M8wKrS6IkAdhH92a3JYdbP_RJauxZ_dcWHSGvOL6gubYiroPemFiu_MbyGy1urI7P6S1hjVkUf5Jf9mgxJY8-yFV22-zqFyvwL31Cr_-netd37GQ3SAiZH1zRaty8_UpmdeikUxwCKA2_qLWOAxA_lAKx85RgO26C6D-ybFibmsLKNTJ2xqm3rSWV6fRrt4Ardi29T_XcGZxLlht2K8EFUcz005ZoHF6jgB6hD3QcTgdRZNwnITjSZTm0zyAD6CTZBRmaRol0STL4yTNTgEczp3hKEuT0J94GudhmkWnbzFekWE)
 
 ---
 
@@ -467,4 +468,4 @@ timeline
     Semaine 4 : Lancement : Portail README.md actif
               : Diaporamas en production
 ```
-
+![TimeLine](https://mermaid.ink/img/pako:eNptkUFu2zAQRa9CcG0YlCxZMnepnaYBatSouyq0YcWxxJQiVWqIpDV8IJ_DF-vIahEYyayG4P_vD4dHXnsNXHI0HVjjoHKMCg1aYDurHNPANpdzb72BDhyyVKTLSbSHTpGDJUyytdJBNUDdozNolDWDQuPJHlmA3rMHg5_ij8n4WmRsvXkZVVsVfmr_7G7ZKUm-RDR2uKLxcm7CBP6mjH02TrP1fv8O1ruDaeI_7QfvccCgevZYezfcRixI_kB3rfkVYYzZ1-3l3KmBbSGQRL-l3z3FAa_rGGg_A9ttPt4yMxJ9Vq6eVibZzgekednX-7vN9n7eaaZqNIe35I1RvQ9qTAfH-uB1rMcn8BlvgtFcYogw4900Gf3bcWRUHFuKqrikVsNBRYsVr9yJbL1y373v_juDj03L5UHZgU6x1wqBQmmrrxJwGsLaR4dcJuKK4PLIX7hciOU8ycQiF4ssKVbL1Yz_5jLL56IsiiRPsnKV5kV5mvE_10wxL4tcUKVFWoq8XJ7-AmmnwTo)
