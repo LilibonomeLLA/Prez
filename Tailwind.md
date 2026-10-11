@@ -403,7 +403,7 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 
 ## 📈 Exemple 1 : 
 
-![alt text](https://mermaid.ink/svg/pako:eNp1kFEKwjAQhu8-RTlnCYIewlPP3oX24B0wV5tM0y5t0o7SO3gQXjwVvWbv_5s2S6sXj3m_S6481qSUnmY8p8mE43Yw48B5N4x98p4vQ53mB7_uQ1m8sK1Ld8rI2v09yK50F1V8-mJ-t2sLwJcZ78wzNeehFf0tN60v7L8AALr91w)
+![Diagramme avec Mermaid Ink](https://mermaid.ink/img/pako:eNqNkNtKw0AQhl9lmd4opCWHTZPshSAtVVBRLEgP6cU22bRLk92y2Whr2gfyOXwxN6kVbwTnYph_Zr4Z-GtIZMqAQCxWim7X6P45FsjEZD4wAzSWlUoYeqBqk8o3sUDd7tVhIIuC6wOaXtxwfVst0XWiuRTl5Qmdtksvnx-KZzyhzQiN9T5nBzSbPw1HiL6yBI2kSEv0eLc4QadcNmtogjKe56TjedjxfavUSm4Y6WRZZiUyl6otfwPTM-C4LHT-Acy-AbuPmbf8EwALVoqnQLSqmAUFUwVtJNTNsRj0mhUsBmJKxdJq123h2Jh5NOiWipmUxZlWslqtgWQ0L42qtinVbMipsb346SomUqYGshIaiOu2N4DUsAPi2f2eg23Pt40rQdSPLNgDwX7PDoPA8R0cRq4fhEcL3tundi8McGQicN0QYwcfvwBUY5rz)
 
 <!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
 <!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe -->
