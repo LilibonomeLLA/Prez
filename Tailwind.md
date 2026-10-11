@@ -54,10 +54,10 @@ style: |
   .grille-2-cols { display: grid !important; grid-template-columns: 1fr 1fr !important; width: 100% !important; }
 
 ---
-<!-- Injection du script pour inclure Mermaid 
+
+ <!-- Ajout du moteur Mermaid pour le rendu graphique (HTML et PDF) -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad:true});</script>
- -- -->
+<script>mermaid.initialize({ startOnLoad: true });</script>
 
 # 🚀 Démonstration Tailwind & Marp
 
