@@ -414,7 +414,6 @@ graph LR
     style Y fill:#312e81,stroke:#fff,color:#fff
     style Z fill:#064e3b,stroke:#fff,color:#fff
 </pre>
-
 -->
 
 ```mermaid
@@ -433,7 +432,7 @@ graph LR
 
 Idéale pour schématiser des sessions de remue-méninges (brainstorming) ou l'architecture d'un projet :
 
-<pre class="mermaid">
+```mermaid
 mindmap
   root((Prez Marp))
     Configuration
@@ -448,7 +447,7 @@ mindmap
       Textes Markdown
       Images img/
       Schémas Mermaid
-</pre>
+```
 
 ---
 
