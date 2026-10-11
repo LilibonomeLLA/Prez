@@ -1,3 +1,83 @@
+-- version revue par copilot pour intégrer le Mermaid
+name: Deploy Marp Presentation
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Compile Marp Presentations (HTML & PDF with Mermaid)
+        uses: marp-team/marp-action@v3
+        with:
+          input-dir: .
+          output-dir: build
+          html: true
+          pdf: true
+          mermaid: true
+          allow-local-files: true
+
+      - name: Copy images folder (if it exists)
+        run: |
+          if [ -d img ]; then cp -r img build/img; fi
+          if [ -d images ]; then cp -r images build/images; fi
+
+      - name: Rename README to index
+        run: |
+          if [ -f build/README.html ]; then mv build/README.html build/index.html; fi
+
+      - name: Deploy to GitHub Pages Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
+          branch: gh-pages
+-- Version du Yaml qui fonctionne mais sans le Mermaid
+name: Deploy Marp Presentation
+on:
+  push:
+    branches: [ main ]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
+          
+      - name: Create build folder
+        run: mkdir -p build
+        
+      - name: Copy images folder (if it exists)
+        run: |
+          if [ -d img ]; then cp -r img build/img; fi
+
+      - name: Compile ALL Marp Presentations (HTML & PDF)
+        run: |
+          marp --html --input-dir . --output build
+          marp --pdf --allow-local-files --input-dir . --output build
+
+      - name: Rename README to index
+        run: |
+          if [ -f build/README.html ]; then mv build/README.html build/index.html; fi
+
+      - name: Deploy to GitHub Pages Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
+          branch: gh-pages
+
 --- Nouvelle version avec retour sur du Marp pour le fichier README.MD ---
 --- La version précédente renvoyait juste une page HTML, facon texte brut... plus de liens, de sauts de ligne... ---
 name: Deploy Marp Presentation
