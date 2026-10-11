@@ -404,7 +404,8 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 ## 📈 Exemple 1 : 
 
 <!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
-<!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe
+<!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe -->
+
 <pre class="mermaid">
 graph LR
     X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
@@ -414,7 +415,7 @@ graph LR
     style Y fill:#312e81,stroke:#fff,color:#fff
     style Z fill:#064e3b,stroke:#fff,color:#fff
 </pre>
--->
+
 
 ```mermaid
 graph LR
