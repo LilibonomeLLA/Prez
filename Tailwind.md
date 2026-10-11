@@ -405,19 +405,15 @@ Pour présenter des statistiques ou des chiffres clés de manière percutante en
 
 ![Diagramme avec Mermaid Ink](https://mermaid.ink/img/pako:eNqNkNtKw0AQhl9lmd4opCWHTZPshSAtVVBRLEgP6cU22bRLk92y2Whr2gfyOXwxN6kVbwTnYph_Zr4Z-GtIZMqAQCxWim7X6P45FsjEZD4wAzSWlUoYeqBqk8o3sUDd7tVhIIuC6wOaXtxwfVst0XWiuRTl5Qmdtksvnx-KZzyhzQiN9T5nBzSbPw1HiL6yBI2kSEv0eLc4QadcNmtogjKe56TjedjxfavUSm4Y6WRZZiUyl6otfwPTM-C4LHT-Acy-AbuPmbf8EwALVoqnQLSqmAUFUwVtJNTNsRj0mhUsBmJKxdJq123h2Jh5NOiWipmUxZlWslqtgWQ0L42qtinVbMipsb346SomUqYGshIaiOu2N4DUsAPi2f2eg23Pt40rQdSPLNgDwX7PDoPA8R0cRq4fhEcL3tundi8McGQicN0QYwcfvwBUY5rz)
 
-<!-- Utilisation de la balise div class="mermaid" pour forcer le rendu graphique -->
-<!-- et utilisation de la balise <pre> pour isoler strictement le code Mermaid, sinon erreur de syntaxe -->
+<!-- 
+Méthode pour faire fonctionner les schémas Mermaid :
 
-<div class="mermaid">
-graph LR
-    X[Code Source Markdown] -->|Commit| Y(GitHub Actions)
-    Y -->|Vérification Style| Z[PDF avec Fonds OK]
-    
-    style X fill:#334155,stroke:#fff,color:#fff
-    style Y fill:#312e81,stroke:#fff,color:#fff
-    style Z fill:#064e3b,stroke:#fff,color:#fff
-</div>
+1> Aller sur Mermaid Live Editor (https://mermaid.live/)
+2> Collez le code Mermaid et recopier dans l'URL (après le https://mermaid.live/edit#) le code sur
+3> https://mermaid.ink/img/ (ici) pour vérifier que l'image s'affiche
+4> Insérer cette URL comme une image  ![Texte Alt](URL_SVG_MERMAID)
 
+-->
 
 ```mermaid
 graph LR
@@ -451,6 +447,7 @@ mindmap
       Images img/
       Schémas Mermaid
 ```
+[Carte Mentale Mermaid](https://mermaid.ink/img/pako:eNpdjt1OwjAYhm-l-Y4gWXAbjG09UzDKgYYEExOzk7J-G420Xbo2IIQL8jq8MTuQaexJ2yfv3xFKzREoSKG4ZE2hCDFa28FgafBAnphphsMOEjLTqhK1M8wKrS6IkAdhH92a3JYdbP_RJauxZ_dcWHSGvOL6gubYiroPemFiu_MbyGy1urI7P6S1hjVkUf5Jf9mgxJY8-yFV22-zqFyvwL31Cr_-netd37GQ3SAiZH1zRaty8_UpmdeikUxwCKA2_qLWOAxA_lAKx85RgO26C6D-ybFibmsLKNTJ2xqm3rSWV6fRrt4Ardi29T_XcGZxLlht2K8EFUcz005ZoHF6jgB6hD3QcTgdRZNwnITjSZTm0zyAD6CTZBRmaRol0STL4yTNTgEczp3hKEuT0J94GudhmkWnbzFekWE)
 
 ---
 
