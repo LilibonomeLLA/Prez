@@ -36,8 +36,8 @@ style: |
 <style scoped>
   li { list-style-type: circle; color: black; }
 </style>
-- 📊 **Présentation A** : [Version Web](Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pdf)
-- 🐉 **Présentation B** : [Version Web](diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama.pdf)
-- 📈 **Présentation C** : [Version Web](diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa- test pagination)*
-- 🐈️ **Présentation D** : [Version Web](Tailwind.html) | [Version PDF](https://lilibonomella.github.io/Prez/Tailwind.pdf) *(draft - tests Tailwind+Bootstrap Icons)*
-- 🐕️ **Présentation E** : [Version Web](diaporama2.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama2.pdf) *(vide)*
+- 📊 **Présentation A** : [Version Web](https://lilibonomella.github.io/Prez/Diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/Diaporama.pdf)
+- 🐉 **Présentation B** : [Version Web](https://lilibonomella.github.io/Prez/diaporama.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama.pdf)
+- 📈 **Présentation C** : [Version Web](https://lilibonomella.github.io/Prez/diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa- test pagination)*
+- 🐈️ **Présentation D** : [Version Web](https://lilibonomella.github.io/Prez/Tailwind.html) | [Version PDF](https://lilibonomella.github.io/Prez/Tailwind.pdf) *(draft - tests Tailwind+Bootstrap Icons)*
+- 🐕️ **Présentation E** : [Version Web](https://lilibonomella.github.io/Prez/diaporama2.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama2.pdf) *(vide)*
