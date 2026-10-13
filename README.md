@@ -41,3 +41,7 @@ style: |
 - 📈 **Présentation C** : [Version Web](https://lilibonomella.github.io/Prez/diaporama1.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama1.pdf) *(en prépa- test pagination)*
 - 🐈️ **Présentation D** : [Version Web](https://lilibonomella.github.io/Prez/Tailwind.html) | [Version PDF](https://lilibonomella.github.io/Prez/Tailwind.pdf) *(draft - tests Tailwind+Bootstrap Icons)*
 - 🐕️ **Présentation E** : [Version Web](https://lilibonomella.github.io/Prez/diaporama2.html) | [Version PDF](https://lilibonomella.github.io/Prez/diaporama2.pdf) *(vide)*
+
+- 🦜 **Présentation S** : [Version Web](https://lilibonomella.github.io/Prez/afac.html) | [Version PDF](https://lilibonomella.github.io/Prez/afac.pdf) *(AFAC)*
+ 
+    
