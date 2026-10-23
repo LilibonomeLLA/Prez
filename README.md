@@ -44,4 +44,9 @@ style: |
 
 - 🦜 **Présentation S** : [Version Web](https://lilibonomella.github.io/Prez/afac.html) | [Version PDF](https://lilibonomella.github.io/Prez/afac.pdf) *(AFAC)*
  
-    
+---
+## Quelques ressources intéressantes
+
+[La forge des communs Numérique - site Edu](https://docs.forge.apps.education.fr/)
+[Generate Multiple Pretty URL Presentations with Marp and JavaScript](https://www.junian.dev/blog/marp-generate-multiple-presentations/)
+[Mind Map simples](https://mymarkmap.netlify.app/)
