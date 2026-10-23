@@ -23,7 +23,7 @@ paginate: true
 img[alt~="top-right"] {
   position: absolute;
   top: 30px;
-  right: 30px;
+  right: 70px;
 }
 </style>
 
@@ -31,7 +31,7 @@ img[alt~="top-right"] {
 img[alt~="bottom-right"] {
   position: absolute;
   top: 400px;
-  right: 0px;
+  right: 70px;
 }
 </style>
 
