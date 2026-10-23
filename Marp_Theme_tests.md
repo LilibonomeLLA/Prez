@@ -36,5 +36,5 @@ img[alt~="bottom-right"] {
 </style>
 
 
-![top-right](img/image1.png)
-![bottom-right](img/image2.png)
+![top-right width:80px](img/image1.png)
+![bottom-right width:80px](img/image2.png)
