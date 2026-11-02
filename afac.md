@@ -243,7 +243,9 @@ ___________________________________________
 ### Personnes en contact
 
 > Matthieu LEJARDS : Associé (11 ans chez Caderas)
+> 
 > Marie-Hélène VOLPE : Associée (27 ans chez Calderas)
+> 
 > Sandrine Clémente : (Admin sys) => 35 années de dévouement et d’innovation 
 
 ##### Association ATH
