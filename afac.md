@@ -14,6 +14,8 @@ Pour un poste de DSI, il faut articuler ton discours autour de la stratégie de 
 
 Je te propose une synthèse orientée entretien, avec les informations à connaître, les arguments de motivation à développer et des formulations que tu pourras reprendre à l'oral.
 
+---
+
 ## 1. Synthèse des informations clés sur Caderas Martin
 
 🦜 Cabinet d’expertise comptable, d’audit et de conseil : Fondé en **1978**, le cabinet accompagne des entreprises françaises et internationales dans leurs problématiques comptables, financières, fiscales et sociales. Il privilégie une relation client personnalisée et une organisation transversale.
@@ -23,6 +25,8 @@ Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=
 ![w:250px](img/139.png)
 
 Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
+
+---
 
 ### Son positionnement et ses métiers
 
@@ -39,9 +43,13 @@ Sa clientèle comprend notamment des PME, des ETI, des filiales de groupes étra
 
 ### Ses particularités différenciatrices
 
+---
+
 #### Une forte dimension internationale
 
 Plus de la moitié de la clientèle est internationale. Le cabinet possède notamment un Japan Desk, un Nordik Desk et un bureau de liaison à Tokyo. Cette dimension implique des échanges internationaux, des exigences de confidentialité et des besoins de collaboration numérique.
+
+---
 
 #### Une organisation transverse
 
@@ -50,6 +58,8 @@ Le cabinet adapte ses équipes aux besoins des missions plutôt que de rattacher
 #### Une culture déjà orientée vers la digitalisation
 
 Utilisation de logiciels spécialisés en comptabilité, audit, consolidation, paie, planification et partage documentaire. Le cabinet propose également des outils collaboratifs et un espace client. Le poste de DSI s'inscrit donc dans un environnement numérique existant, à faire évoluer plutôt qu'à construire de zéro.
+
+---
 
 ### Culture d’entreprise et valeurs
 
@@ -66,6 +76,8 @@ Les éléments mis en avant par le cabinet sont :
 
 Le cabinet indique explicitement vouloir utiliser des outils performants et limiter les tâches sans valeur ajoutée. C’est un point particulièrement intéressant à exploiter pour expliquer ta vision du rôle d’un DSI.
 
+---
+
 ## 2. Les enjeux stratégiques du SI à comprendre avant l’entretien
 
 Il faut distinguer les faits publiés par le cabinet des hypothèses que tu pourras vérifier en entretien. Les enjeux suivants sont des pistes de réflexion pertinentes pour un DSI, pas un diagnostic de l'état actuel de son informatique.
@@ -74,9 +86,13 @@ Il faut distinguer les faits publiés par le cabinet des hypothèses que tu pour
 
 Le cabinet manipule des données comptables, financières, fiscales, sociales et des informations sensibles concernant ses clients. Les priorités sont donc la cybersécurité, les sauvegardes restaurables, la gestion des identités et des accès, la protection des postes, la réponse aux incidents et la continuité de service.
 
+---
+
 #### 2. Modernisation et cohérence du portefeuille applicatif
 
 L’enjeu consiste à faire fonctionner ensemble les outils métiers, la GED, la paie, les applications collaboratives, le reporting et les solutions de dématérialisation. Il faut rechercher la simplicité d’usage, la qualité des interfaces, la maîtrise des coûts et la réduction des doubles saisies.
+
+---
 
 #### 3. Facturation électronique et transformation des processus
 
@@ -86,11 +102,15 @@ C’est un sujet particulièrement concret : le cabinet communique sur la réfor
 
 Dans un cabinet de cette taille, l'informatique doit être un facilitateur du quotidien : disponibilité des applications, assistance réactive, accès sécurisé aux dossiers, mobilité et accompagnement des utilisateurs. Une évolution technologique n’a de valeur que si elle améliore effectivement le travail des collaborateurs.
 
+---
+
 #### 5. Pilotage, maîtrise des coûts et innovation
 
 Le DSI doit arbitrer entre maintien en conditions opérationnelles, investissements, projets métiers et innovations telles que l’automatisation ou l’IA. La réussite se mesure par des résultats tangibles : moins de tâches manuelles, des délais réduits, une meilleure qualité de données et des risques mieux maîtrisés.
 
 Un élément supplémentaire mérite ton attention : le site carrière affiche actuellement un poste de **Directeur de la Transformation Digitale & Data**. Il serait utile de vérifier si le poste de DSI dont tu as été informé correspond à cette fonction, à un poste distinct ou à une évolution de l’organisation.
+
+---
 
 ## 3. Les éléments de motivation à mettre en avant
 
@@ -104,6 +124,8 @@ Formulation possible :
 
 > « Ce qui m'intéresse chez Caderas Martin, c'est que le système d'information est directement lié à la qualité du service rendu aux clients. Dans un cabinet d'expertise comptable et d'audit, la disponibilité des outils, la sécurité des données et la fluidité des processus sont essentielles. Je souhaite inscrire la DSI dans cette logique : un SI fiable et sécurisé, mais également un levier de performance et de différenciation. »
 
+---
+
 ### Axe 2 — Participer à une transformation numérique concrète
 
 Le cabinet a déjà engagé une démarche de digitalisation et travaille sur les évolutions de ses outils comptables et de facturation électronique.
@@ -111,6 +133,8 @@ Le cabinet a déjà engagé une démarche de digitalisation et travaille sur les
 Ton argument : tu es attiré par un contexte où il faut articuler les besoins métiers, les choix technologiques, la conduite du changement et les résultats opérationnels.
 
 > « Je suis particulièrement motivé par la possibilité de faire évoluer un système d'information déjà structuré, en priorisant les projets qui apportent une valeur mesurable aux métiers. La transformation numérique doit se traduire par des processus plus simples, une meilleure circulation de l'information et davantage de temps consacré aux activités à valeur ajoutée. »
+
+---
 
 ### Axe 3 — Travailler dans une structure à taille humaine et à dimension internationale
 
@@ -120,6 +144,8 @@ Ton argument : tu peux valoriser l'intérêt d'une fonction qui travaille direct
 
 > « J'apprécie les environnements dans lesquels la DSI peut travailler en proximité avec les décideurs et les utilisateurs. La taille du cabinet, sa diversité de métiers et son ouverture internationale me semblent offrir un contexte intéressant pour concilier vision stratégique, pragmatisme opérationnel et accompagnement humain. »
 
+---
+
 ### Axe 4 — Construire une informatique durable, sécurisée et utile
 
 La confidentialité des données, la conformité et la continuité des activités sont essentielles dans ce secteur.
@@ -127,6 +153,8 @@ La confidentialité des données, la conformité et la continuité des activité
 Ton argument : tu souhaites associer la modernisation du SI à une maîtrise rigoureuse des risques, plutôt que de privilégier l'innovation pour elle-même.
 
 > « Pour moi, la performance d'une DSI repose sur un équilibre entre trois dimensions : la robustesse opérationnelle, la maîtrise des risques et la capacité à accompagner les évolutions du métier. Je souhaite construire une trajectoire qui concilie ces trois dimensions, avec des priorités partagées avec la direction et des résultats mesurables. »
+
+---
 
 ## 4. Comment répondre à la question « Pourquoi Caderas Martin ? »
 
@@ -144,6 +172,8 @@ C'est cette combinaison entre enjeux technologiques, impact métier et proximit�
 
 Conseil important : cette réponse gagnera en force si tu y ajoutes un exemple précis de ton parcours : une transformation réussie, une amélioration de la disponibilité du SI, une réduction des coûts, un projet de cybersécurité ou une équipe que tu as accompagnée.
 
+---
+
 ## 5. Les questions RH probables et la manière d'y répondre
 
 L'entreprise indique que son entretien RH porte notamment sur le parcours, le projet professionnel, les valeurs et les motivations du candidat.
@@ -159,6 +189,8 @@ L'entreprise indique que son entretien RH porte notamment sur le parcours, le pr
 |Quel est votre principal axe de progrès ?|Du recul sur toi-même et une capacité d'amélioration.|
 |Quelles sont vos attentes en matière de rémunération ?|La cohérence entre tes responsabilités, ton expérience et le poste.|
 
+---
+
 ### Les trois messages à faire passer sur ton profil
 
 - Un DSI orienté métier : tu comprends que la technologie doit servir la stratégie, les clients et les collaborateurs.
@@ -170,6 +202,8 @@ L'entreprise indique que son entretien RH porte notamment sur le parcours, le pr
 
 *Pour les questions sur tes réalisations, prépare trois exemples au format STAR : situation, tâche, actions, résultats. Dans chaque exemple, chiffre le résultat dès que possible et distingue clairement ce que tu as personnellement réalisé de ce qui relève de l'équipe.*
 
+---
+
 ## 6. Les questions pertinentes à poser au recruteur
 
 Le but n'est pas de présenter un audit informatique dès le premier entretien, mais de montrer que tu réfléchis déjà aux enjeux de la fonction.
@@ -179,7 +213,9 @@ Le but n'est pas de présenter un audit informatique dès le premier entretien, 
 - Quelles sont les raisons qui conduisent le cabinet à recruter aujourd'hui sur cette fonction ?
 - Quelles seraient les trois priorités attendues du DSI au cours des six à douze premiers mois ?
 - Quel est le périmètre exact du poste : infrastructure, cybersécurité, applications métiers, data et transformation digitale ?
-    
+
+---
+
 ### Sur l'organisation et la gouvernance
 - À qui le DSI est-il rattaché et comment les décisions informatiques sont-elles arbitrées avec les associés ?
 - Quelle est la composition de l'équipe informatique et quelle part des services est externalisée ?
@@ -188,11 +224,16 @@ Le but n'est pas de présenter un audit informatique dès le premier entretien, 
 - Où en est le cabinet dans l'évolution de ses outils comptables et de sa stratégie de facturation électronique ?
 - Quels sont les principaux enjeux actuels en matière de cybersécurité, de continuité d'activité et de gestion des données ?
 - Quelle place souhaitez-vous donner à l'automatisation, à la data et à l'intelligence artificielle ?
+
+---
+
 ### Sur la réussite dans le poste
 - Quels résultats concrets vous permettraient de considérer que le recrutement est une réussite au bout d'un an ?
 - Quelle autonomie et quels moyens seront donnés au DSI pour conduire les évolutions prioritaires ?  
 
 Je te recommande d'en retenir quatre ou cinq en fonction du déroulement de l'échange. La question sur les attentes à douze mois est particulièrement utile : elle permet de comprendre si l'entreprise attend principalement un responsable de la production informatique, un directeur de la transformation ou une combinaison des deux.
+
+---
 
 ## 7. Ta vision des 90 premiers jours : un bon sujet pour te différencier
 
@@ -203,12 +244,16 @@ Je te recommande d'en retenir quatre ou cinq en fonction du déroulement de l'é
 
 -> Rencontrer les associés, les responsables métiers, l'équipe informatique et les prestataires. Comprendre les applications, les contrats, les incidents récurrents, les risques de sécurité, les coûts et les projets en cours.
 
+---
+
 ### Jours 31–60
 
 - Prioriser
 - Définir une feuille de route partagée
 
 -> Hiérarchiser les risques et les projets selon leur valeur métier, leur urgence, leur coût et leur faisabilité. Identifier quelques améliorations rapides et définir des indicateurs de performance.
+
+---
 
 ### Jours 61–90
 
@@ -218,6 +263,8 @@ Je te recommande d'en retenir quatre ou cinq en fonction du déroulement de l'é
 -> Présenter une feuille de route validée avec la direction, sécuriser les sujets les plus critiques, engager une première amélioration opérationnelle et clarifier la gouvernance des projets.
 
 Les indicateurs pourraient inclure la disponibilité des applications critiques, le délai de résolution des incidents, le niveau de couverture des sauvegardes testées, l'avancement des projets prioritaires, la satisfaction des utilisateurs et le coût des services informatiques.
+
+---
 
 ## 8. Point de vigilance : clarifier le périmètre réel du poste
 
@@ -235,6 +282,8 @@ Il serait donc pertinent de déterminer si le recrutement vise :
     
 
 Cette distinction conditionne les compétences à mettre en avant, les questions à poser et la façon de présenter ta vision du poste.
+
+---
 
 ## 9. La fiche mémo à retenir avant l'entretien
 
@@ -260,14 +309,18 @@ ___________________________________________
 
 ATH : **Association Technique d’Harmonisation** est une émanation de **32 cabinets** indépendants d’audit
 
-![w:300px](img/2164946.png)
+![[Pasted image 20261102164946.png]]
 
-une vision équilibrée du management :
+---
+
+Une vision équilibrée du management :
 
     Exiger sans pression excessive,
     Déléguer sans abandonner,
     Encadrer sans brider l’autonomie,
     Former sans imposer un modèle unique.
+
+---
 
 ### Le poste
 
@@ -288,13 +341,17 @@ Vous aurez notamment pour responsabilités de :
     - veiller à la prise en compte des exigences liées au RGPD et à la protection des données dans les projets numériques ;
     - accompagner les équipes dans l’évolution de leurs pratiques et favoriser l’adoption des nouveaux outils.
 
+---
+
 Vous travaillerez en étroite collaboration avec l’ensemble des directions métiers et coordonnerez les différents acteurs internes et externes intervenant sur les projets numériques.
 
- Nous recherchons avant tout un(e) bâtisseur(se), capable de transformer une vision en projets concrets et mesurables.
+Nous recherchons avant tout un(e) bâtisseur(se), capable de transformer une vision en projets concrets et mesurables.
 
 Issu(e) d’une formation supérieure de type école d’ingénieur, Master, école de commerce avec une spécialisation numérique ou équivalent, vous justifiez d’une expérience confirmée d’au moins 10 ans dans des fonctions de direction de la transformation, direction produit, direction des systèmes d’information ou direction de l’innovation.
 
 Vous avez déjà piloté des projets de transformation numérique d’envergure et êtes capable de conjuguer vision stratégique, compréhension technique et conduite du changement.
+
+---
 
 Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
 
@@ -306,12 +363,16 @@ Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
     cybersécurité ;
     pilotage de projets complexes et de partenaires.
 
+---
+
 Une expérience acquise dans une entreprise de services, un éditeur de logiciels, une ESN ou une entreprise fortement digitalisée sera particulièrement appréciée.
 
 Au-delà de votre expertise, nous recherchons une personnalité capable de fédérer, convaincre et accompagner les équipes, avec une forte capacité à travailler en transversal.
 
 Autonomie pour définir la feuille de route numérique du cabinet
 Prioriser les projets et construire progressivement une véritable direction de la transformation.
+
+---
 
 Vous aurez l’opportunité d’avoir un impact direct et mesurable sur :
 - la productivité et le quotidien de nos équipe    
@@ -334,12 +395,16 @@ Pour cet entretien, je m'attendrais notamment à :
     
 3. **« Comment arbitrez-vous entre maintien en condition opérationnelle, dette technique et nouveaux projets ? »**
     
+---
+
 4. **« Quelle est votre approche de la cybersécurité ? »**
     
 5. **« Que feriez-vous avec l'IA ? »**
     
 6. **« Comment faites-vous travailler la DSI avec les métiers ? »**
     
+---
+
 7. **« Comment managez-vous une équipe de 15 à 20 personnes ? »**
     
 8. **« Comment gérez-vous les prestataires et l'externalisation ? »**
@@ -348,13 +413,19 @@ Pour cet entretien, je m'attendrais notamment à :
     
 10. **« Quelle relation souhaitez-vous avoir avec le DG et les membres du CODIR ? »**
 
+---
+
 Ce qui me donne envie de rejoindre => c’est d’abord la combinaison entre une **mission qui a du sens**  et un véritable **enjeu de transformation**.
 
 Je trouve particulièrement intéressant que le système d’information soit aussi directement **connecté au cœur de métier de ...** : la gestion des droits, la relation avec les clients, la donnée et les nouveaux enjeux liés notamment à l’intelligence artificielle. Cela donne au DSI une responsabilité qui va bien au-delà du fonctionnement de l’IT.
 
+---
+
 Le deuxième élément qui m’attire beaucoup, c’est la dimension stratégique du poste. Le rattachement à la Direction Générale et la participation au comité de direction montrent que la DSI doit être un partenaire des métiers et contribuer aux choix structurants de l’organisation. C’est exactement la dimension que je recherche aujourd’hui : être capable à la fois de garantir un SI robuste et sécurisé et d’utiliser le numérique comme un levier de transformation et de création de valeur.
 
 Enfin, la **taille de la structure et de l’équipe** ainsi que l’étendue du périmètre me plaisent beaucoup. Il y a à la fois un enjeu de **stratégie**, de **transformation technologique**, de **cybersécurité**, de **data** et d’**IA**, mais aussi un véritable **enjeu humain et managérial**.
+
+---
 
 C’est donc un poste qui me paraît particulièrement complet, avec une vraie capacité d’impact. Et c’est précisément ce que je recherche : rejoindre une organisation dont la mission m’intéresse, comprendre ses enjeux, construire une trajectoire SI pragmatique et embarquer les équipes et les métiers dans cette transformation.
 
@@ -372,13 +443,14 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 > 
 > Mon objectif au bout de 100 jours serait donc moins d'avoir lancé beaucoup de projets que d'avoir créé de la clarté, de la confiance et un alignement sur les priorités. »
 
+---
+
 ### Message implicite
 
 **« Je ne suis ni un pompier, ni un DSI qui arrive avec des certitudes. Je prends le temps de comprendre avant d'engager l'organisation. »**
 
 ---
 # 2. « Comment construisez-vous une stratégie SI lorsque vous arrivez dans une organisation que vous ne connaissez pas ? »
-
 
 > « Je pars toujours de la **stratégie de l'entreprise**, et non de la technologie.
 > 
