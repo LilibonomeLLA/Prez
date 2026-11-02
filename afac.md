@@ -248,7 +248,7 @@ ___________________________________________
 > 
 > Sandrine Clémente : (Admin sys) => 35 années de dévouement et d’innovation 
 
-##### Association ATH
+### Association ATH
 
 ATH : **Association Technique d’Harmonisation** est une émanation de **32 cabinets** indépendants d’audit
 
@@ -261,7 +261,7 @@ une vision équilibrée du management :
     Encadrer sans brider l’autonomie,
     Former sans imposer un modèle unique.
 
-##### Le poste
+### Le poste
 
 Votre rôle sera à la fois **stratégique**, **opérationnel** et **transverse**.
 
