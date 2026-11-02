@@ -2,7 +2,7 @@
 marp: true
 _class: lead
 paginate: true
-theme: resume 
+theme: a4-clean 
 size: A4D150
 ---
 
