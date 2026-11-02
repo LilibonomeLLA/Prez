@@ -1,3 +1,9 @@
+---
+marp: true
+theme: nord
+_class: lead
+paginate: true
+---
 # 🐉 Préparation à l’entretien RH — Directeur des systèmes d’information chez Caderas Martin
 
 L’objectif de ton entretien RH sera de démontrer trois choses : ta compréhension des enjeux de l’entreprise, ta capacité à faire du système d’information un levier de performance et ta motivation à rejoindre Caderas Martin, au-delà de la seule dimension technologique.
@@ -12,7 +18,7 @@ Je te propose une synthèse orientée entretien, avec les informations à conna�
 
 Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
 
- ![w:250px](img/Pasted image 20261019132139.png)
+ ![w:250px](img/139.png)
 
 Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
