@@ -1,133 +1,319 @@
-# Tout savoir sur l'ADAMI
+# 🐉 Préparation à l’entretien RH — Directeur des systèmes d’information chez Caderas Martin
 
-- **La SACEM** (Société des Auteurs, Compositeurs et Éditeurs de Musique) gère **le droit d'auteur**. Elle concerne ceux qui **créent** l'œuvre : les auteurs, les compositeurs et les éditeurs. Elle perçoit et reverse les gains quand une composition est jouée, diffusée ou vendue. 
-- **L'ADAMI** (**A**dministration des **D**roits des **A**rtistes et **M**usiciens **I**nterprètes) gère **les droits voisins** du droit d'auteur. Elle concerne ceux qui **exécutent ou interprètent** l'œuvre : les chanteurs, musiciens, comédiens et danseurs (principalement les artistes principaux). Elle perçoit et reverse l'argent lié à la diffusion d'un enregistrement (à la radio, à la télévision, en streaming, etc.). 
+L’objectif de ton entretien RH sera de démontrer trois choses : ta compréhension des enjeux de l’entreprise, ta capacité à faire du système d’information un levier de performance et ta motivation à rejoindre Caderas Martin, au-delà de la seule dimension technologique.
 
-### En résumé
+Pour un poste de DSI, il faut articuler ton discours autour de la stratégie de l'entreprise, de ses métiers, de la transformation numérique, de la sécurité, de la qualité de service et de l'accompagnement des équipes.
 
-|Organisme|Public concerné|Type de droits|Exemple|
-|---|---|---|---|
-|**SACEM**|Auteurs, compositeurs, éditeurs|**Droits d'auteur** (la composition)|Celui qui a écrit les paroles ou composé la mélodie.|
-|**ADAMI**|Artistes-interprètes principaux|**Droits voisins** (l'interprétation / l'enregistrement)|Le chanteur ou le musicien qui joue ou chante sur le morceau.|
+Je te propose une synthèse orientée entretien, avec les informations à connaître, les arguments de motivation à développer et des formulations que tu pourras reprendre à l'oral.
 
-_Note : Un artiste qui écrit sa propre chanson et l'interprète lui-même peut tout à fait s'inscrire auprès des deux organismes._ 
+## 1. Synthèse des informations clés sur Caderas Martin
+
+🦜 Cabinet d’expertise comptable, d’audit et de conseil : Fondé en **1978**, le cabinet accompagne des entreprises françaises et internationales dans leurs problématiques comptables, financières, fiscales et sociales. Il privilégie une relation client personnalisée et une organisation transversale.
+
+Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
+
+![[Pasted image 20261019132139.png]]
+
+Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
+
+### Son positionnement et ses métiers
+
+Le cabinet exerce principalement trois activités complémentaires :
+
+- ✔️ Expertise comptable et conseil : tenue et révision comptables, accompagnement des dirigeants, analyse financière et conseil en gestion.
+    
+- ✔️ Audit et commissariat aux comptes : fiabilisation de l’information financière et contrôle des comptes.
+    
+- ✔️ Services spécialisés : paie, ressources humaines, accompagnement fiscal et social, missions de conseil spécifiques.
+    
+
+Sa clientèle comprend notamment des PME, des ETI, des filiales de groupes étrangers et des entreprises de secteurs variés.
+
+### Ses particularités différenciatrices
+
+#### Une forte dimension internationale
+
+Plus de la moitié de la clientèle est internationale. Le cabinet possède notamment un Japan Desk, un Nordik Desk et un bureau de liaison à Tokyo. Cette dimension implique des échanges internationaux, des exigences de confidentialité et des besoins de collaboration numérique.
+
+#### Une organisation transverse
+
+Le cabinet adapte ses équipes aux besoins des missions plutôt que de rattacher systématiquement les collaborateurs à un associé unique. Le SI doit donc faciliter le partage des dossiers, la gestion des habilitations et la circulation de l’information entre équipes.
+
+#### Une culture déjà orientée vers la digitalisation
+
+Utilisation de logiciels spécialisés en comptabilité, audit, consolidation, paie, planification et partage documentaire. Le cabinet propose également des outils collaboratifs et un espace client. Le poste de DSI s'inscrit donc dans un environnement numérique existant, à faire évoluer plutôt qu'à construire de zéro.
+
+### Culture d’entreprise et valeurs
+
+Les éléments mis en avant par le cabinet sont :
+
+- La **qualité technique** et la **fiabilité** des prestations.
+    
+- La **proximité avec les clients** et l’**implication des associés**.
+    
+- La **bienveillance**, l’**esprit d’équipe** et la **transmission des connaissances**.
+    
+- L’**amélioration continue** et la recherche de solutions numériques utiles aux métiers.
+    
+
+Le cabinet indique explicitement vouloir utiliser des outils performants et limiter les tâches sans valeur ajoutée. C’est un point particulièrement intéressant à exploiter pour expliquer ta vision du rôle d’un DSI.
+
+## 2. Les enjeux stratégiques du SI à comprendre avant l’entretien
+
+Il faut distinguer les faits publiés par le cabinet des hypothèses que tu pourras vérifier en entretien. Les enjeux suivants sont des pistes de réflexion pertinentes pour un DSI, pas un diagnostic de l'état actuel de son informatique.
+
+#### 1. Sécurité, confidentialité et continuité d’activité
+
+Le cabinet manipule des données comptables, financières, fiscales, sociales et des informations sensibles concernant ses clients. Les priorités sont donc la cybersécurité, les sauvegardes restaurables, la gestion des identités et des accès, la protection des postes, la réponse aux incidents et la continuité de service.
+
+#### 2. Modernisation et cohérence du portefeuille applicatif
+
+L’enjeu consiste à faire fonctionner ensemble les outils métiers, la GED, la paie, les applications collaboratives, le reporting et les solutions de dématérialisation. Il faut rechercher la simplicité d’usage, la qualité des interfaces, la maîtrise des coûts et la réduction des doubles saisies.
+
+#### 3. Facturation électronique et transformation des processus
+
+C’est un sujet particulièrement concret : le cabinet communique sur la réforme et sur le choix d’une plateforme de dématérialisation partenaire. Au 19 octobre 2026, la réception des factures électroniques est obligatoire depuis le 1er septembre 2026 pour les entreprises concernées ; l’émission suit un calendrier progressif selon la taille de l’entreprise. Il faut donc vérifier où en est le cabinet dans son propre déploiement et dans l’accompagnement de ses clients.
+
+#### 4. Expérience utilisateur et adoption
+
+Dans un cabinet de cette taille, l'informatique doit être un facilitateur du quotidien : disponibilité des applications, assistance réactive, accès sécurisé aux dossiers, mobilité et accompagnement des utilisateurs. Une évolution technologique n’a de valeur que si elle améliore effectivement le travail des collaborateurs.
+
+#### 5. Pilotage, maîtrise des coûts et innovation
+
+Le DSI doit arbitrer entre maintien en conditions opérationnelles, investissements, projets métiers et innovations telles que l’automatisation ou l’IA. La réussite se mesure par des résultats tangibles : moins de tâches manuelles, des délais réduits, une meilleure qualité de données et des risques mieux maîtrisés.
+
+Un élément supplémentaire mérite ton attention : le site carrière affiche actuellement un poste de **Directeur de la Transformation Digitale & Data**. Il serait utile de vérifier si le poste de DSI dont tu as été informé correspond à cette fonction, à un poste distinct ou à une évolution de l’organisation.
+
+## 3. Les éléments de motivation à mettre en avant
+
+### Axe 1 — Rejoindre une entreprise où le SI est au cœur du métier
+
+Le cabinet ne vend pas un produit informatique : il vend de l’expertise, du conseil, de la fiabilité et de la confiance. Son SI contribue directement à cette promesse.
+
+Ton argument : tu veux positionner l'informatique comme une fonction stratégique qui améliore le service rendu aux clients et la productivité des collaborateurs.
+
+Formulation possible :
+
+> « Ce qui m'intéresse chez Caderas Martin, c'est que le système d'information est directement lié à la qualité du service rendu aux clients. Dans un cabinet d'expertise comptable et d'audit, la disponibilité des outils, la sécurité des données et la fluidité des processus sont essentielles. Je souhaite inscrire la DSI dans cette logique : un SI fiable et sécurisé, mais également un levier de performance et de différenciation. »
+
+### Axe 2 — Participer à une transformation numérique concrète
+
+Le cabinet a déjà engagé une démarche de digitalisation et travaille sur les évolutions de ses outils comptables et de facturation électronique.
+
+Ton argument : tu es attiré par un contexte où il faut articuler les besoins métiers, les choix technologiques, la conduite du changement et les résultats opérationnels.
+
+> « Je suis particulièrement motivé par la possibilité de faire évoluer un système d'information déjà structuré, en priorisant les projets qui apportent une valeur mesurable aux métiers. La transformation numérique doit se traduire par des processus plus simples, une meilleure circulation de l'information et davantage de temps consacré aux activités à valeur ajoutée. »
+
+### Axe 3 — Travailler dans une structure à taille humaine et à dimension internationale
+
+Caderas Martin associe une taille intermédiaire, une **organisation transversale** et une clientèle largement internationale. Son site met également en avant la **proximité managériale et l'esprit collectif.**
+
+Ton argument : tu peux valoriser l'intérêt d'une fonction qui travaille directement avec les associés, les équipes métiers et les partenaires technologiques, avec des décisions proches du terrain.
+
+> « J'apprécie les environnements dans lesquels la DSI peut travailler en proximité avec les décideurs et les utilisateurs. La taille du cabinet, sa diversité de métiers et son ouverture internationale me semblent offrir un contexte intéressant pour concilier vision stratégique, pragmatisme opérationnel et accompagnement humain. »
+
+### Axe 4 — Construire une informatique durable, sécurisée et utile
+
+La confidentialité des données, la conformité et la continuité des activités sont essentielles dans ce secteur.
+
+Ton argument : tu souhaites associer la modernisation du SI à une maîtrise rigoureuse des risques, plutôt que de privilégier l'innovation pour elle-même.
+
+> « Pour moi, la performance d'une DSI repose sur un équilibre entre trois dimensions : la robustesse opérationnelle, la maîtrise des risques et la capacité à accompagner les évolutions du métier. Je souhaite construire une trajectoire qui concilie ces trois dimensions, avec des priorités partagées avec la direction et des résultats mesurables. »
+
+## 4. Comment répondre à la question « Pourquoi Caderas Martin ? »
+
+Ce qui m'attire chez Caderas Martin, c'est d'abord la combinaison entre un cabinet établi, reconnu pour son expertise, et une volonté de faire évoluer ses pratiques et ses outils.
+
+J'ai identifié trois dimensions particulièrement intéressantes : la diversité des métiers de l'expertise comptable, de l'audit et du conseil, la dimension internationale de la clientèle et la place importante du numérique dans la qualité du service rendu.
+
+Dans ce contexte, je vois le rôle du DSI comme un rôle à la fois stratégique et opérationnel. Il s'agit de garantir un système d'information fiable et sécurisé, tout en faisant évoluer les applications et les processus pour améliorer l'efficacité des équipes et l'expérience des clients.
+
+La transformation numérique, la maîtrise des risques et l'accompagnement du changement sont des sujets qui rendent cette fonction particulièrement stimulante.
+
+Enfin, je suis sensible à la dimension humaine d'une structure à taille humaine, où la proximité avec les décideurs et les équipes permet de construire des solutions adaptées aux besoins réels.
+
+C'est cette combinaison entre enjeux technologiques, impact métier et proximité humaine qui motive mon intérêt pour Caderas Martin.
+
+Conseil important : cette réponse gagnera en force si tu y ajoutes un exemple précis de ton parcours : une transformation réussie, une amélioration de la disponibilité du SI, une réduction des coûts, un projet de cybersécurité ou une équipe que tu as accompagnée.
+
+## 5. Les questions RH probables et la manière d'y répondre
+
+L'entreprise indique que son entretien RH porte notamment sur le parcours, le projet professionnel, les valeurs et les motivations du candidat.
+
+|Question probable|Ce que le recruteur cherche à évaluer|
+|---|---|
+|Pourquoi souhaitez-vous nous rejoindre ?|Une motivation spécifique à Caderas Martin, pas seulement au poste de DSI.|
+|Pourquoi envisagez-vous de quitter votre poste actuel ?|Une démarche positive et cohérente dans ton évolution.|
+|Quel est votre style de management ?|Ta capacité à fédérer, responsabiliser et accompagner les équipes.|
+|Comment gérez-vous les priorités contradictoires ?|Ton discernement entre urgence opérationnelle, risque et transformation.|
+|Comment gérez-vous un désaccord avec un associé ou un dirigeant ?|Ton aptitude à argumenter, écouter et arbitrer sans rigidité.|
+|Quelle est votre principale réalisation professionnelle ?|Des résultats concrets et ta contribution personnelle.|
+|Quel est votre principal axe de progrès ?|Du recul sur toi-même et une capacité d'amélioration.|
+|Quelles sont vos attentes en matière de rémunération ?|La cohérence entre tes responsabilités, ton expérience et le poste.|
+
+### Les trois messages à faire passer sur ton profil
+
+- Un DSI orienté métier : tu comprends que la technologie doit servir la stratégie, les clients et les collaborateurs.
+    
+- Un dirigeant capable d'arbitrer : tu sais prioriser, maîtriser les risques et rendre les décisions compréhensibles.
+    
+- Un manager qui embarque les équipes : tu sais expliquer les changements, écouter les utilisateurs et développer les compétences.
+    
+
+*Pour les questions sur tes réalisations, prépare trois exemples au format STAR : situation, tâche, actions, résultats. Dans chaque exemple, chiffre le résultat dès que possible et distingue clairement ce que tu as personnellement réalisé de ce qui relève de l'équipe.*
+
+## 6. Les questions pertinentes à poser au recruteur
+
+Le but n'est pas de présenter un audit informatique dès le premier entretien, mais de montrer que tu réfléchis déjà aux enjeux de la fonction.
+
+### Sur le poste et ses objectifs
+
+- Quelles sont les raisons qui conduisent le cabinet à recruter aujourd'hui sur cette fonction ?
+- Quelles seraient les trois priorités attendues du DSI au cours des six à douze premiers mois ?
+- Quel est le périmètre exact du poste : infrastructure, cybersécurité, applications métiers, data et transformation digitale ?
+    
+### Sur l'organisation et la gouvernance
+- À qui le DSI est-il rattaché et comment les décisions informatiques sont-elles arbitrées avec les associés ?
+- Quelle est la composition de l'équipe informatique et quelle part des services est externalisée ?
+- Comment les besoins des différents métiers sont-ils recueillis et priorisés ?
+### Sur la transformation numérique
+- Où en est le cabinet dans l'évolution de ses outils comptables et de sa stratégie de facturation électronique ?
+- Quels sont les principaux enjeux actuels en matière de cybersécurité, de continuité d'activité et de gestion des données ?
+- Quelle place souhaitez-vous donner à l'automatisation, à la data et à l'intelligence artificielle ?
+### Sur la réussite dans le poste
+- Quels résultats concrets vous permettraient de considérer que le recrutement est une réussite au bout d'un an ?
+- Quelle autonomie et quels moyens seront donnés au DSI pour conduire les évolutions prioritaires ?  
+
+Je te recommande d'en retenir quatre ou cinq en fonction du déroulement de l'échange. La question sur les attentes à douze mois est particulièrement utile : elle permet de comprendre si l'entreprise attend principalement un responsable de la production informatique, un directeur de la transformation ou une combinaison des deux.
+
+## 7. Ta vision des 90 premiers jours : un bon sujet pour te différencier
+
+### Jours 1–30
+
+- Comprendre
+- Écouter et établir le diagnostic
+
+-> Rencontrer les associés, les responsables métiers, l'équipe informatique et les prestataires. Comprendre les applications, les contrats, les incidents récurrents, les risques de sécurité, les coûts et les projets en cours.
+
+### Jours 31–60
+
+- Prioriser
+- Définir une feuille de route partagée
+
+-> Hiérarchiser les risques et les projets selon leur valeur métier, leur urgence, leur coût et leur faisabilité. Identifier quelques améliorations rapides et définir des indicateurs de performance.
+
+### Jours 61–90
+
+- Engager
+- Lancer les premières actions
+
+-> Présenter une feuille de route validée avec la direction, sécuriser les sujets les plus critiques, engager une première amélioration opérationnelle et clarifier la gouvernance des projets.
+
+Les indicateurs pourraient inclure la disponibilité des applications critiques, le délai de résolution des incidents, le niveau de couverture des sauvegardes testées, l'avancement des projets prioritaires, la satisfaction des utilisateurs et le coût des services informatiques.
+
+## 8. Point de vigilance : clarifier le périmètre réel du poste
+
+Le site officiel décrit une fonction informatique existante, avec une responsable informatique, un collaborateur et un associé impliqué dans les sujets stratégiques. Il mentionne aussi un projet de renouvellement de l'outil comptable et de sélection d'une solution de facturation électronique.
+
+En parallèle, le site carrière affiche une offre de Directeur de la Transformation Digitale & Data.
+
+Il serait donc pertinent de déterminer si le recrutement vise :
+
+- une prise de responsabilité hiérarchique sur l'informatique existante ;
+    
+- une extension du rôle vers la stratégie, les applications, la data et la transformation ;
+    
+- ou une réorganisation de la gouvernance informatique et numérique.
+    
+
+Cette distinction conditionne les compétences à mettre en avant, les questions à poser et la façon de présenter ta vision du poste.
+
+## 9. La fiche mémo à retenir avant l'entretien
+
+Caderas Martin en quelques mots : cabinet créé en **1978**, plus de **153 collaborateurs**, plus de 50 % de clientèle internationale, expertise comptable, audit et conseil, culture de proximité et organisation transverse.
+
+Ses enjeux SI les plus visibles : continuité de service, sécurité et confidentialité, cohérence des outils métiers, dématérialisation comptable, facturation électronique et accompagnement des utilisateurs.
+
+Ta motivation centrale : faire du SI un levier de qualité, d'efficacité et de confiance, tout en conservant une forte exigence de sécurité et de maîtrise des risques.
+
+Ton positionnement : un dirigeant qui sait écouter les métiers, arbitrer les investissements, conduire le changement et transformer une stratégie en résultats concrets.
+
+___________________________________________
+
+### Personnes en contact
+
+> Matthieu LEJARDS : Associé (11 ans chez Caderas)
+> Marie-Hélène VOLPE : Associée (27 ans chez Calderas)
+> Sandrine Clémente : (Admin sys) => 35 années de dévouement et d’innovation 
+
+##### Association ATH
+
+ATH : **Association Technique d’Harmonisation** est une émanation de **32 cabinets** indépendants d’audit
+
+![[Pasted image 20261102164946.png]]
+
+une vision équilibrée du management :
+
+    Exiger sans pression excessive,
+    Déléguer sans abandonner,
+    Encadrer sans brider l’autonomie,
+    Former sans imposer un modèle unique.
+
+##### Le poste
+
+Votre rôle sera à la fois **stratégique**, **opérationnel** et **transverse**.
+
+Vous aurez notamment pour responsabilités de :
+
+   - définir et mettre en œuvre la stratégie de transformation numérique du cabinet et son schéma directeur
+    - accompagner la transformation des métiers de l’expertise comptable, de l’audit et du social
+    - piloter le portefeuille de produits numériques du cabinet et définir leur feuille de route
+    - faire évoluer notre portail clients, nos outils internes et nos services numériques
+    - superviser les projets de développement d’applications internes et externes 
+    - identifier et développer les cas d’usage liés à l’intelligence artificielle et à l’automatisation
+    - garantir l'interopérabilité de nos logiciels et la qualité de nos données ;
+    - définir et piloter la politique de gouvernance et de valorisation des données
+    - piloter les partenaires technologiques, éditeurs, développeurs et prestataires ;
+    - superviser les enjeux de cybersécurité, en lien avec nos partenaires spécialisés ;
+    - veiller à la prise en compte des exigences liées au RGPD et à la protection des données dans les projets numériques ;
+    - accompagner les équipes dans l’évolution de leurs pratiques et favoriser l’adoption des nouveaux outils.
+
+Vous travaillerez en étroite collaboration avec l’ensemble des directions métiers et coordonnerez les différents acteurs internes et externes intervenant sur les projets numériques.
+
+ Nous recherchons avant tout un(e) bâtisseur(se), capable de transformer une vision en projets concrets et mesurables.
+
+Issu(e) d’une formation supérieure de type école d’ingénieur, Master, école de commerce avec une spécialisation numérique ou équivalent, vous justifiez d’une expérience confirmée d’au moins 10 ans dans des fonctions de direction de la transformation, direction produit, direction des systèmes d’information ou direction de l’innovation.
+
+Vous avez déjà piloté des projets de transformation numérique d’envergure et êtes capable de conjuguer vision stratégique, compréhension technique et conduite du changement.
+
+Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
+
+    transformation numérique et systèmes d’information ;
+    produits et services numériques ;
+    intelligence artificielle et automatisation ;
+    data et gouvernance des données ;
+    développement applicatif ;
+    cybersécurité ;
+    pilotage de projets complexes et de partenaires.
+
+Une expérience acquise dans une entreprise de services, un éditeur de logiciels, une ESN ou une entreprise fortement digitalisée sera particulièrement appréciée.
+
+Au-delà de votre expertise, nous recherchons une personnalité capable de fédérer, convaincre et accompagner les équipes, avec une forte capacité à travailler en transversal.
+
+Autonomie pour définir la feuille de route numérique du cabinet
+Prioriser les projets et construire progressivement une véritable direction de la transformation.
+
+Vous aurez l’opportunité d’avoir un impact direct et mesurable sur :
+- la productivité et le quotidien de nos équipe    
+- l’automatisation et la simplification de nos processus    
+- l’expérience de nos clients     
+- la qualité et la valorisation de nos données  
+- le développement de nouveaux produits et services numériques 
+- et, plus largement, l’évolution du modèle du cabinet.
+    
+Un poste au cœur de notre stratégie pour faire du numérique, de la donnée et de l’IA des leviers durables de différenciation et de création de valeur.
 
 ---
-
-En France, le paysage de la *gestion collective de la musique et du spectacle* se divise en **plusieurs organismes** selon le *profil  de l'artiste* (interprète principal ou musicien de session) ou du producteur.
-
-➡️ Pour les Artistes-Interprètes (Droits Voisins), il existe un autre organisme clé (autre que l'ADAMI) pour les interprètes :
-
-- La **SPEDIDAM** (Société de Perception et de Distribution des Droits des Artistes-Interprètes) : *Contrairement à l'ADAMI qui se concentre historiquement sur les artistes principaux (ceux dont le nom est sur l'affiche), la **SPEDIDAM** gère principalement les droits des **artistes d'accompagnement** (les musiciens de session, les choristes, les membres d'un orchestre).*
-
-➡️ Pour les Producteurs de Musique (Droits Voisins)
-
-Si tu finances et enregistres un morceau (le "master"), tu agis en tant que producteur de phonogrammes. Deux organismes majeurs gèrent ces droits :
-
-- **La SCPP** (Société Civile des Producteurs de Phonogrammes) : Historiquement liée aux **majors** et aux grands labels indépendants. Elle perçoit les droits de diffusion (radio, TV, lieux publics) et la copie privée pour le compte des producteurs.
-- **La SPPF** (Société des Producteurs de Phonogrammes en France) : Créée spécifiquement pour défendre les intérêts des **labels indépendants** et des auto-producteurs. Ses missions sont similaires à celles de la SCPP.
-
----
-
-Les Organismes de Perception "Commune"
-
-Pour simplifier la collecte auprès des radios, TV et commerces, ces différentes sociétés ont créé des guichets uniques :
-
-- **La SPRE** (Société pour la Perception de la Rémunération Équitable) : Elle collecte l'argent de la "rémunération équitable" auprès des diffuseurs (comme les radios) et le sépare à **50 % pour les producteurs** (SCPP/SPPF) et **50 % pour les interprètes** (ADAMI/SPEDIDAM).
-- **Copie France** : Elle perçoit la taxe sur les supports de stockage (smartphones, disques durs) et la redistribue aux auteurs (SACEM), interprètes et producteurs.
-
----
-
-**ADAMI** = Société de services aux artistes-interprètes : 
-* gestion des droits, 
-* défense des intérêts, 
-* aide financière aux projets et 
-* accompagnement de carrière.
-
-
-![Schéma récapitulatif](https://mermaid.ink/img/pako:eNqdlP9u2jAQx1_FctUVJGj5DYmmSpQApYUOlWp_DPqHiZ3iLcSpHW90wAP0Tcpz8GI7nEDTaqq0EQnZvvt878538hK7gjJs4wdJwhm6cyYBgt_xMRoJLV2GKEP-CZEPLIhiU3PscM_Timmp0OepPEe3hHKhcujuaw61xHzOgIOtw5Urotn25VEzdY_y-fPVkHA2ByW1QheZ0fC2nQhsN3MdbDeSRFwEaPv8qHlEpj7LJiHfw63MqNlqD2LakYJHCtEToiNICphDDbeMchVJPtVGOIYyTeOnEvGWES8WCsfvlVbIGSe-prBQKJ7sts80Xt6no203IZERj2NBdbHlwgSogv4QrKgXREyGcvsSMaikvRwZKq48bVv_lR5KQbVrQq9Q5w2cMq1TWXV8vXgjHFvaRrcJ6So4A5gHLg-JXqxQN9N0moNeNu040Iq7nAW722m6LlwGeQhMO9AZas2ENDIrdAltbTs94LPvc0jlFxs6RrlPpsxXaEC-m4n6hLpSKEiYbjeg18uMWsNhNg1AS0Q-fBUDJNHYQ1eQxLCTTsBJj0GHB8Rnsa27k0TX48NFjIQP4c9QnxHKTH93bpfGrT9OXQNDiim10ztDX6Q7YxCB7f17xn8whqqE3Ml1JQmoShJNnK6M083YpB2ygBIYbvB9LRCmMT1go-jJZ-gnV5r58aEyJ03kcd-3jzxr9-UgEfGD2UflcjlZ539xGs3sUrhIY06C0QqjlBywUoPUK9UPyes9WWSuVzyQxTopTRsfkv3_Jgf7Ij2v7NID6XlusVD_kLz5RxLn4DXkFNuR1CyH4T2bk90WL3eqExzNYPAn2IalZFQv8i7MjJzgSbAGNCTBNyHme1oK_TDDtkd8BTsdUhIxhxN4bl9doPVMtoQOImzXikYC20u8wHapYp2Wq9V6tVGr1SyrVMrhJzg9rdUbhWq5XLcK1Uaj3Fjn8G8Ts3BqVSqVQq1qWRb8VWrW-g_uyfCK)
-
----
-## Statuts de l'**Adami** (mise à jour **juin 2023**)
-
-1. Carte d'identité de la structure
-
-- **Statut juridique :** Société civile à capital variable, fonctionnant comme un **Organisme de Gestion Collective (OGC)**.
-- **Siège social :** 14-16-18, rue Ballu, **Paris (75009)**.
-- **Date de création / Durée :** Fondée le 24 février 1955, constituée pour 99 ans (expiration fixée au 23 octobre 2080).
-
-2. L'Objet Social (Ce que fait l'Adami au quotidien)
-
-C'est le cœur de son activité. L'Adami gère les **droits voisins du droit d'auteur** des artistes-interprètes. Ses missions principales se résument en 4 piliers :
-
-- **Négociation, perception et répartition :** Elle collecte les rémunérations issues des licences légales (copie privée, rémunération équitable) et des accords collectifs pour les reverser aux artistes qu'elle représente.
-- **Action culturelle (Article L.324-17 du CPI) :** Elle finance des actions d'aide à la création, à la diffusion du spectacle vivant, à la formation des artistes et à l'éducation artistique.
-- **Action sociale et solidarité :** Elle mène des actions de prévoyance, d'entraide et de protection sociale pour les artistes en difficulté (notamment via la commission "Droit au cœur").
-- **Défense juridique :** Elle peut agir en justice pour défendre les intérêts individuels et collectifs des professions qu'elle représente.
-
-3. Les Associés (Pour qui elle travaille)
-
-- **Profil :** Les associés sont des **artistes-interprètes** (comédiens, musiciens, chanteurs, danseurs, chefs d'orchestre) ou leurs ayants droit (héritiers).
-- **Règle d'or :** Le capital est partagé équitablement : **un associé = une seule part sociale = une voix** aux assemblées générales.
-- **Effet de l'adhésion :** En devenant associé, l'artiste fait "apport" à la société de la gestion de ses droits exclusifs et à rémunération (droits de reproduction, mise à disposition à la demande, retransmission câble, etc.).
-
-4. Gouvernance et Instances (Comment elle est dirigée)
-
-Deux types d'instances + des commissions clés :
-
-A. Les Instances Élues (Le pouvoir politique des artistes)
-
-- **Le Conseil d'Administration (CA) :** Composé de **24 membres** (artistes personnes physiques) élus pour 3 ans. Il définit la stratégie globale de la société. Les sièges sont sectorisés pour représenter tous les métiers : Artistes dramatiques (11), Variétés/Jazz/Musiques actuelles (8), Lyriques (2), Classiques/Chefs d'orchestre (2), Chorégraphiques (1).
-- **Le Conseil de Surveillance :** Composé de **6 membres** élus pour 4 ans. Son rôle est de contrôler l'activité du CA et du Gérant (vérification des budgets, procédures administratives et contrôle interne).
-
-B. Les Instances Désignées / Opérationnelles
-
-- **Le Gérant (ou Directeur Général) :** C'est le mandataire social de la structure, nommé par le CA pour une **durée indéterminée**. Il est le **représentant légal** de la société, gère les équipes, recrute les cadres de direction et exécute la stratégie votée par le CA.
-- **Le Comité Exécutif (Comex) :** Composé de 7 administrateurs (dont le Président et le Vice-Président du CA). Il prépare les décisions du CA et assure le suivi politique.
-- **Le Comité de Déontologie :** Composé de 3 personnalités qualifiées (hors élus ou salariés), chargées de contrôler les déclarations d'intérêts et de prévenir les conflits d'intérêts.
-
-C. Les Commissions Clés
-
-L'Adami s'appuie sur des commissions thématiques pour valider les dossiers :
-
-- **Commissions Statutaires :** Perception et répartition, Affaires internationales, Finances et budget, Relation artistes, et Droit au cœur (social).
-- **Commissions Artistiques (Musique / Théâtre-Audiovisuel-Danse) :** Ce sont elles qui examinent et attribuent les aides financières sélectives aux projets culturels.
-
-💡 A retenir  :
-
-- **"Gestion collective"** (le modèle de l'Adami).
-- **"Droits voisins"** (à bien différencier du droit d'auteur de la Sacem).
-- **"Transparence et Déontologie"** (très présents dans les statuts avec le rapport de transparence annuel et le Comité de déontologie).
-- **"Rémunération équitable et Copie privée"** (les deux grandes sources légales de collecte).
-- **"Article L.324-17"** (le fondement légal du budget d'aide à la création artistique).
-
----
-### Histoire de l'Adami
-
-![Timeline](https://www.adami.fr/wp-content/uploads/2022/03/Adami_infographie_frise_chrono_0722-scaled.jpg)
-### Les instances de contrôle de l'Adami
-
-![schéma](https://www.adami.fr/wp-content/uploads/2024/11/infog-instances-controle.jpg)
-### Activité 2025
-
-####  Collecte des droits
-
-- 94,9 millions d’euros collectés  
-    soit +3,47 % par rapport à l’année précédente
-
-#### Rémunération des artistes
-
-- 57,31 millions d’euros répartis directement  
-    97 050 artistes rémunérés
-
-#### Action artistique et culturelle
-
-- 14,7 millions d’euros consacrés au soutien de la création
-- 1 461 projets artistiques, opérations et partenariats
-- 7 148 artistes aidés
-
----
-Le poste couvre la stratégie SI, les infrastructures et applicatifs, la cybersécurité, les projets data/IA et le management d’une équipe de 15 à 20 personnes. Le DSI sera rattaché à la Direction Générale et sera membre du comité de direction.
 
 Les questions à préparer :
 Pour cet entretien, je m'attendrais notamment à :
@@ -140,7 +326,7 @@ Pour cet entretien, je m'attendrais notamment à :
     
 4. **« Quelle est votre approche de la cybersécurité ? »**
     
-5. **« Que feriez-vous avec l'IA à l'Adami ? »**
+5. **« Que feriez-vous avec l'IA ? »**
     
 6. **« Comment faites-vous travailler la DSI avec les métiers ? »**
     
@@ -152,9 +338,9 @@ Pour cet entretien, je m'attendrais notamment à :
     
 10. **« Quelle relation souhaitez-vous avoir avec le DG et les membres du CODIR ? »**
 
-Ce qui me donne envie de rejoindre l’Adami, c’est d’abord la combinaison entre une **mission qui a du sens**  et un véritable **enjeu de transformation**.
+Ce qui me donne envie de rejoindre => c’est d’abord la combinaison entre une **mission qui a du sens**  et un véritable **enjeu de transformation**.
 
-Je trouve particulièrement intéressant que le système d’information soit aussi directement **connecté au cœur de métier de l’Adami** : la gestion des droits, la relation avec les artistes, la donnée et les nouveaux enjeux liés notamment à l’intelligence artificielle. Cela donne au DSI une responsabilité qui va bien au-delà du fonctionnement de l’IT.
+Je trouve particulièrement intéressant que le système d’information soit aussi directement **connecté au cœur de métier de ...** : la gestion des droits, la relation avec les clients, la donnée et les nouveaux enjeux liés notamment à l’intelligence artificielle. Cela donne au DSI une responsabilité qui va bien au-delà du fonctionnement de l’IT.
 
 Le deuxième élément qui m’attire beaucoup, c’est la dimension stratégique du poste. Le rattachement à la Direction Générale et la participation au comité de direction montrent que la DSI doit être un partenaire des métiers et contribuer aux choix structurants de l’organisation. C’est exactement la dimension que je recherche aujourd’hui : être capable à la fois de garantir un SI robuste et sécurisé et d’utiliser le numérique comme un levier de transformation et de création de valeur.
 
@@ -168,7 +354,7 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 
 > « Ma priorité ne serait pas d'arriver avec un plan de transformation déjà écrit. Les 100 premiers jours seraient d'abord consacrés à comprendre, écouter et établir un diagnostic partagé.
 > 
-> Je travaillerais sur **quatre dimensions** : les enjeux stratégiques de l'Adami, la perception de la DSI par les métiers, la robustesse du SI et les risques — notamment cyber, opérationnels et liés aux dépendances technologiques.
+> Je travaillerais sur **quatre dimensions** : les enjeux stratégiques, la perception de la DSI par les métiers, la robustesse du SI et les risques — notamment cyber, opérationnels et liés aux dépendances technologiques.
 > 
 > Je rencontrerais individuellement les membres du CODIR et les principaux responsables métiers, mais aussi l'équipe DSI. Je chercherais à comprendre ce qui fonctionne bien, ce qui fait perdre du temps, les irritants majeurs et surtout les sujets sur lesquels l'entreprise prend aujourd'hui un risque.
 > 
@@ -226,7 +412,7 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 
 > « Je considère la cybersécurité d'abord comme un sujet de risque d'entreprise, et pas uniquement comme un sujet technique.
 > 
-> Ma première question serait donc : quels sont les actifs critiques de l'Adami, quelles seraient les conséquences d'une compromission ou d'une indisponibilité, et quels sont les scénarios de risque les plus importants ?
+> Ma première question serait donc : quels sont les actifs critiques ? quelles seraient les conséquences d'une compromission ou d'une indisponibilité, et quels sont les scénarios de risque les plus importants ?
 > 
 > Je travaillerais ensuite sur les fondamentaux : identité et habilitations, protection des données, sauvegardes et capacité de restauration, gestion des vulnérabilités, supervision, sécurité des prestataires, sensibilisation des collaborateurs et surtout capacité de réaction et de continuité d'activité.
 > 
@@ -241,16 +427,16 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 > **« La cybersécurité est une décision de risque d'entreprise avant d'être une décision technologique. »**
 
 ---
-# 5. « Que feriez-vous avec l'IA à l'Adami ? »
+# 5. « Que feriez-vous avec l'IA ? »
 
 
 > « Je commencerais par ne pas considérer l'IA comme une fin en soi.
 > 
-> Je chercherais d'abord les cas d'usage qui peuvent réellement améliorer l'expérience des artistes, l'efficacité des collaborateurs ou la qualité des processus.
+> Je chercherais d'abord les cas d'usage qui peuvent réellement améliorer l'expérience des collaborateurs et des clients, l'efficacité des collaborateurs ou la qualité des processus.
 > 
-> Je regarderais notamment trois catégories : l'amélioration de la relation avec les artistes, l'optimisation des processus internes et l'exploitation de la donnée pour améliorer la connaissance et la qualité de service.
+> Je regarderais notamment trois catégories : l'amélioration de la relation avec les collaborateurs ou les clients, l'optimisation des processus internes et l'exploitation de la donnée pour améliorer la connaissance et la qualité de service.
 > 
-> Mais compte tenu de la mission de l'Adami, j'ajouterais une quatrième dimension essentielle : l'IA doit également être regardée sous l'angle de la protection des droits des artistes et de la gouvernance des données.
+> Mais compte tenu des missions : une quatrième dimension essentielle : l'IA doit également être regardée sous l'angle de la protection des données clients et de la gouvernance des données.
 > 
 > Je mettrais donc en place une approche très pragmatique : quelques cas d'usage à forte valeur, un cadre de gouvernance, des règles sur les données et la confidentialité, puis une mesure objective des bénéfices.
 > 
@@ -260,7 +446,7 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 
 **« Quel premier cas d'usage ? »**
 
-> « Je ne choisirais pas le premier cas d'usage avant d'avoir rencontré les métiers et analysé les données disponibles. Mais je chercherais prioritairement un cas où l'IA peut réduire une charge opérationnelle importante ou améliorer sensiblement le service rendu aux artistes, tout en ayant un niveau de risque maîtrisable. »
+> « Je ne choisirais pas le premier cas d'usage avant d'avoir rencontré les métiers et analysé les données disponibles. Mais je chercherais prioritairement un cas où l'IA peut réduire une charge opérationnelle importante ou améliorer sensiblement le service rendu aux clients, tout en ayant un niveau de risque maîtrisable. »
 
 
 ---
@@ -372,12 +558,11 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
     
 5. **Je suis un partenaire du DG et du CODIR, pas simplement le responsable de l'informatique.**
     
-
 ___________________________________________
 
 Le contexte appelle selon moi un **management responsabilisant, fédérateur et assez structurant**, avec une forte capacité d’arbitrage.
 
-L'Adami est une organisation où les artistes associés participent directement à la gouvernance, avec un conseil d'administration élu qui définit la stratégie globale et oriente/surveille l'action du Gérant. Adami+1 C'est donc un environnement où **l'écoute et la pédagogie** sont importantes, mais où la **clarté des responsabilités et des décisions** l'est tout autant.
+Environnement où **l'écoute et la pédagogie** sont importantes, mais où la **clarté des responsabilités et des décisions** l'est tout autant.
 
 ## Le modèle que je privilégierais : « cadre clair + autonomie + exigence »
 
@@ -387,9 +572,7 @@ Pour une DSI de 15–20 personnes, je défendrais un management autour de **4 pi
 
 Le premier rôle du DSI serait de donner une direction à l'équipe.
 
-> « Nous devons construire un SI fiable, sécurisé et évolutif qui permette à l'Adami de mieux servir les artistes et d'accompagner sa transformation. »
-
-L'Adami se définit elle-même comme une société de services aux artistes-interprètes, autour de la gestion des droits, de la défense de leurs intérêts, de l'aide aux projets et de l'accompagnement de carrière.
+> « Nous devons construire un SI fiable, sécurisé et évolutif qui permet de mieux servir les clients, les collaborateurs et d'accompagner sa transformation. »
 
 **Le management doit donc reconnecter régulièrement le travail de la DSI à cette mission.**
 
@@ -417,6 +600,7 @@ Le DSI fixe le cadre, les objectifs et les priorités.
 > **« Je donne de l'autonomie sur le comment, mais je garde la responsabilité du pourquoi, du quoi et des arbitrages. »**
 
 ---
+
 ### 3. Être très exigeant sur la transparence
 
 Je voudrais instaurer une culture où :
@@ -477,8 +661,6 @@ Avec une équipe de 15 à 20 personnes, mon ambition serait de construire une DS
 ---
 ## + dimension : management du changement
 
-Le contexte de gouvernance est spécifique, avec des instances représentatives des artistes et un renouvellement régulier de certaines instances. En 2026, par exemple, huit membres du conseil d'administration étaient à élire. Adami
-
 Le  DSI doit  savoir **expliquer, convaincre et créer de l'adhésion**, pas simplement décider.
 
 Posture :
@@ -498,42 +680,3 @@ Posture :
 DSI *fédérateur avec ses équipes,
 partenaire avec les métiers,
 transparent avec le DG et ferme sur les décisions qui relèvent de sa responsabilité.*
-
----
-
-Pour un poste de **Directeur des Systèmes d'Information (DSI)** à l’**Adami**, l'analyse de ses statuts révèle des enjeux technologiques et stratégiques cruciaux. Un OGC (Organisme de Gestion Collective) est avant tout une **usine à données**. Ton rôle sera de garantir que le SI est aligné avec les ==obligations légales de transparence==, de ==sécurité== et d'==efficacité opérationnelle==.
-
-Voici les arguments techniques et les axes stratégiques à développer lors de ton entretien, directement tirés des statuts révisés en **juin 2023** :
-
-1. La volumétrie et la complexité de la Donnée (Le cœur du réacteur)
-
-- **L'enjeu statutaire (Art. 5.3 à 5.5) :** L'Adami doit collecter, traiter et individualiser les droits sous un délai strict de **9 mois** à compter de la fin de l'exercice de perception. Le calcul se fait sur la base des relevés des diffuseurs (radios, TV, plateformes) ou par analogie/sondage si les données sont inexploitables.
-- **Ton discours de DSI :** Tu dois mettre en avant ta capacité à gérer des **architectures de données massives (Big Data)** et des algorithmes d'appariement (matching) complexes. Le but est de réduire au maximum le "manque d'information" qui empêche statutairement d'identifier ou de localiser les artistes, optimisant ainsi le taux de redistribution.
-
-2. La dématérialisation et le self-service (Art. 6 & 7)
-
-- **L'enjeu statutaire (Art. 6.2 & 7) :** L'Adami a l'obligation légale de fournir à chaque artiste un **compte personnalisé et sécurisé** sur son site internet. Ce portail doit afficher la transparence totale des gains (ventilation par catégorie de droits, types d'utilisation, périodes de diffusion) et les taux exacts de prélèvements pour frais de gestion. De plus, toutes les demandes d'admission ou de démission se font désormais par voie électronique.
-- **Ton discours de DSI :** Tu es le garant de l'**expérience utilisateur (UX/UI)** des associés et de la performance des portails web/mobiles. Tu dois parler de la mise en place d'API fluides entre le back-office de gestion des droits et le front-office (le portail artiste), tout en assurant une haute disponibilité du service.
-
-3. La dématérialisation de la vie démocratique (Art. 2.1)
-
-- **L'enjeu statutaire (Art. 2.1.1 & 2.1.2) :** Les votes des assemblées générales et les consultations écrites se font majoritairement via un **scrutin électronique à distance**. Les statuts exigent explicitement que le Gérant déploie des modalités techniques garantissant la **confidentialité absolue du vote** et la sécurité des opérations selon les "meilleurs standards correspondant à l'état de l'art". Le dépouillement est audité par un huissier de justice.
-- **Ton discours de DSI :** Tu dois rassurer sur ta maîtrise de la **cybersécurité** (chiffrement, protocoles de vote électronique sécurisés type blockchain ou tiers de confiance) et ta capacité à orchestrer des projets soumis à de fortes contraintes de conformité juridique et d'audit.
-
-1. La **conformité RGPD et la gouvernance** (Art. 1, 2.3 & 3)
-
-- **L'enjeu statutaire (Art. 1 de la p.27 & Art. 2.3) :** En signant sa demande d'admission, l'artiste accepte le traitement de ses données personnelles. Par ailleurs, le Conseil de Surveillance et la Commission des Finances ont un droit d'accès permanent aux documents sociaux pour le contrôle interne.
-- **Ton discours de DSI :** Tu te positionnes comme le binôme du DPO (Data Protection Officer) pour assurer une stricte conformité **RGPD**, indispensable quand on gère les données financières, fiscales et personnelles de milliers d'artistes. Tu (insistes sur) la mise en place de structures de gouvernance des données (gestion des droits d'accès, traçabilité des modifications, cloisonnement des données de santé/sociales de la commission "Droit au cœur").
-
-1. L'**organisation interne** et la relation avec le Gérant (Art. 22)
-
-- **L'enjeu statutaire :** C'est le Gérant (mandataire social) qui recrute et nomme les cadres de direction (dont le DSI). Le SI doit lui fournir les indicateurs de pilotage nécessaires pour qu'il puisse implémenter "les procédures administratives et comptables de contrôle interne" et répondre de sa gestion devant le Conseil d'Administration.
-- **Ton discours de DSI :** Tu n'es pas seulement un profil technique, tu es un **DSI Business Partner**. Ton but est de moderniser le SI interne pour offrir au Gérant et aux directions métiers des tableaux de bord (Business Intelligence) précis afin d'orienter la stratégie de l'organisme.
-
----
-
-💡 Informations :
-
-- _« Les statuts imposent un versement des droits en 9 mois : mon objectif en tant que DSI est d'automatiser et de fiabiliser la chaîne de traitement de la donnée pour que ce délai soit une formalité technique, pas un défi de fin d'année. »_
-- _« Le vote électronique et le portail personnalisé des artistes sont inscrits dans le marbre de vos statuts. L'état de l'art en matière de cybersécurité et d'UX sera ma priorité pour protéger la confiance que les associés placent en l'Adami. »_
-
