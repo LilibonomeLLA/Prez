@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: A4
 paginate: true
 style: |
   section {
@@ -9,7 +9,7 @@ style: |
     padding: 20mm;    
     /* Correction Alignement Vertical en haut */
     align-content: start; 
-    font-size: 14pt;
+    font-size: 10pt;
     line-height: 1.5;
   }
   /* Correction pour forcer l'apparition des numéros de page */
@@ -18,15 +18,15 @@ style: |
     position: absolute;
     bottom: 15mm;
     right: 20mm;
-    font-size: 10pt;
+    font-size: 8pt;
     color: #666;
   }  
   h1 {
-    font-size: 24pt;
+    font-size: 22pt;
     margin-bottom: 10mm;
   }
   h2 {
-    font-size: 18pt;
+    font-size: 16pt;
     margin-top: 5mm;
   }
 ---
@@ -47,7 +47,7 @@ Je te propose une synthèse orientée entretien, avec les informations à conna�
 
 Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
 
-![w:350px](img/139.png)
+![w:450px](img/139.png)
 
 Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
@@ -334,9 +334,8 @@ ___________________________________________
 
 ATH : **Association Technique d’Harmonisation** est une émanation de **32 cabinets** indépendants d’audit
 
-![](img/2164946.png)
+![w:450px](img/2164946.png)
 
----
 
 Une vision équilibrée du management :
 
@@ -376,7 +375,6 @@ Issu(e) d’une formation supérieure de type école d’ingénieur, Master, éc
 
 Vous avez déjà piloté des projets de transformation numérique d’envergure et êtes capable de conjuguer vision stratégique, compréhension technique et conduite du changement.
 
----
 
 Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
 
@@ -397,7 +395,6 @@ Au-delà de votre expertise, nous recherchons une personnalité capable de féd�
 Autonomie pour définir la feuille de route numérique du cabinet
 Prioriser les projets et construire progressivement une véritable direction de la transformation.
 
----
 
 Vous aurez l’opportunité d’avoir un impact direct et mesurable sur :
 - la productivité et le quotidien de nos équipe    
@@ -420,7 +417,6 @@ Pour cet entretien, je m'attendrais notamment à :
     
 3. **« Comment arbitrez-vous entre maintien en condition opérationnelle, dette technique et nouveaux projets ? »**
     
----
 
 4. **« Quelle est votre approche de la cybersécurité ? »**
     
@@ -438,7 +434,6 @@ Pour cet entretien, je m'attendrais notamment à :
     
 10. **« Quelle relation souhaitez-vous avoir avec le DG et les membres du CODIR ? »**
 
----
 
 Ce qui me donne envie de rejoindre => c’est d’abord la combinaison entre une **mission qui a du sens**  et un véritable **enjeu de transformation**.
 
@@ -450,7 +445,6 @@ Le deuxième élément qui m’attire beaucoup, c’est la dimension stratégiqu
 
 Enfin, la **taille de la structure et de l’équipe** ainsi que l’étendue du périmètre me plaisent beaucoup. Il y a à la fois un enjeu de **stratégie**, de **transformation technologique**, de **cybersécurité**, de **data** et d’**IA**, mais aussi un véritable **enjeu humain et managérial**.
 
----
 
 C’est donc un poste qui me paraît particulièrement complet, avec une vraie capacité d’impact. Et c’est précisément ce que je recherche : rejoindre une organisation dont la mission m’intéresse, comprendre ses enjeux, construire une trajectoire SI pragmatique et embarquer les équipes et les métiers dans cette transformation.
 
@@ -474,7 +468,7 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 
 **« Je ne suis ni un pompier, ni un DSI qui arrive avec des certitudes. Je prends le temps de comprendre avant d'engager l'organisation. »**
 
----
+
 # 2. « Comment construisez-vous une stratégie SI lorsque vous arrivez dans une organisation que vous ne connaissez pas ? »
 
 > « Je pars toujours de la **stratégie de l'entreprise**, et non de la technologie.
