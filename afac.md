@@ -138,14 +138,13 @@ C’est un sujet particulièrement concret : le cabinet communique sur la réfor
 
 Dans un cabinet de cette taille, l'informatique doit être un facilitateur du quotidien : disponibilité des applications, assistance réactive, accès sécurisé aux dossiers, mobilité et accompagnement des utilisateurs. Une évolution technologique n’a de valeur que si elle améliore effectivement le travail des collaborateurs.
 
----
-
 #### 5. Pilotage, maîtrise des coûts et innovation
 
 Le DSI doit arbitrer entre maintien en conditions opérationnelles, investissements, projets métiers et innovations telles que l’automatisation ou l’IA. La réussite se mesure par des résultats tangibles : moins de tâches manuelles, des délais réduits, une meilleure qualité de données et des risques mieux maîtrisés.
 
 Un élément supplémentaire mérite ton attention : le site carrière affiche actuellement un poste de **Directeur de la Transformation Digitale & Data**. Il serait utile de vérifier si le poste de DSI dont tu as été informé correspond à cette fonction, à un poste distinct ou à une évolution de l’organisation.
 
+---
 
 ## 3. Les éléments de motivation à mettre en avant
 
@@ -200,7 +199,7 @@ Enfin, je suis sensible à la dimension humaine d'une structure à taille humain
 
 C'est cette combinaison entre **enjeux technologiques**, **impact métier** et **proximité humaine** qui motive mon intérêt pour _Caderas Martin_.
 
-Conseil important : cette réponse gagnera en force si tu y ajoutes un exemple précis de ton parcours : une transformation réussie, une amélioration de la disponibilité du SI, une réduction des coûts, un projet de cybersécurité ou une équipe que tu as accompagnée.
+| _Conseil important : cette réponse gagnera en force si tu y ajoutes un exemple précis de ton parcours : une transformation réussie, une amélioration de la disponibilité du SI, une réduction des coûts, un projet de cybersécurité ou une équipe que tu as accompagnée_ |
 
 ---
 
@@ -231,12 +230,11 @@ L'entreprise indique que son entretien RH porte notamment sur le parcours, le pr
     
 
 *Pour les questions sur tes réalisations, prépare trois exemples au format **STAR**
-::
-Situation,
-Tâche, 
-Actions, 
-Résultats.
-::
+
+
+|--------|--------|--------|--------|
+|Situation|Tâche|Actions|Résultats|
+|--------|--------|--------|--------|
 
 > Dans chaque exemple, chiffre le résultat dès que possible et distingue clairement ce que tu as personnellement réalisé de ce qui relève de l'équipe.*
 ---
@@ -270,29 +268,26 @@ Le but n'est pas de présenter un audit informatique dès le premier entretien, 
 ## 7. Ta vision des 90 premiers jours : un bon sujet pour te différencier
 
 ### Jours 1–30
-
 - Comprendre
 - Écouter et établir le diagnostic
 
--> Rencontrer les associés, les responsables métiers, l'équipe informatique et les prestataires. Comprendre les applications, les contrats, les incidents récurrents, les risques de sécurité, les coûts et les projets en cours.
+▶️ Rencontrer les associés, les responsables métiers, l'équipe informatique et les prestataires. Comprendre les applications, les contrats, les incidents récurrents, les risques de sécurité, les coûts et les projets en cours.
 
 
 ### Jours 31–60
-
 - Prioriser
 - Définir une feuille de route partagée
 
--> Hiérarchiser les risques et les projets selon leur valeur métier, leur urgence, leur coût et leur faisabilité. Identifier quelques améliorations rapides et définir des indicateurs de performance.
+▶️ Hiérarchiser les risques et les projets selon leur valeur métier, leur urgence, leur coût et leur faisabilité. Identifier quelques améliorations rapides et définir des indicateurs de performance.
 
 
 ### Jours 61–90
-
 - Engager
 - Lancer les premières actions
 
--> Présenter une feuille de route validée avec la direction, sécuriser les sujets les plus critiques, engager une première amélioration opérationnelle et clarifier la gouvernance des projets.
+▶️ Présenter une feuille de route validée avec la direction, sécuriser les sujets les plus critiques, engager une première amélioration opérationnelle et clarifier la gouvernance des projets.
 
-Les indicateurs pourraient inclure la disponibilité des applications critiques, le délai de résolution des incidents, le niveau de couverture des sauvegardes testées, l'avancement des projets prioritaires, la satisfaction des utilisateurs et le coût des services informatiques.
+_Les indicateurs pourraient inclure la disponibilité des applications critiques, le délai de résolution des incidents, le niveau de couverture des sauvegardes testées, l'avancement des projets prioritaires, la satisfaction des utilisateurs et le coût des services informatiques._
 
 ---
 
@@ -326,20 +321,16 @@ Ses enjeux SI les plus visibles : continuité de service, sécurité et confiden
 ---
 
 ### Personnes en contact
-
-> Matthieu LEJARDS : Associé (11 ans chez Caderas)
-> 
-> Marie-Hélène VOLPE : Associée (27 ans chez Calderas)
-> 
-> Sandrine Clémente : (Admin sys) => 35 années de dévouement et d’innovation 
+> Matthieu **LEJARDS** : Associé (11 ans chez Caderas)
+> Marie-Hélène **VOLPE** : Associée (27 ans chez Calderas)
+> Laurent **DANTAN** : PdG
+> Claire **Colasse** : Assistante de direction
+> Sandrine **Clémente** : (Admin sys) => 35 années de dévouement et d’innovation 
 
 ### Association ATH
 
 ATH : **Association Technique d’Harmonisation** est une émanation de **32 cabinets** indépendants d’audit
-
 ![w:450px](img/2164946.png)
-
----
 
 Une vision équilibrée du management :
 
@@ -387,8 +378,6 @@ Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
     * cybersécurité ;
     * pilotage de projets complexes et de partenaires.
 
----
-
 Une expérience acquise dans une entreprise de services, un éditeur de logiciels, une ESN ou une entreprise fortement digitalisée sera particulièrement appréciée.
 
 Au-delà de votre expertise, nous recherchons une personnalité capable de fédérer, convaincre et accompagner les équipes, avec une forte capacité à travailler en transversal.
@@ -431,12 +420,10 @@ Un poste au **cœur de notre stratégie** pour faire du numérique, de la **donn
 9. **« Comment mesurez-vous la performance d'une DSI ? »**
     
 10. **« Quelle relation souhaitez-vous avoir avec le DG et les membres du CODIR ? »**
----
+
 ♾️ Ce qui me donne envie de rejoindre => c’est d’abord la combinaison entre une **mission qui a du sens**  et un véritable **enjeu de transformation**.
 
 ☕ Je trouve particulièrement intéressant que le système d’information soit aussi directement **connecté au cœur de métier de ...** : la gestion des droits, la relation avec les clients, la donnée et les nouveaux enjeux liés notamment à l’intelligence artificielle. Cela donne au DSI une responsabilité qui va bien au-delà du fonctionnement de l’IT.
-
----
 
 Le deuxième élément qui m’attire beaucoup, c’est la dimension stratégique du poste. Le rattachement à la Direction Générale et la participation au comité de direction montrent que la DSI doit être un partenaire des métiers et contribuer aux choix structurants de l’organisation. C’est exactement la dimension que je recherche aujourd’hui : être capable à la fois de garantir un SI robuste et sécurisé et d’utiliser le numérique comme un levier de transformation et de création de valeur.
 
@@ -496,8 +483,6 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 > Enfin, je priorise les nouveaux projets selon leur valeur métier, leur urgence stratégique et leur niveau de risque.
 > 
 > Et surtout, je rends les arbitrages explicites au CODIR. Je préfère dire : "voici ce que nous pouvons faire, voici ce que nous ne pouvons pas faire et voici le risque associé", plutôt que de laisser la DSI accumuler des engagements qu'elle ne pourra pas tenir. »
-
-
 
 > **« Mon rôle de DSI est aussi de dire non, mais surtout d'expliquer pourquoi et de proposer une alternative. »**
 
