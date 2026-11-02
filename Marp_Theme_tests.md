@@ -1,6 +1,6 @@
 ---
-marp: false
-theme: nord-theme
+marp: true
+theme: nord
 _class: lead
 paginate: true
 ---
