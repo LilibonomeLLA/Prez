@@ -22,16 +22,16 @@ style: |
     color: #666;
   }  
   h1 {
-    font-size: 18pt;
+    font-size: 17pt;
   }
   h2 {
     font-size: 14pt;
   }
   h3 {
-    font-size: 12pt;
+    font-size: 13pt;
   }
   h4 {
-    font-size: 10pt;
+    font-size: 11pt;
   }
   
 ---
