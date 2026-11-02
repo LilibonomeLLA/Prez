@@ -22,13 +22,18 @@ style: |
     color: #666;
   }  
   h1 {
-    font-size: 22pt;
-    margin-bottom: 10mm;
+    font-size: 18pt;
   }
   h2 {
-    font-size: 16pt;
-    margin-top: 5mm;
+    font-size: 14pt;
   }
+  h3 {
+    font-size: 12pt;
+  }
+  h4 {
+    font-size: 10pt;
+  }
+  
 ---
 
 # 🐉 Préparation à l’entretien RH — Directeur des systèmes d’information chez Caderas Martin
@@ -74,7 +79,6 @@ Sa clientèle comprend notamment des PME, des ETI, des filiales de groupes étra
 
 Plus de la moitié de la clientèle est internationale. Le cabinet possède notamment un Japan Desk, un Nordik Desk et un bureau de liaison à Tokyo. Cette dimension implique des échanges internationaux, des exigences de confidentialité et des besoins de collaboration numérique.
 
----
 
 #### Une organisation transverse
 
@@ -111,13 +115,11 @@ Il faut distinguer les faits publiés par le cabinet des hypothèses que tu pour
 
 Le cabinet manipule des données comptables, financières, fiscales, sociales et des informations sensibles concernant ses clients. Les priorités sont donc la cybersécurité, les sauvegardes restaurables, la gestion des identités et des accès, la protection des postes, la réponse aux incidents et la continuité de service.
 
----
 
 #### 2. Modernisation et cohérence du portefeuille applicatif
 
 L’enjeu consiste à faire fonctionner ensemble les outils métiers, la GED, la paie, les applications collaboratives, le reporting et les solutions de dématérialisation. Il faut rechercher la simplicité d’usage, la qualité des interfaces, la maîtrise des coûts et la réduction des doubles saisies.
 
----
 
 #### 3. Facturation électronique et transformation des processus
 
@@ -135,7 +137,6 @@ Le DSI doit arbitrer entre maintien en conditions opérationnelles, investisseme
 
 Un élément supplémentaire mérite ton attention : le site carrière affiche actuellement un poste de **Directeur de la Transformation Digitale & Data**. Il serait utile de vérifier si le poste de DSI dont tu as été informé correspond à cette fonction, à un poste distinct ou à une évolution de l’organisation.
 
----
 
 ## 3. Les éléments de motivation à mettre en avant
 
@@ -159,7 +160,6 @@ Ton argument : tu es attiré par un contexte où il faut articuler les besoins m
 
 > « Je suis particulièrement motivé par la possibilité de faire évoluer un système d'information déjà structuré, en priorisant les projets qui apportent une valeur mesurable aux métiers. La transformation numérique doit se traduire par des processus plus simples, une meilleure circulation de l'information et davantage de temps consacré aux activités à valeur ajoutée. »
 
----
 
 ### Axe 3 — Travailler dans une structure à taille humaine et à dimension internationale
 
@@ -179,7 +179,6 @@ Ton argument : tu souhaites associer la modernisation du SI à une maîtrise rig
 
 > « Pour moi, la performance d'une DSI repose sur un équilibre entre trois dimensions : la robustesse opérationnelle, la maîtrise des risques et la capacité à accompagner les évolutions du métier. Je souhaite construire une trajectoire qui concilie ces trois dimensions, avec des priorités partagées avec la direction et des résultats mesurables. »
 
----
 
 ## 4. Comment répondre à la question « Pourquoi Caderas Martin ? »
 
@@ -239,7 +238,6 @@ Le but n'est pas de présenter un audit informatique dès le premier entretien, 
 - Quelles seraient les trois priorités attendues du DSI au cours des six à douze premiers mois ?
 - Quel est le périmètre exact du poste : infrastructure, cybersécurité, applications métiers, data et transformation digitale ?
 
----
 
 ### Sur l'organisation et la gouvernance
 - À qui le DSI est-il rattaché et comment les décisions informatiques sont-elles arbitrées avec les associés ?
@@ -258,7 +256,6 @@ Le but n'est pas de présenter un audit informatique dès le premier entretien, 
 
 Je te recommande d'en retenir quatre ou cinq en fonction du déroulement de l'échange. La question sur les attentes à douze mois est particulièrement utile : elle permet de comprendre si l'entreprise attend principalement un responsable de la production informatique, un directeur de la transformation ou une combinaison des deux.
 
----
 
 ## 7. Ta vision des 90 premiers jours : un bon sujet pour te différencier
 
@@ -269,7 +266,6 @@ Je te recommande d'en retenir quatre ou cinq en fonction du déroulement de l'é
 
 -> Rencontrer les associés, les responsables métiers, l'équipe informatique et les prestataires. Comprendre les applications, les contrats, les incidents récurrents, les risques de sécurité, les coûts et les projets en cours.
 
----
 
 ### Jours 31–60
 
@@ -278,7 +274,6 @@ Je te recommande d'en retenir quatre ou cinq en fonction du déroulement de l'é
 
 -> Hiérarchiser les risques et les projets selon leur valeur métier, leur urgence, leur coût et leur faisabilité. Identifier quelques améliorations rapides et définir des indicateurs de performance.
 
----
 
 ### Jours 61–90
 
@@ -308,7 +303,6 @@ Il serait donc pertinent de déterminer si le recrutement vise :
 
 Cette distinction conditionne les compétences à mettre en avant, les questions à poser et la façon de présenter ta vision du poste.
 
----
 
 ## 9. La fiche mémo à retenir avant l'entretien
 
@@ -424,7 +418,6 @@ Pour cet entretien, je m'attendrais notamment à :
     
 6. **« Comment faites-vous travailler la DSI avec les métiers ? »**
     
----
 
 7. **« Comment managez-vous une équipe de 15 à 20 personnes ? »**
     
@@ -677,7 +670,6 @@ Le premier rôle du DSI serait de donner une direction à l'équipe.
 
 **Le management doit donc reconnecter régulièrement le travail de la DSI à cette mission.**
 
----
 ### 2. Responsabiliser fortement les managers et référents
 
 Avec 15–20 personnes, je déconseillerais fortement un management où tout remonte au DSI.
@@ -760,7 +752,7 @@ Enfin, je suis participatif dans la construction, mais je sais arbitrer. Je ne r
 Avec une équipe de 15 à 20 personnes, mon ambition serait de construire une DSI responsabilisée, avec des leaders sur leurs domaines, qui fonctionne sans que tout remonte au DSI, tout en restant alignée sur une stratégie et des priorités communes.
 
 ---
-## + dimension : management du changement
+## Dimension => management du changement
 
 Le  DSI doit  savoir **expliquer, convaincre et créer de l'adhésion**, pas simplement décider.
 
@@ -768,7 +760,6 @@ Posture :
 
 **Écouter → comprendre → expliquer → proposer → arbitrer → embarquer → mesurer.**
 
----
 # Conclusion
 
 **« Je vais prendre la responsabilité de la DSI pour vous libérer, pas vous donner davantage de problèmes à gérer. »**
