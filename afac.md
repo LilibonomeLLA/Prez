@@ -2,16 +2,9 @@
 marp: true
 _class: lead
 paginate: true
-theme: a4-clean 
-size: A4D150
+theme: a4-clean
+size: A4
 ---
-
-|                                     |                                          |
-| ----------------------------------- | ---------------------------------------- |
-| **Divers**: (123) 456-7890           | **Location**: Paris, France            |
-| **LLA**: <john.doe@example.com>   | **Linkedin**: LLA       |
-| **Entretien**: None | **GitHub**: [github.com/LilibonomeLLA][github] |
-
 
 # 🐉 Préparation à l’entretien RH — Directeur des systèmes d’information chez Caderas Martin
 
@@ -27,7 +20,7 @@ Je te propose une synthèse orientée entretien, avec les informations à conna�
 
 Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
 
- ![w:250px](img/139.png)
+![w:250px](img/139.png)
 
 Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
