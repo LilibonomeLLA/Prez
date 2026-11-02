@@ -42,19 +42,16 @@ L’objectif de ton entretien RH sera de démontrer trois choses : ta compréhen
 
 Pour un poste de DSI, il faut articuler ton discours autour de la stratégie de l'entreprise, de ses métiers, de la transformation numérique, de la sécurité, de la qualité de service et de l'accompagnement des équipes.
 
-Je te propose une synthèse orientée entretien, avec les informations à connaître, les arguments de motivation à développer et des formulations que tu pourras reprendre à l'oral.
-
----
 
 ## 1. Synthèse des informations clés sur Caderas Martin
 
 🦜 Cabinet d’expertise comptable, d’audit et de conseil : Fondé en **1978**, le cabinet accompagne des entreprises françaises et internationales dans leurs problématiques comptables, financières, fiscales et sociales. Il privilégie une relation client personnalisée et une organisation transversale.
 
-Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
+📃 Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
 
-![w:450px](img/139.png)
+![w:550px](img/139.png)
 
-Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
+🕐 Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
 ---
 
@@ -71,13 +68,9 @@ Le cabinet exerce principalement trois activités complémentaires :
 
 Sa clientèle comprend notamment des PME, des ETI, des filiales de groupes étrangers et des entreprises de secteurs variés.
 
-### Ses particularités différenciatrices
+#### Particularités différenciatrices : Une forte dimension internationale
 
----
-
-#### Une forte dimension internationale
-
-Plus de la moitié de la clientèle est internationale. Le cabinet possède notamment un Japan Desk, un Nordik Desk et un bureau de liaison à Tokyo. Cette dimension implique des échanges internationaux, des exigences de confidentialité et des besoins de collaboration numérique.
+🏳️‍🌈 Plus de la moitié de la clientèle est internationale. Le cabinet possède notamment un Japan Desk, un Nordik Desk et un bureau de liaison à Tokyo. Cette dimension implique des échanges internationaux, des exigences de confidentialité et des besoins de collaboration numérique.
 
 
 #### Une organisation transverse
