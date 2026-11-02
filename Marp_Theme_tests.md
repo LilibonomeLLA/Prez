@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 theme: nord
 _class: lead
 paginate: true
@@ -10,6 +10,8 @@ paginate: true
 [Ressource Blog Zwindler](https://blog.zwindler.fr/2021/09/13/marp-presentations-rapides-et-jolies-avec-markdown/)
 
 [Outil Marp Editor](https://lecture.studio/tools/marp-editor/)
+
+[Affichage en ligne de fichiers Marps Markdown](https://heroldemmanuel.forge.apps.education.fr/markslide/)
 
 ### Modif de CSS pour voir ce que l'on peut faire
 
