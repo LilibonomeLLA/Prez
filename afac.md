@@ -10,7 +10,7 @@ style: |
     /* Correction Alignement Vertical en haut */
     align-content: start; 
     font-size: 10pt;
-    line-height: 1.5;
+    line-height: 1.2;
   }
   /* Correction pour forcer l'apparition des numéros de page */
   section::after {
@@ -22,7 +22,7 @@ style: |
     color: #666;
   }  
   h1 {
-    font-size: 17pt;
+    font-size: 16pt;
   }
   h2 {
     font-size: 14pt;
@@ -36,7 +36,7 @@ style: |
   
 ---
 
-# 🐉 Préparation à l’entretien RH — Directeur des systèmes d’information chez Caderas Martin
+# 🐉 Préparation à l’entretien RH — DSI chez Caderas Martin
 
 L’objectif de ton entretien RH sera de démontrer trois choses : ta compréhension des enjeux de l’entreprise, ta capacité à faire du système d’information un levier de performance et ta motivation à rejoindre Caderas Martin, au-delà de la seule dimension technologique.
 
@@ -49,9 +49,9 @@ Pour un poste de DSI, il faut articuler ton discours autour de la stratégie de 
 
 📃 Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
 
-![w:550px](img/139.png)
+![w:580px](img/139.png)
 
-🕐 Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
+🕐 Rapport de transparence 2025 : le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
 ---
 
@@ -59,12 +59,11 @@ Pour un poste de DSI, il faut articuler ton discours autour de la stratégie de 
 
 Le cabinet exerce principalement trois activités complémentaires :
 
-- ✔️ Expertise comptable et conseil : tenue et révision comptables, accompagnement des dirigeants, analyse financière et conseil en gestion.
+✔️ Expertise comptable et conseil : tenue et révision comptables, accompagnement des dirigeants, analyse financière et conseil en gestion.
     
-- ✔️ Audit et commissariat aux comptes : fiabilisation de l’information financière et contrôle des comptes.
+✔️ Audit et commissariat aux comptes : fiabilisation de l’information financière et contrôle des comptes.
     
-- ✔️ Services spécialisés : paie, ressources humaines, accompagnement fiscal et social, missions de conseil spécifiques.
-    
+✔️ Services spécialisés : paie, ressources humaines, accompagnement fiscal et social, missions de conseil spécifiques.    
 
 Sa clientèle comprend notamment des PME, des ETI, des filiales de groupes étrangers et des entreprises de secteurs variés.
 
@@ -166,26 +165,23 @@ Ton argument : tu peux valoriser l'intérêt d'une fonction qui travaille direct
 
 ### Axe 4 — Construire une informatique durable, sécurisée et utile
 
-La confidentialité des données, la conformité et la continuité des activités sont essentielles dans ce secteur.
-
+La _confidentialité des données_, la _conformité_ et la _continuité des activités_ sont essentielles dans ce secteur.
 Ton argument : tu souhaites associer la modernisation du SI à une maîtrise rigoureuse des risques, plutôt que de privilégier l'innovation pour elle-même.
-
 > « Pour moi, la performance d'une DSI repose sur un équilibre entre trois dimensions : la robustesse opérationnelle, la maîtrise des risques et la capacité à accompagner les évolutions du métier. Je souhaite construire une trajectoire qui concilie ces trois dimensions, avec des priorités partagées avec la direction et des résultats mesurables. »
-
 
 ## 4. Comment répondre à la question « Pourquoi Caderas Martin ? »
 
-Ce qui m'attire chez Caderas Martin, c'est d'abord la combinaison entre un cabinet établi, reconnu pour son expertise, et une volonté de faire évoluer ses pratiques et ses outils.
+Ce qui m'attire chez Caderas Martin, c'est d'abord la combinaison entre un cabinet établi, reconnu pour son expertise et une volonté de faire évoluer ses pratiques et ses outils.
 
-J'ai identifié trois dimensions particulièrement intéressantes : la diversité des métiers de l'expertise comptable, de l'audit et du conseil, la dimension internationale de la clientèle et la place importante du numérique dans la qualité du service rendu.
+J'ai identifié trois dimensions : la diversité des métiers de l'expertise comptable, de l'audit et du conseil, la dimension internationale de la clientèle et la place importante du numérique dans la qualité du service rendu.
 
-Dans ce contexte, je vois le rôle du DSI comme un rôle à la fois stratégique et opérationnel. Il s'agit de garantir un système d'information fiable et sécurisé, tout en faisant évoluer les applications et les processus pour améliorer l'efficacité des équipes et l'expérience des clients.
+Dans ce contexte, le rôle du DSI est à la fois **stratégique** et **opérationnel** : garantir un système d'information **fiable** et **sécurisé**, tout en faisant **évoluer les applications** et les **processus** pour améliorer l'**efficacité des équipes** et l'**expérience des clients**.
 
 La transformation numérique, la maîtrise des risques et l'accompagnement du changement sont des sujets qui rendent cette fonction particulièrement stimulante.
 
 Enfin, je suis sensible à la dimension humaine d'une structure à taille humaine, où la proximité avec les décideurs et les équipes permet de construire des solutions adaptées aux besoins réels.
 
-C'est cette combinaison entre enjeux technologiques, impact métier et proximité humaine qui motive mon intérêt pour Caderas Martin.
+C'est cette combinaison entre **enjeux technologiques**, **impact métier** et **proximité humaine** qui motive mon intérêt pour _Caderas Martin_.
 
 Conseil important : cette réponse gagnera en force si tu y ajoutes un exemple précis de ton parcours : une transformation réussie, une amélioration de la disponibilité du SI, une réduction des coûts, un projet de cybersécurité ou une équipe que tu as accompagnée.
 
@@ -217,8 +213,15 @@ L'entreprise indique que son entretien RH porte notamment sur le parcours, le pr
 - Un manager qui embarque les équipes : tu sais expliquer les changements, écouter les utilisateurs et développer les compétences.
     
 
-*Pour les questions sur tes réalisations, prépare trois exemples au format STAR : situation, tâche, actions, résultats. Dans chaque exemple, chiffre le résultat dès que possible et distingue clairement ce que tu as personnellement réalisé de ce qui relève de l'équipe.*
+*Pour les questions sur tes réalisations, prépare trois exemples au format **STAR**
+::
+Situation,
+Tâche, 
+Actions, 
+Résultats.
+::
 
+> Dans chaque exemple, chiffre le résultat dès que possible et distingue clairement ce que tu as personnellement réalisé de ce qui relève de l'équipe.*
 ---
 
 ## 6. Les questions pertinentes à poser au recruteur
@@ -246,9 +249,6 @@ Le but n'est pas de présenter un audit informatique dès le premier entretien, 
 ### Sur la réussite dans le poste
 - Quels résultats concrets vous permettraient de considérer que le recrutement est une réussite au bout d'un an ?
 - Quelle autonomie et quels moyens seront donnés au DSI pour conduire les évolutions prioritaires ?  
-
-Je te recommande d'en retenir quatre ou cinq en fonction du déroulement de l'échange. La question sur les attentes à douze mois est particulièrement utile : elle permet de comprendre si l'entreprise attend principalement un responsable de la production informatique, un directeur de la transformation ou une combinaison des deux.
-
 
 ## 7. Ta vision des 90 premiers jours : un bon sujet pour te différencier
 
@@ -293,8 +293,7 @@ Il serait donc pertinent de déterminer si le recrutement vise :
     
 - ou une réorganisation de la gouvernance informatique et numérique.
     
-
-Cette distinction conditionne les compétences à mettre en avant, les questions à poser et la façon de présenter ta vision du poste.
+_Cette distinction conditionne les compétences à mettre en avant, les questions à poser et la façon de présenter ta vision du poste._
 
 
 ## 9. La fiche mémo à retenir avant l'entretien
@@ -303,11 +302,11 @@ Caderas Martin en quelques mots : cabinet créé en **1978**, plus de **153 coll
 
 Ses enjeux SI les plus visibles : continuité de service, sécurité et confidentialité, cohérence des outils métiers, dématérialisation comptable, facturation électronique et accompagnement des utilisateurs.
 
-Ta motivation centrale : faire du SI un levier de qualité, d'efficacité et de confiance, tout en conservant une forte exigence de sécurité et de maîtrise des risques.
+🏍️ Ta motivation centrale : faire du SI un levier de qualité, d'efficacité et de confiance, tout en conservant une forte exigence de sécurité et de maîtrise des risques.
 
-Ton positionnement : un dirigeant qui sait écouter les métiers, arbitrer les investissements, conduire le changement et transformer une stratégie en résultats concrets.
+🧮 Ton positionnement : un dirigeant qui sait écouter les métiers, arbitrer les investissements, conduire le changement et transformer une stratégie en résultats concrets.
 
-___________________________________________
+---
 
 ### Personnes en contact
 
@@ -323,6 +322,7 @@ ATH : **Association Technique d’Harmonisation** est une émanation de **32 cab
 
 ![w:450px](img/2164946.png)
 
+---
 
 Une vision équilibrée du management :
 
@@ -331,8 +331,6 @@ Une vision équilibrée du management :
     Encadrer sans brider l’autonomie,
     Former sans imposer un modèle unique.
 
----
-
 ### Le poste
 
 Votre rôle sera à la fois **stratégique**, **opérationnel** et **transverse**.
@@ -340,17 +338,17 @@ Votre rôle sera à la fois **stratégique**, **opérationnel** et **transverse*
 Vous aurez notamment pour responsabilités de :
 
    - définir et mettre en œuvre la stratégie de transformation numérique du cabinet et son schéma directeur
-    - accompagner la transformation des métiers de l’expertise comptable, de l’audit et du social
-    - piloter le portefeuille de produits numériques du cabinet et définir leur feuille de route
-    - faire évoluer notre portail clients, nos outils internes et nos services numériques
-    - superviser les projets de développement d’applications internes et externes 
-    - identifier et développer les cas d’usage liés à l’intelligence artificielle et à l’automatisation
-    - garantir l'interopérabilité de nos logiciels et la qualité de nos données ;
-    - définir et piloter la politique de gouvernance et de valorisation des données
-    - piloter les partenaires technologiques, éditeurs, développeurs et prestataires ;
-    - superviser les enjeux de cybersécurité, en lien avec nos partenaires spécialisés ;
-    - veiller à la prise en compte des exigences liées au RGPD et à la protection des données dans les projets numériques ;
-    - accompagner les équipes dans l’évolution de leurs pratiques et favoriser l’adoption des nouveaux outils.
+   - accompagner la transformation des métiers de l’expertise comptable, de l’audit et du social
+   - piloter le portefeuille de produits numériques du cabinet et définir leur feuille de route
+   - faire évoluer notre portail clients, nos outils internes et nos services numériques
+   - superviser les projets de développement d’applications internes et externes
+   - identifier et développer les cas d’usage liés à l’intelligence artificielle et à l’automatisation
+   - garantir l'interopérabilité de nos logiciels et la qualité de nos données 
+   - définir et piloter la politique de gouvernance et de valorisation des données
+   - piloter les partenaires technologiques, éditeurs, développeurs et prestataires
+   - superviser les enjeux de cybersécurité, en lien avec nos partenaires spécialisés
+   - veiller à la prise en compte des exigences liées au RGPD et à la protection des données dans les projets numériques
+   - accompagner les équipes dans l’évolution de leurs pratiques et favoriser l’adoption des nouveaux outils.
 
 ---
 
@@ -360,18 +358,17 @@ Nous recherchons avant tout un(e) bâtisseur(se), capable de transformer une vis
 
 Issu(e) d’une formation supérieure de type école d’ingénieur, Master, école de commerce avec une spécialisation numérique ou équivalent, vous justifiez d’une expérience confirmée d’au moins 10 ans dans des fonctions de direction de la transformation, direction produit, direction des systèmes d’information ou direction de l’innovation.
 
-Vous avez déjà piloté des projets de transformation numérique d’envergure et êtes capable de conjuguer vision stratégique, compréhension technique et conduite du changement.
-
+Vous avez déjà piloté des projets de **transformation numérique d’envergure** et êtes capable de conjuguer **vision stratégique**, **compréhension technique** et **conduite du changement**.
 
 Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
 
-    transformation numérique et systèmes d’information ;
-    produits et services numériques ;
-    intelligence artificielle et automatisation ;
-    data et gouvernance des données ;
-    développement applicatif ;
-    cybersécurité ;
-    pilotage de projets complexes et de partenaires.
+    * transformation numérique et systèmes d’information ;
+    * produits et services numériques ;
+    * intelligence artificielle et automatisation ;
+    * data et gouvernance des données ;
+    * développement applicatif ;
+    * cybersécurité ;
+    * pilotage de projets complexes et de partenaires.
 
 ---
 
@@ -391,12 +388,11 @@ Vous aurez l’opportunité d’avoir un impact direct et mesurable sur :
 - le développement de nouveaux produits et services numériques 
 - et, plus largement, l’évolution du modèle du cabinet.
     
-Un poste au cœur de notre stratégie pour faire du numérique, de la donnée et de l’IA des leviers durables de différenciation et de création de valeur.
+Un poste au **cœur de notre stratégie** pour faire du numérique, de la **donnée** et de l’**IA** des leviers durables de **différenciation** et de **création de valeur**.
 
 ---
 
-Les questions à préparer :
-Pour cet entretien, je m'attendrais notamment à :
+<u>Les questions à préparer :</u>
 
 1. **« Quelle serait votre priorité durant vos 100 premiers jours ? »**
     
@@ -411,7 +407,6 @@ Pour cet entretien, je m'attendrais notamment à :
     
 6. **« Comment faites-vous travailler la DSI avec les métiers ? »**
     
-
 7. **« Comment managez-vous une équipe de 15 à 20 personnes ? »**
     
 8. **« Comment gérez-vous les prestataires et l'externalisation ? »**
@@ -419,11 +414,10 @@ Pour cet entretien, je m'attendrais notamment à :
 9. **« Comment mesurez-vous la performance d'une DSI ? »**
     
 10. **« Quelle relation souhaitez-vous avoir avec le DG et les membres du CODIR ? »**
+---
+♾️ Ce qui me donne envie de rejoindre => c’est d’abord la combinaison entre une **mission qui a du sens**  et un véritable **enjeu de transformation**.
 
-
-Ce qui me donne envie de rejoindre => c’est d’abord la combinaison entre une **mission qui a du sens**  et un véritable **enjeu de transformation**.
-
-Je trouve particulièrement intéressant que le système d’information soit aussi directement **connecté au cœur de métier de ...** : la gestion des droits, la relation avec les clients, la donnée et les nouveaux enjeux liés notamment à l’intelligence artificielle. Cela donne au DSI une responsabilité qui va bien au-delà du fonctionnement de l’IT.
+☕ Je trouve particulièrement intéressant que le système d’information soit aussi directement **connecté au cœur de métier de ...** : la gestion des droits, la relation avec les clients, la donnée et les nouveaux enjeux liés notamment à l’intelligence artificielle. Cela donne au DSI une responsabilité qui va bien au-delà du fonctionnement de l’IT.
 
 ---
 
@@ -437,7 +431,6 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 ---
 ## 1. « Quelle serait votre priorité durant vos 100 premiers jours ? »
 
-
 > « Ma priorité ne serait pas d'arriver avec un plan de transformation déjà écrit. Les 100 premiers jours seraient d'abord consacrés à comprendre, écouter et établir un diagnostic partagé.
 > 
 > Je travaillerais sur **quatre dimensions** : les enjeux stratégiques, la perception de la DSI par les métiers, la robustesse du SI et les risques — notamment cyber, opérationnels et liés aux dépendances technologiques.
@@ -446,14 +439,12 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 > 
 > À l'issue de cette phase, je voudrais être capable de présenter trois choses au DG et au CODIR : une photographie objective de la situation, les quelques priorités réellement structurantes et une trajectoire à 2 ou 3 ans, avec des premières actions visibles à court terme.
 > 
-> Mon objectif au bout de 100 jours serait donc moins d'avoir lancé beaucoup de projets que d'avoir créé de la clarté, de la confiance et un alignement sur les priorités. »
-
----
+> Mon objectif au bout de 100 jours serait donc moins d'avoir lancé beaucoup de projets que d'avoir créé de la **clarté**, de la **confiance** et un **alignement sur les priorités**. »
 
 ### Message implicite
 
-**« Je ne suis ni un pompier, ni un DSI qui arrive avec des certitudes. Je prends le temps de comprendre avant d'engager l'organisation. »**
-
+> « Je ne suis ni un pompier, ni un DSI qui arrive avec des certitudes. Je prends le temps de comprendre avant d'engager l'organisation. »
+---
 
 # 2. « Comment construisez-vous une stratégie SI lorsque vous arrivez dans une organisation que vous ne connaissez pas ? »
 
@@ -516,7 +507,6 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 ---
 # 5. « Que feriez-vous avec l'IA ? »
 
-
 > « Je commencerais par ne pas considérer l'IA comme une fin en soi.
 > 
 > Je chercherais d'abord les cas d'usage qui peuvent réellement améliorer l'expérience des collaborateurs et des clients, l'efficacité des collaborateurs ou la qualité des processus.
@@ -535,10 +525,8 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 
 > « Je ne choisirais pas le premier cas d'usage avant d'avoir rencontré les métiers et analysé les données disponibles. Mais je chercherais prioritairement un cas où l'IA peut réduire une charge opérationnelle importante ou améliorer sensiblement le service rendu aux clients, tout en ayant un niveau de risque maîtrisable. »
 
-
 ---
 # 6. « Comment faites-vous travailler la DSI avec les métiers ? »
-
 
 > « Pour moi, la relation DSI-métiers ne doit pas être une relation de client à fournisseur interne. La DSI doit être un partenaire de transformation.
 > 
@@ -552,12 +540,10 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 > 
 > Mon objectif est donc de faire évoluer la perception de la DSI : passer de "ceux qui gèrent l'informatique" à "ceux qui nous aident à transformer l'entreprise". »
 
-
 > **« Je veux que les métiers viennent voir la DSI avant d'avoir défini la solution, pas après. »**
 
 ---
 # 7. « Comment managez-vous une équipe de 15 à 20 personnes ? »
-
 
 > « À cette taille d'équipe, mon rôle n'est pas d'être le meilleur expert technique. Mon rôle est de créer les conditions permettant à l'équipe de réussir.
 > 
@@ -570,7 +556,6 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 > Enfin, j'aime donner de l'autonomie tout en maintenant un niveau d'exigence élevé sur les engagements, la qualité de service et la transparence.
 > 
 > Mon principe est simple : je veux une équipe qui soit capable de fonctionner efficacement sans que tout remonte au DSI. »
-
 
 > **« Mon ambition n'est pas d'être le centre de décision de la DSI, mais de construire une DSI qui sait décider. »**
 
@@ -615,7 +600,6 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 ---
 # 10. « Quelle relation souhaitez-vous avoir avec le DG et les membres du CODIR ? »
 
-
 > « Je souhaite avoir avec le DG une relation de confiance, de transparence et de challenge réciproque.
 > 
 > Mon rôle n'est pas de remonter au DG tous les problèmes de la DSI. Mon rôle est de lui donner une vision claire de la situation, des risques, des options et des décisions qui nécessitent son arbitrage.
@@ -628,12 +612,10 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 > 
 > Pour moi, la bonne relation avec le DG repose finalement sur trois choses : pas de surprise, des arbitrages explicites et une confiance fondée sur la transparence. »
 
-
 > **« Je ne veux pas que le DG découvre un problème informatique ; je veux qu'il découvre avec moi un risque d'entreprise que nous avons choisi de traiter. »**
 
 ---
 # Les 5 messages clé
-
 
 1. **Je pars du business, pas de la technologie.**
     
@@ -644,46 +626,37 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 4. **Je construis une DSI autonome, responsabilisée et proche des métiers.**
     
 5. **Je suis un partenaire du DG et du CODIR, pas simplement le responsable de l'informatique.**
-    
-___________________________________________
 
 Le contexte appelle selon moi un **management responsabilisant, fédérateur et assez structurant**, avec une forte capacité d’arbitrage.
 
 Environnement où **l'écoute et la pédagogie** sont importantes, mais où la **clarté des responsabilités et des décisions** l'est tout autant.
 
+---
+
 ## Le modèle que je privilégierais : « cadre clair + autonomie + exigence »
 
-Pour une DSI de 15–20 personnes, je défendrais un management autour de **4 piliers**.
+Management autour de **4 piliers**.
 
 ### 1. Donner du sens
 
 Le premier rôle du DSI serait de donner une direction à l'équipe.
-
 > « Nous devons construire un SI fiable, sécurisé et évolutif qui permet de mieux servir les clients, les collaborateurs et d'accompagner sa transformation. »
 
 **Le management doit donc reconnecter régulièrement le travail de la DSI à cette mission.**
 
 ### 2. Responsabiliser fortement les managers et référents
 
-Avec 15–20 personnes, je déconseillerais fortement un management où tout remonte au DSI.
-
-Je chercherais plutôt à avoir des responsables clairement identifiés sur quelques grands domaines :
+Je déconseille un management où tout remonte au DSI => des responsables clairement identifiés sur quelques grands domaines :
 
 - Run / infrastructure / production
-    
 - Applications et projets
-    
 - Data / IA
-    
 - Cybersécurité
-    
 - éventuellement architecture / urbanisation selon l'organisation
-    
 
-Le DSI fixe le cadre, les objectifs et les priorités.
+Le DSI fixe le **cadre**, les **objectifs** et les **priorités**.
 
-
-> **« Je donne de l'autonomie sur le comment, mais je garde la responsabilité du pourquoi, du quoi et des arbitrages. »**
+> « Je donne de l'autonomie sur le comment, mais je garde la responsabilité du pourquoi, du quoi et des arbitrages. »
 
 ---
 
@@ -691,40 +664,29 @@ Le DSI fixe le cadre, les objectifs et les priorités.
 
 Je voudrais instaurer une culture où :
 
-- les problèmes sont remontés tôt ;
-    
+- les problèmes sont remontés tôt ;    
 - les risques sont explicités ;
-    
 - les engagements sont tenus ;
-    
 - lorsqu'ils ne peuvent pas l'être, on prévient rapidement ;
-    
 - les décisions sont documentées ;
-    
 - les responsabilités sont claires.
-    
 
 C'est une culture particulièrement adaptée à une DSI qui doit gérer simultanément **run, cyber, dette technique et transformation**.
 
----
 ### 4. Être participatif sur les solutions, directif sur les priorités
 
 > **« Je suis participatif dans la construction des solutions, mais je suis clair et assumé dans les décisions. »**
 
 **Sur un choix d'architecture :**
-
 → écouter les experts, challenger, faire émerger les options.
 
 **Sur la priorité d'un projet :**
-
 → écouter les métiers et la DSI, mais finalement arbitrer.
 
 **Sur la cybersécurité :**
-
 → consulter les équipes, mais ne pas négocier avec le risque critique.
 
 **Sur l'organisation de l'équipe :**
-
 → construire avec les collaborateurs, mais décider lorsqu'une organisation ne fonctionne pas.
 
 ---
@@ -749,7 +711,7 @@ Avec une équipe de 15 à 20 personnes, mon ambition serait de construire une DS
 
 Le  DSI doit  savoir **expliquer, convaincre et créer de l'adhésion**, pas simplement décider.
 
-Posture :
+<u>Posture :</u>
 
 **Écouter → comprendre → expliquer → proposer → arbitrer → embarquer → mesurer.**
 
