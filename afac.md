@@ -22,7 +22,7 @@ Je te propose une synthèse orientée entretien, avec les informations à conna�
 
 Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
 
-![w:250px](img/139.png)
+![w:350px](img/139.png)
 
 Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
@@ -309,7 +309,7 @@ ___________________________________________
 
 ATH : **Association Technique d’Harmonisation** est une émanation de **32 cabinets** indépendants d’audit
 
-![[Pasted image 20261102164946.png]]
+![](img/2164946.png)
 
 ---
 
