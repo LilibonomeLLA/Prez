@@ -7,9 +7,9 @@ paginate: true
 
 # Expérimentation 🦜
 ## Test de différents styles pour Marp
-![Ressource Blog Zwindler](https://blog.zwindler.fr/2021/09/13/marp-presentations-rapides-et-jolies-avec-markdown/)
+[Ressource Blog Zwindler](https://blog.zwindler.fr/2021/09/13/marp-presentations-rapides-et-jolies-avec-markdown/)
 
-![Outil Marp Editor](https://lecture.studio/tools/marp-editor/)
+[Outil Marp Editor](https://lecture.studio/tools/marp-editor/)
 
 ### Modif de CSS pour voir ce que l'on peut faire
 
