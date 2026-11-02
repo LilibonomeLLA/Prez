@@ -141,7 +141,7 @@ Un élément supplémentaire mérite ton attention : le site carrière affiche a
 
 ## 3. Les éléments de motivation à mettre en avant
 
-### Axe 1 — Rejoindre une entreprise où le SI est au cœur du métier
+###  1 — Rejoindre une entreprise où le SI est au cœur du métier
 
 Le cabinet ne vend pas un produit informatique : il vend de l’expertise, du conseil, de la fiabilité et de la confiance. Son SI contribue directement à cette promesse.
 
@@ -156,7 +156,7 @@ Le cabinet a déjà engagé une démarche de digitalisation et travaille sur les
 Ton argument : tu es attiré par un contexte où il faut articuler les besoins métiers, les choix technologiques, la conduite du changement et les résultats opérationnels.
 > « Je suis particulièrement motivé par la possibilité de faire évoluer un système d'information déjà structuré, en priorisant les projets qui apportent une valeur mesurable aux métiers. La transformation numérique doit se traduire par des processus plus simples, une meilleure circulation de l'information et davantage de temps consacré aux activités à valeur ajoutée. »
 
---
+---
 
 ### Axe 3 — Travailler dans une structure à taille humaine et à dimension internationale
 
@@ -346,6 +346,8 @@ Issu(e) d’une formation supérieure de type école d’ingénieur, Master, éc
 
 Vous avez déjà piloté des projets de **transformation numérique d’envergure** et êtes capable de conjuguer **vision stratégique**, **compréhension technique** et **conduite du changement**.
 
+---
+
 Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
 
     * transformation numérique et systèmes d’information ;
@@ -355,7 +357,6 @@ Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
     * développement applicatif ;
     * cybersécurité ;
     * pilotage de projets complexes et de partenaires.
----
 
 Une expérience acquise dans une entreprise de services, un éditeur de logiciels, une ESN ou une entreprise fortement digitalisée sera particulièrement appréciée.
 
@@ -594,21 +595,15 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 ---
 # Les 5 messages clé
 
-1. **Je pars du business, pas de la technologie.**
-    
-2. **Je sais arbitrer entre risque, coût, valeur et capacité.**
-    
+1. **Je pars du business, pas de la technologie.**   
+2. **Je sais arbitrer entre risque, coût, valeur et capacité.**  
 3. **Je considère la cybersécurité et la data comme des sujets de gouvernance d'entreprise.**
-    
-4. **Je construis une DSI autonome, responsabilisée et proche des métiers.**
-    
+4. **Je construis une DSI autonome, responsabilisée et proche des métiers.** 
 5. **Je suis un partenaire du DG et du CODIR, pas simplement le responsable de l'informatique.**
 
 Le contexte appelle selon moi un **management responsabilisant, fédérateur et assez structurant**, avec une forte capacité d’arbitrage.
 
 Environnement où **l'écoute et la pédagogie** sont importantes, mais où la **clarté des responsabilités et des décisions** l'est tout autant.
-
----
 
 ## Le modèle que je privilégierais : « cadre clair + autonomie + exigence »
 
