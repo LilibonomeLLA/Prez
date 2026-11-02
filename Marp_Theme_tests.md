@@ -1,5 +1,5 @@
 ---
-marp: true
+marp: false
 theme: nord-theme
 _class: lead
 paginate: true
