@@ -12,7 +12,7 @@ Je te propose une synthèse orientée entretien, avec les informations à conna�
 
 Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
 
-![[img/Pasted image 20261019132139.png]]
+![[/img/Pasted image 20261019132139.png]]
 
 Rapport de transparence 2025. Le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
