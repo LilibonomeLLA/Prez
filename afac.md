@@ -1,9 +1,18 @@
 ---
 marp: true
-theme: nord
 _class: lead
 paginate: true
+theme: resume 
+size: A4D150
 ---
+
+|                                     |                                          |
+| ----------------------------------- | ---------------------------------------- |
+| **Divers**: (123) 456-7890           | **Location**: Paris, France            |
+| **LLA**: <john.doe@example.com>   | **Linkedin**: LLA       |
+| **Entretien**: None | **GitHub**: [github.com/LilibonomeLLA][github] |
+
+
 # 🐉 Préparation à l’entretien RH — Directeur des systèmes d’information chez Caderas Martin
 
 L’objectif de ton entretien RH sera de démontrer trois choses : ta compréhension des enjeux de l’entreprise, ta capacité à faire du système d’information un levier de performance et ta motivation à rejoindre Caderas Martin, au-delà de la seule dimension technologique.
