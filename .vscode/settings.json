@@ -1,5 +1,6 @@
 {
     "markdown.marp.themes": [
         "https://raw.githubusercontent.com/mastern2k3/marpit-nord-theme/master/build/nord-theme.css",
+        "https://raw.githubusercontent.com/stanfrbd/A4-marp/refs/heads/main/a4-clean.css"
     ]
 }
