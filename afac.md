@@ -33,24 +33,27 @@ style: |
   h1 {
     font-size: 16pt;
     margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
-    margin-bottom: 8mm;  /* Espace sous le grand titre */
+    margin-bottom: 2mm;  /* Espace sous le grand titre */
   }
   h2 {
     font-size: 14pt;
     margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
-    margin-bottom: 6mm;  /* Espace sous le grand titre */
+    margin-bottom: 2mm;  /* Espace sous le grand titre */
   }
   h3 {
     font-size: 13pt;
     margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
-    margin-bottom: 6mm;  /* Espace sous le grand titre */
+    margin-bottom: 2mm;  /* Espace sous le grand titre */
   }
   h4 {
     font-size: 11pt;
     margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
-    margin-bottom: 4mm;  /* Espace sous le grand titre */
+    margin-bottom: 2mm;  /* Espace sous le grand titre */
   }
-  
+  /* Astuce Marp : supprime les marges forcées par le thème sur le premier élément après un titre */
+  h1 + *, h2 + * {
+    margin-top: 0 !important;
+  }
 ---
 
 # 🐉 Préparation à l’entretien RH — DSI chez Caderas Martin
