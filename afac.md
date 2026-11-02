@@ -260,7 +260,7 @@ ___________________________________________
 
 ATH : **Association Technique d’Harmonisation** est une émanation de **32 cabinets** indépendants d’audit
 
-![[Pasted image 20261102164946.png]]
+![w:300px](img/2164946.png)
 
 une vision équilibrée du management :
 
