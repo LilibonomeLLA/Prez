@@ -1,17 +1,26 @@
 ---
 marp: true
-theme: A4        <!-- thème A4 ? -->
+theme: gaia
 paginate: true
 style: |
   section {
     width: 210mm;
     height: 297mm;
-    padding: 15mm;
-    justify-content: flex-start;
-    align-items: flex-start;
+    padding: 20mm;    
+    /* Correction Alignement Vertical en haut */
+    align-content: start; 
     font-size: 14pt;
     line-height: 1.5;
   }
+  /* Correction pour forcer l'apparition des numéros de page */
+  section::after {
+    content: attr(data-marpit-pagination);
+    position: absolute;
+    bottom: 15mm;
+    right: 20mm;
+    font-size: 10pt;
+    color: #666;
+  }  
   h1 {
     font-size: 24pt;
     margin-bottom: 10mm;
