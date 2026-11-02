@@ -87,10 +87,9 @@ Le cabinet exerce principalement trois activités complémentaires :
 
 Sa clientèle comprend notamment des PME, des ETI, des filiales de groupes étrangers et des entreprises de secteurs variés.
 
-#### Particularités différenciatrices : Une forte dimension internationale
+#### Particularité différenciatrice : Une forte dimension internationale
 
 🏳️‍🌈 Plus de la moitié de la clientèle est internationale. Le cabinet possède notamment un Japan Desk, un Nordik Desk et un bureau de liaison à Tokyo. Cette dimension implique des échanges internationaux, des exigences de confidentialité et des besoins de collaboration numérique.
-
 
 #### Une organisation transverse
 
@@ -99,8 +98,6 @@ Le cabinet adapte ses équipes aux besoins des missions plutôt que de rattacher
 #### Une culture déjà orientée vers la digitalisation
 
 Utilisation de logiciels spécialisés en comptabilité, audit, consolidation, paie, planification et partage documentaire. Le cabinet propose également des outils collaboratifs et un espace client. Le poste de DSI s'inscrit donc dans un environnement numérique existant, à faire évoluer plutôt qu'à construire de zéro.
-
----
 
 ### Culture d’entreprise et valeurs
 
@@ -112,8 +109,7 @@ Les éléments mis en avant par le cabinet sont :
     
 - La **bienveillance**, l’**esprit d’équipe** et la **transmission des connaissances**.
     
-- L’**amélioration continue** et la recherche de solutions numériques utiles aux métiers.
-    
+- L’**amélioration continue** et la recherche de solutions numériques utiles aux métiers.    
 
 Le cabinet indique explicitement vouloir utiliser des outils performants et limiter les tâches sans valeur ajoutée. C’est un point particulièrement intéressant à exploiter pour expliquer ta vision du rôle d’un DSI.
 
@@ -127,11 +123,9 @@ Il faut distinguer les faits publiés par le cabinet des hypothèses que tu pour
 
 Le cabinet manipule des données comptables, financières, fiscales, sociales et des informations sensibles concernant ses clients. Les priorités sont donc la cybersécurité, les sauvegardes restaurables, la gestion des identités et des accès, la protection des postes, la réponse aux incidents et la continuité de service.
 
-
 #### 2. Modernisation et cohérence du portefeuille applicatif
 
 L’enjeu consiste à faire fonctionner ensemble les outils métiers, la GED, la paie, les applications collaboratives, le reporting et les solutions de dématérialisation. Il faut rechercher la simplicité d’usage, la qualité des interfaces, la maîtrise des coûts et la réduction des doubles saisies.
-
 
 #### 3. Facturation électronique et transformation des processus
 
@@ -161,8 +155,6 @@ Formulation possible :
 
 > « Ce qui m'intéresse chez Caderas Martin, c'est que le système d'information est directement lié à la qualité du service rendu aux clients. Dans un cabinet d'expertise comptable et d'audit, la disponibilité des outils, la sécurité des données et la fluidité des processus sont essentielles. Je souhaite inscrire la DSI dans cette logique : un SI fiable et sécurisé, mais également un levier de performance et de différenciation. »
 
----
-
 ### Axe 2 — Participer à une transformation numérique concrète
 
 Le cabinet a déjà engagé une démarche de digitalisation et travaille sur les évolutions de ses outils comptables et de facturation électronique.
@@ -180,13 +172,14 @@ Ton argument : tu peux valoriser l'intérêt d'une fonction qui travaille direct
 
 > « J'apprécie les environnements dans lesquels la DSI peut travailler en proximité avec les décideurs et les utilisateurs. La taille du cabinet, sa diversité de métiers et son ouverture internationale me semblent offrir un contexte intéressant pour concilier vision stratégique, pragmatisme opérationnel et accompagnement humain. »
 
----
 
 ### Axe 4 — Construire une informatique durable, sécurisée et utile
 
 La _confidentialité des données_, la _conformité_ et la _continuité des activités_ sont essentielles dans ce secteur.
 Ton argument : tu souhaites associer la modernisation du SI à une maîtrise rigoureuse des risques, plutôt que de privilégier l'innovation pour elle-même.
 > « Pour moi, la performance d'une DSI repose sur un équilibre entre trois dimensions : la robustesse opérationnelle, la maîtrise des risques et la capacité à accompagner les évolutions du métier. Je souhaite construire une trajectoire qui concilie ces trois dimensions, avec des priorités partagées avec la direction et des résultats mesurables. »
+
+---
 
 ## 4. Comment répondre à la question « Pourquoi Caderas Martin ? »
 
@@ -203,6 +196,7 @@ Enfin, je suis sensible à la dimension humaine d'une structure à taille humain
 C'est cette combinaison entre **enjeux technologiques**, **impact métier** et **proximité humaine** qui motive mon intérêt pour _Caderas Martin_.
 
 | _Conseil important : cette réponse gagnera en force si tu y ajoutes un exemple précis de ton parcours : une transformation réussie, une amélioration de la disponibilité du SI, une réduction des coûts, un projet de cybersécurité ou une équipe que tu as accompagnée_ |
+| -------- |
 
 ---
 
@@ -232,10 +226,9 @@ L'entreprise indique que son entretien RH porte notamment sur le parcours, le pr
 - Un manager qui embarque les équipes : tu sais expliquer les changements, écouter les utilisateurs et développer les compétences.
     
 
-*Pour les questions sur tes réalisations, prépare trois exemples au format **STAR**
+🕶️ Pour les questions sur tes réalisations, prépare trois exemples au format **STAR**
 
 
-|--------|--------|--------|--------|
 |Situation|Tâche|Actions|Résultats|
 |--------|--------|--------|--------|
 
@@ -252,7 +245,6 @@ Le but n'est pas de présenter un audit informatique dès le premier entretien, 
 - Quelles seraient les trois priorités attendues du DSI au cours des six à douze premiers mois ?
 - Quel est le périmètre exact du poste : infrastructure, cybersécurité, applications métiers, data et transformation digitale ?
 
-
 ### Sur l'organisation et la gouvernance
 - À qui le DSI est-il rattaché et comment les décisions informatiques sont-elles arbitrées avec les associés ?
 - Quelle est la composition de l'équipe informatique et quelle part des services est externalisée ?
@@ -261,28 +253,23 @@ Le but n'est pas de présenter un audit informatique dès le premier entretien, 
 - Où en est le cabinet dans l'évolution de ses outils comptables et de sa stratégie de facturation électronique ?
 - Quels sont les principaux enjeux actuels en matière de cybersécurité, de continuité d'activité et de gestion des données ?
 - Quelle place souhaitez-vous donner à l'automatisation, à la data et à l'intelligence artificielle ?
-
----
-
 ### Sur la réussite dans le poste
 - Quels résultats concrets vous permettraient de considérer que le recrutement est une réussite au bout d'un an ?
 - Quelle autonomie et quels moyens seront donnés au DSI pour conduire les évolutions prioritaires ?  
+---
 
 ## 7. Ta vision des 90 premiers jours : un bon sujet pour te différencier
-
 ### Jours 1–30
 - Comprendre
 - Écouter et établir le diagnostic
 
 ▶️ Rencontrer les associés, les responsables métiers, l'équipe informatique et les prestataires. Comprendre les applications, les contrats, les incidents récurrents, les risques de sécurité, les coûts et les projets en cours.
 
-
 ### Jours 31–60
 - Prioriser
 - Définir une feuille de route partagée
 
 ▶️ Hiérarchiser les risques et les projets selon leur valeur métier, leur urgence, leur coût et leur faisabilité. Identifier quelques améliorations rapides et définir des indicateurs de performance.
-
 
 ### Jours 61–90
 - Engager
@@ -309,7 +296,6 @@ Il serait donc pertinent de déterminer si le recrutement vise :
 - ou une réorganisation de la gouvernance informatique et numérique.
     
 _Cette distinction conditionne les compétences à mettre en avant, les questions à poser et la façon de présenter ta vision du poste._
-
 
 ## 9. La fiche mémo à retenir avant l'entretien
 
@@ -341,6 +327,7 @@ Une vision équilibrée du management :
     Déléguer sans abandonner,
     Encadrer sans brider l’autonomie,
     Former sans imposer un modèle unique.
+---
 
 ### Le poste
 
@@ -409,7 +396,6 @@ Un poste au **cœur de notre stratégie** pour faire du numérique, de la **donn
     
 3. **« Comment arbitrez-vous entre maintien en condition opérationnelle, dette technique et nouveaux projets ? »**
     
-
 4. **« Quelle est votre approche de la cybersécurité ? »**
     
 5. **« Que feriez-vous avec l'IA ? »**
@@ -473,7 +459,6 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 
 ---
 # 3. « Comment arbitrez-vous entre maintien en condition opérationnelle, dette technique et nouveaux projets ? »
-
 
 > « Je ne considère pas ces trois dimensions comme concurrentes par principe. Le premier rôle de la DSI est de garantir la continuité et la sécurité du SI ; le deuxième est de réduire progressivement les risques et la dette ; le troisième est d'accompagner la transformation.
 > 
@@ -583,7 +568,6 @@ C’est donc un poste qui me paraît particulièrement complet, avec une vraie c
 
 ---
 # 9. « Comment mesurez-vous la performance d'une DSI ? »
-
 
 > « Je mesure une DSI sur quatre dimensions : **fiabilité**, **sécurité**, **valeur** et **capacité de transformation**.
 > 
@@ -719,6 +703,8 @@ Le  DSI doit  savoir **expliquer, convaincre et créer de l'adhésion**, pas sim
 <u>Posture :</u>
 
 **Écouter → comprendre → expliquer → proposer → arbitrer → embarquer → mesurer.**
+
+<br>
 
 # Conclusion
 
