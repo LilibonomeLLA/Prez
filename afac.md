@@ -22,14 +22,6 @@ style: |
     font-size: 8pt;
     color: #666;
   }
-  section::after {
-    content: attr(data-marpit-pagination);
-    position: absolute;
-    bottom: 15mm;
-    right: 20mm;
-    font-size: 10pt;
-    color: #666;
-  }
   h1 {
     font-size: 16pt;
     margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
@@ -54,6 +46,17 @@ style: |
   h1 + *, h2 + * {
     margin-top: 0 !important;
   }
+  /* FORCE l'affichage et le positionnement du numéro de page */
+  section::after {
+    content: attr(data-marpit-pagination) !important; /* Force le contenu du numéro */
+    display: block !important;                       /* Force l'affichage */
+    position: absolute !important;
+    bottom: 15mm !important;                         /* Place le numéro à 15mm du bas */
+    right: 20mm !important;                        /* Place le numéro à 20mm de la droite */
+    font-size: 11pt !important;
+    color: #666666 !important;
+    z-index: 100 !important;                         /* Passe au-dessus du fond du thème */
+  }
 ---
 
 # 🐉 Préparation à l’entretien RH — DSI chez Caderas Martin
@@ -73,19 +76,15 @@ Pour un poste de DSI, il faut articuler ton discours autour de la stratégie de 
 
 🕐 Rapport de transparence 2025 : le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
----
-
 ### Son positionnement et ses métiers
 
-Le cabinet exerce principalement trois activités complémentaires :
-
-✔️ Expertise comptable et conseil : tenue et révision comptables, accompagnement des dirigeants, analyse financière et conseil en gestion.
-    
-✔️ Audit et commissariat aux comptes : fiabilisation de l’information financière et contrôle des comptes.
-    
+✔️ Expertise comptable et conseil : tenue et révision comptables, accompagnement des dirigeants, analyse financière et conseil en gestion.    
+✔️ Audit et commissariat aux comptes : fiabilisation de l’information financière et contrôle des comptes.    
 ✔️ Services spécialisés : paie, ressources humaines, accompagnement fiscal et social, missions de conseil spécifiques.    
 
-Sa clientèle comprend notamment des PME, des ETI, des filiales de groupes étrangers et des entreprises de secteurs variés.
+_Sa clientèle comprend notamment des PME, des ETI, des filiales de groupes étrangers et des entreprises de secteurs variés._
+
+---
 
 #### Particularité différenciatrice : Une forte dimension internationale
 
@@ -103,12 +102,9 @@ Utilisation de logiciels spécialisés en comptabilité, audit, consolidation, p
 
 Les éléments mis en avant par le cabinet sont :
 
-- La **qualité technique** et la **fiabilité** des prestations.
-    
-- La **proximité avec les clients** et l’**implication des associés**.
-    
-- La **bienveillance**, l’**esprit d’équipe** et la **transmission des connaissances**.
-    
+- La **qualité technique** et la **fiabilité** des prestations.    
+- La **proximité avec les clients** et l’**implication des associés**.    
+- La **bienveillance**, l’**esprit d’équipe** et la **transmission des connaissances**.   
 - L’**amélioration continue** et la recherche de solutions numériques utiles aux métiers.    
 
 Le cabinet indique explicitement vouloir utiliser des outils performants et limiter les tâches sans valeur ajoutée. C’est un point particulièrement intéressant à exploiter pour expliquer ta vision du rôle d’un DSI.
@@ -151,8 +147,6 @@ Le cabinet ne vend pas un produit informatique : il vend de l’expertise, du co
 
 Ton argument : tu veux positionner l'informatique comme une fonction stratégique qui améliore le service rendu aux clients et la productivité des collaborateurs.
 
-Formulation possible :
-
 > « Ce qui m'intéresse chez Caderas Martin, c'est que le système d'information est directement lié à la qualité du service rendu aux clients. Dans un cabinet d'expertise comptable et d'audit, la disponibilité des outils, la sécurité des données et la fluidité des processus sont essentielles. Je souhaite inscrire la DSI dans cette logique : un SI fiable et sécurisé, mais également un levier de performance et de différenciation. »
 
 ### Axe 2 — Participer à une transformation numérique concrète
@@ -160,18 +154,16 @@ Formulation possible :
 Le cabinet a déjà engagé une démarche de digitalisation et travaille sur les évolutions de ses outils comptables et de facturation électronique.
 
 Ton argument : tu es attiré par un contexte où il faut articuler les besoins métiers, les choix technologiques, la conduite du changement et les résultats opérationnels.
-
 > « Je suis particulièrement motivé par la possibilité de faire évoluer un système d'information déjà structuré, en priorisant les projets qui apportent une valeur mesurable aux métiers. La transformation numérique doit se traduire par des processus plus simples, une meilleure circulation de l'information et davantage de temps consacré aux activités à valeur ajoutée. »
 
+--
 
 ### Axe 3 — Travailler dans une structure à taille humaine et à dimension internationale
 
 Caderas Martin associe une taille intermédiaire, une **organisation transversale** et une clientèle largement internationale. Son site met également en avant la **proximité managériale et l'esprit collectif.**
 
 Ton argument : tu peux valoriser l'intérêt d'une fonction qui travaille directement avec les associés, les équipes métiers et les partenaires technologiques, avec des décisions proches du terrain.
-
 > « J'apprécie les environnements dans lesquels la DSI peut travailler en proximité avec les décideurs et les utilisateurs. La taille du cabinet, sa diversité de métiers et son ouverture internationale me semblent offrir un contexte intéressant pour concilier vision stratégique, pragmatisme opérationnel et accompagnement humain. »
-
 
 ### Axe 4 — Construire une informatique durable, sécurisée et utile
 
@@ -332,7 +324,6 @@ Une vision équilibrée du management :
 ### Le poste
 
 Votre rôle sera à la fois **stratégique**, **opérationnel** et **transverse**.
-
 Vous aurez notamment pour responsabilités de :
 
    - définir et mettre en œuvre la stratégie de transformation numérique du cabinet et son schéma directeur
@@ -348,10 +339,7 @@ Vous aurez notamment pour responsabilités de :
    - veiller à la prise en compte des exigences liées au RGPD et à la protection des données dans les projets numériques
    - accompagner les équipes dans l’évolution de leurs pratiques et favoriser l’adoption des nouveaux outils.
 
----
-
 Vous travaillerez en étroite collaboration avec l’ensemble des directions métiers et coordonnerez les différents acteurs internes et externes intervenant sur les projets numériques.
-
 Nous recherchons avant tout un(e) bâtisseur(se), capable de transformer une vision en projets concrets et mesurables.
 
 Issu(e) d’une formation supérieure de type école d’ingénieur, Master, école de commerce avec une spécialisation numérique ou équivalent, vous justifiez d’une expérience confirmée d’au moins 10 ans dans des fonctions de direction de la transformation, direction produit, direction des systèmes d’information ou direction de l’innovation.
@@ -367,6 +355,7 @@ Vous maîtrisez ou disposez d’une solide culture autour des sujets suivants :
     * développement applicatif ;
     * cybersécurité ;
     * pilotage de projets complexes et de partenaires.
+---
 
 Une expérience acquise dans une entreprise de services, un éditeur de logiciels, une ESN ou une entreprise fortement digitalisée sera particulièrement appréciée.
 
@@ -374,7 +363,6 @@ Au-delà de votre expertise, nous recherchons une personnalité capable de féd�
 
 Autonomie pour définir la feuille de route numérique du cabinet
 Prioriser les projets et construire progressivement une véritable direction de la transformation.
-
 
 Vous aurez l’opportunité d’avoir un impact direct et mesurable sur :
 - la productivité et le quotidien de nos équipe    
