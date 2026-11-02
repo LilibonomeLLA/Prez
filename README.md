@@ -32,7 +32,7 @@ style: |
 
 ⚠️ **Règles :** <span class="font-default">Les présentations n'engagent que leur auteur et ne doivent pas être copiées.</span>
 
-# Liste des Présentations Marp
+## Liste des Présentations Marp
 <style scoped>
   li { list-style-type: circle; color: black; }
 </style>
