@@ -141,7 +141,7 @@ Un élément supplémentaire mérite ton attention : le site carrière affiche a
 
 ## 3. Les éléments de motivation à mettre en avant
 
-###  1 — Rejoindre une entreprise où le SI est au cœur du métier
+### Axe 1 — Rejoindre une entreprise où le SI est au cœur du métier
 
 Le cabinet ne vend pas un produit informatique : il vend de l’expertise, du conseil, de la fiabilité et de la confiance. Son SI contribue directement à cette promesse.
 
@@ -207,22 +207,14 @@ L'entreprise indique que son entretien RH porte notamment sur le parcours, le pr
 |Quel est votre principal axe de progrès ?|Du recul sur toi-même et une capacité d'amélioration.|
 |Quelles sont vos attentes en matière de rémunération ?|La cohérence entre tes responsabilités, ton expérience et le poste.|
 
----
-
 ### Les trois messages à faire passer sur ton profil
 
-- Un DSI orienté métier : tu comprends que la technologie doit servir la stratégie, les clients et les collaborateurs.
-    
-- Un dirigeant capable d'arbitrer : tu sais prioriser, maîtriser les risques et rendre les décisions compréhensibles.
-    
+- Un DSI orienté métier : tu comprends que la technologie doit servir la stratégie, les clients et les collaborateurs.  
+- Un dirigeant capable d'arbitrer : tu sais prioriser, maîtriser les risques et rendre les décisions compréhensibles.   
 - Un manager qui embarque les équipes : tu sais expliquer les changements, écouter les utilisateurs et développer les compétences.
-    
 
-🕶️ Pour les questions sur tes réalisations, prépare trois exemples au format **STAR**
-
-
-|Situation|Tâche|Actions|Résultats|
-|--------|--------|--------|--------|
+|🥝 Pour les réalisations : **STAR** => |Situation|Tâche|Actions|Résultats|
+|--------|--------|--------|--------|--------|
 
 > Dans chaque exemple, chiffre le résultat dès que possible et distingue clairement ce que tu as personnellement réalisé de ce qui relève de l'équipe.*
 ---
@@ -312,7 +304,6 @@ Ses enjeux SI les plus visibles : continuité de service, sécurité et confiden
 
 ATH : **Association Technique d’Harmonisation** est une émanation de **32 cabinets** indépendants d’audit
 ![w:450px](img/2164946.png)
-
 Une vision équilibrée du management :
 
     Exiger sans pression excessive,
