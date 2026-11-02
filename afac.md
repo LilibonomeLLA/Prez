@@ -1,12 +1,24 @@
 ---
 marp: true
-_class: lead
+theme: A4        <!-- thème A4 ? -->
 paginate: true
 style: |
   section {
     width: 210mm;
     height: 297mm;
     padding: 15mm;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 14pt;
+    line-height: 1.5;
+  }
+  h1 {
+    font-size: 24pt;
+    margin-bottom: 10mm;
+  }
+  h2 {
+    font-size: 18pt;
+    margin-top: 5mm;
   }
 ---
 
