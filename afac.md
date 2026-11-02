@@ -6,7 +6,8 @@ style: |
   section {
     width: 210mm;
     height: 297mm;
-    padding: 20mm;    
+    /* Ajustement des marges : Haut Gauche/Droite Bas */
+    padding: 10mm 20mm 20mm 20mm; 
     /* Correction Alignement Vertical en haut */
     align-content: start; 
     font-size: 10pt;
@@ -20,18 +21,34 @@ style: |
     right: 20mm;
     font-size: 8pt;
     color: #666;
-  }  
+  }
+  section::after {
+    content: attr(data-marpit-pagination);
+    position: absolute;
+    bottom: 15mm;
+    right: 20mm;
+    font-size: 10pt;
+    color: #666;
+  }
   h1 {
     font-size: 16pt;
+    margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
+    margin-bottom: 8mm;  /* Espace sous le grand titre */
   }
   h2 {
     font-size: 14pt;
+    margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
+    margin-bottom: 6mm;  /* Espace sous le grand titre */
   }
   h3 {
     font-size: 13pt;
+    margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
+    margin-bottom: 6mm;  /* Espace sous le grand titre */
   }
   h4 {
     font-size: 11pt;
+    margin-top: 0;       /* Supprime la marge au-dessus du grand titre */
+    margin-bottom: 4mm;  /* Espace sous le grand titre */
   }
   
 ---
