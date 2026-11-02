@@ -2,8 +2,12 @@
 marp: true
 _class: lead
 paginate: true
-theme: a4-clean
-size: A4
+style: |
+  section {
+    width: 210mm;
+    height: 297mm;
+    padding: 15mm;
+  }
 ---
 
 # 🐉 Préparation à l’entretien RH — Directeur des systèmes d’information chez Caderas Martin
