@@ -216,7 +216,7 @@ L'entreprise indique que son entretien RH porte notamment sur le parcours, le pr
 |🥝 Pour les réalisations : **STAR** => |Situation|Tâche|Actions|Résultats|
 |--------|--------|--------|--------|--------|
 
-> Dans chaque exemple, chiffre le résultat dès que possible et distingue clairement ce que tu as personnellement réalisé de ce qui relève de l'équipe.*
+> Dans chaque exemple, chiffre le résultat dès que possible et distingue clairement ce que tu as personnellement réalisé de ce qui relève de l'équipe.
 ---
 
 ## 6. Les questions pertinentes à poser au recruteur
@@ -596,7 +596,7 @@ Le contexte appelle selon moi un **management responsabilisant, fédérateur et 
 
 Environnement où **l'écoute et la pédagogie** sont importantes, mais où la **clarté des responsabilités et des décisions** l'est tout autant.
 
-## Le modèle que je privilégierais : « cadre clair + autonomie + exigence »
+#### Le modèle que je privilégierais : « cadre clair + autonomie + exigence »
 
 Management autour de **4 piliers**.
 
@@ -665,20 +665,20 @@ Je donne donc beaucoup d'**autonomie sur le « comment »**, tout en étant trè
 
 Je suis également très attaché à la **transparence**. Je préfère qu'un problème soit remonté tôt, même s'il n'est pas encore résolu, plutôt que de découvrir trop tard qu'un sujet dérive. Pour moi, il doit être possible de dire qu'on rencontre une difficulté, à condition d'arriver avec une analyse et, si possible, des options.
 
-Enfin, je suis participatif dans la construction, mais je sais arbitrer. Je ne recherche pas le consensus à tout prix. Sur les sujets structurants, mon rôle est précisément de prendre la responsabilité de la décision et d'en assumer les conséquences.
+Enfin, je suis **participatif dans la construction**, mais je sais **arbitrer**. Je ne recherche pas le consensus à tout prix. Sur les sujets structurants, mon rôle est précisément de prendre la responsabilité de la décision et d'en assumer les conséquences.
 
-Avec une équipe de 15 à 20 personnes, mon ambition serait de construire une DSI responsabilisée, avec des leaders sur leurs domaines, qui fonctionne sans que tout remonte au DSI, tout en restant alignée sur une stratégie et des priorités communes.
+Avec une équipe de 15 à 20 personnes, mon ambition serait de construire une DSI responsabilisée, avec des leaders sur leurs domaines, qui fonctionne sans que tout remonte au DSI, tout en restant **alignée sur une stratégie** et des **priorités communes**.
 
 ---
 ## Dimension => management du changement
 
 Le  DSI doit  savoir **expliquer, convaincre et créer de l'adhésion**, pas simplement décider.
 
-<u>Posture :</u>
+🔋 <u>Posture :</u>
 
 **Écouter → comprendre → expliquer → proposer → arbitrer → embarquer → mesurer.**
 
-<br>
+<br><br>
 
 # Conclusion
 
@@ -688,7 +688,8 @@ Le  DSI doit  savoir **expliquer, convaincre et créer de l'adhésion**, pas sim
 
 > **« Mon objectif à terme serait que le DG puisse avoir confiance dans la DSI sans avoir besoin de la contrôler au quotidien. Il doit savoir que les sujets sont maîtrisés, que les risques sont remontés au bon niveau et que les arbitrages lui sont présentés lorsqu'ils relèvent réellement du CODIR. »**
 
-**Posture à viser pour ce poste** : 
+**Posture à viser pour ce poste** :
+
 DSI *fédérateur avec ses équipes,
 partenaire avec les métiers,
 transparent avec le DG et ferme sur les décisions qui relèvent de sa responsabilité.*
