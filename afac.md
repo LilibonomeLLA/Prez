@@ -402,7 +402,7 @@ Enfin, la **taille de la structure et de l’équipe** ainsi que l’étendue du
 C’est donc un poste qui me paraît particulièrement complet, avec une vraie capacité d’impact. Et c’est précisément ce que je recherche : rejoindre une organisation dont la mission m’intéresse, comprendre ses enjeux, construire une trajectoire SI pragmatique et embarquer les équipes et les métiers dans cette transformation.
 
 ---
-## 1. « Quelle serait votre priorité durant vos 100 premiers jours ? »
+# 1. « Quelle serait votre priorité durant vos 100 premiers jours ? »
 
 > « Ma priorité ne serait pas d'arriver avec un plan de transformation déjà écrit. Les 100 premiers jours seraient d'abord consacrés à comprendre, écouter et établir un diagnostic partagé.
 > 
@@ -693,6 +693,8 @@ Le  DSI doit  savoir **expliquer, convaincre et créer de l'adhésion**, pas sim
 DSI *fédérateur avec ses équipes,
 partenaire avec les métiers,
 transparent avec le DG et ferme sur les décisions qui relèvent de sa responsabilité.*
+
+---
 
 #### Les outils utilisés
 ![w:450px](img/too__.jpg)
