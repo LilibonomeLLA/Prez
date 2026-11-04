@@ -697,6 +697,7 @@ transparent avec le DG et ferme sur les décisions qui relèvent de sa responsab
 ---
 
 #### Les outils utilisés
-![w:450px](img/too__.jpg)
+![w:400px](img/too__.jpg)
+
 #### Les valeurs
-![w:450px](img/valeurs__afac.jpg)
+![w:350px](img/valeurs__afac.jpg)
