@@ -701,3 +701,7 @@ transparent avec le DG et ferme sur les décisions qui relèvent de sa responsab
 
 #### Les valeurs
 ![w:350px](img/valeurs__afac.jpg)
+
+---
+### Adresse
+![w:500px](img/adr_caderas_m.jpg)
