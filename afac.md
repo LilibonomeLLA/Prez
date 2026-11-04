@@ -72,7 +72,7 @@ Pour un poste de DSI, il faut articuler ton discours autour de la stratégie de 
 
 📃 Site officiel : [caderas-martin.com](https://www.caderas-martin.com/?utm_source=chatgpt.com) 
 
-![w:580px](img/139.png)
+![w:6000px](img/139.png)
 
 🕐 Rapport de transparence 2025 : le chiffre d’affaires publié dans ce rapport atteint 19,011 M€ HT au 31 août 2025.
 
@@ -693,3 +693,8 @@ Le  DSI doit  savoir **expliquer, convaincre et créer de l'adhésion**, pas sim
 DSI *fédérateur avec ses équipes,
 partenaire avec les métiers,
 transparent avec le DG et ferme sur les décisions qui relèvent de sa responsabilité.*
+
+#### Les outils utilisés
+
+![w:450px](img/too__.jpg)
+
